@@ -3,7 +3,7 @@ name: Update Master Playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 */6 * * *'
 
 jobs:
   build:
@@ -21,39 +21,22 @@ jobs:
         run: |
           wget -O sources/lgtv.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/lgtv.m3u
           wget -O sources/jtv.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u
-          wget -O sources/z5.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
+          wget https://raw.githubusercontent.com/fakeall12398-sketch/JIO_TV/refs/heads/main/zee.m3u
 
-      - name: Build master playlist (deduped)
+      - name: Build master playlist
         run: |
           echo "#EXTM3U" > build/master.m3u
-          (
-            # Include static channels
-            if [ -f static/my_static.m3u ]; then
-              sed '1d' static/my_static.m3u
-            fi
-            # Include all sources
-            for f in sources/*.m3u; do
-              sed '1d' "$f"
-            done
-          ) | awk '!seen[$0]++' >> build/master.m3u
-
-      - name: Update channel categories (group-title)
-        run: |
-          # Example category updates
-          sed -i '/Zee Talkies HD/ s/group-title="[^"]*"/group-title="Movies"/' build/master.m3u
-          sed -i '/Zee 24 Taas/ s/group-title="[^"]*"/group-title="News"/' build/master.m3u
-          sed -i '/Zee Chitramandir/ s/group-title="[^"]*"/group-title="Movies"/' build/master.m3u
-          sed -i '/Zee Marathi/ s/group-title="[^"]*"/group-title="Entertainment"/' build/master.m3u
-          sed -i '/Zee Marathi HD/ s/group-title="[^"]*"/group-title="Entertainment"/' build/master.m3u
-          sed -i '/Zee Talkies/ s/group-title="[^"]*"/group-title="Movies"/' build/master.m3u
-          sed -i '/Zee Yuva/ s/group-title="[^"]*"/group-title="Entertainment"/' build/master.m3u
-
-          # Add more channels/categories as needed
+          if [ -f static/my_static.m3u ]; then
+            sed '1d' static/my_static.m3u >> build/master.m3u
+          fi
+          for f in sources/*.m3u; do
+            sed '1d' "$f" >> build/master.m3u
+          done
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add build/master.m3u
-          git commit -m "Auto update master playlist" || echo "No changes"
+          git add .
+          git commit -m "Auto update master playlist" || true
           git push
