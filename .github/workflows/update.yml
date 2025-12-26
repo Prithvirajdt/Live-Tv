@@ -2,7 +2,7 @@ name: Update Master Playlist
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *'  # every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -10,36 +10,55 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch playlists
+      - name: Fetch external playlists
         run: |
           mkdir -p sources build
+          # Fetch external playlists
           curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/lgtv.m3u -o sources/lgtv.m3u
           curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u -o sources/jtv.m3u
           curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u -o sources/z5.m3u
 
-      - name: Build master playlist (selected channels only)
+      - name: Build master playlist (exact channel names + HD/SD)
         run: |
           echo "#EXTM3U" > build/master.m3u
+
+          # List of exact channel names to keep (main names only, HD/SD allowed)
+          CHANNELS="&TV Anmol TV Big Magic Colors Colors Infinity Colors Marathi Colors Rishtey Dangal Shemaroo TV Shemaroo Umang SET Sony Pal Sony SAB Star Bharat Star Plus Star Pravah Star Utsav Sun Neo Sun Marathi Zee TV Zee Marathi Zee Yuva Zee Café Zing &Pictures &Pictures &Xplore &Flix &Privé Zee Anmol Cinema Colors Cineplex Colors Cineplex Bollywood Colors Cineplex HD Colors Cineplex Superhit Shemaroo MarathiBana Sony Max Sony Yay Sonic Cartoon Network Pogo Discovery Kids Nickelodeon Jr. Nick Power Kids TV Super Hungama Hungama Disney International Disney Junior Disney Channel Animax"
+
           (
+            # Include static channels if file exists
             if [ -f static/my_static.m3u ]; then
               sed '1d' static/my_static.m3u
             fi
 
+            # Include all sources
             for f in sources/*.m3u; do
               sed '1d' "$f"
             done
-          ) | awk -v wanted="&tv|anmol tv|big magic|colors hd|colors infinity|colors marathi|colors rishtey|dangal|shemaroo tv|shemaroo umang|set hd|sony pal|sony sab hd|star bharat hd|star plus hd|star pravah hd|star utsav|sun neo hd|sun marathi|zee tv hd|zee marathi hd|zee yuva|zee café hd|zing|&pictures|&pictures hd|&xplore hd|&flix hd|&privé hd|zee anmol cinema|colors cineplex|colors cineplex bollywood|colors cineplex hd|colors cineplex superhit|shemaroo marathibana|sony max sd|sony max hd|sony max1|sony max2|sony yay|sonic hindi|cartoon network hindi|pogo hindi|discovery kids hindi|nickelodeon jr|nick hindi|cartoon network hd\+ hindi|power kids tv|super hungama|hungama|disney international hd|disney junior|disney channel|nick hd\+|animax" '
-          BEGIN {IGNORECASE=1}
-          /^#EXTINF/ { extinf=$0; getline url; if (extinf ~ wanted && !seen[url]++) { print extinf; print url } }
-          ' >> build/master.m3u
+          ) | awk -v channels="$CHANNELS" '
+          BEGIN {
+              split(channels, ch_arr, " ")
+          }
+          /^#EXTINF/ {
+              extinf=$0
+              getline url
+              for(i in ch_arr){
+                  # Match main channel name at start, optional HD/SD at end
+                  pattern="^#EXTINF:-?[0-9]*.*" ch_arr[i] "( HD| SD)?"
+                  if (extinf ~ pattern && !seen[url]++) {
+                      print extinf
+                      print url
+                  }
+              }
+          }' >> build/master.m3u
 
-      - name: Commit changes
+      - name: Commit updated master playlist
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add .
-          git commit -m "Auto update playlist" || echo "No changes"
+          git add build/master.m3u
+          git commit -m "Auto update master playlist" || echo "No changes"
           git push
