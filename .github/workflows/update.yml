@@ -3,7 +3,7 @@ name: Update Master Playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *'  # Runs every 6 hours
 
 jobs:
   build:
@@ -26,17 +26,21 @@ jobs:
       - name: Build master playlist
         run: |
           echo "#EXTM3U" > build/master.m3u
+
+          # Add static channels if present
           if [ -f static/my_static.m3u ]; then
-            sed '1d' static/my_static.m3u >> build/master.m3u
+            tail -n +2 static/my_static.m3u | sed -E 's/(#EXTINF:-1).*group-title="([^"]*)"(.*)/\1 group-title="\2",\3/' >> build/master.m3u
           fi
+
+          # Process source playlists
           for f in sources/*.m3u; do
-            sed '1d' "$f" >> build/master.m3u
+            tail -n +2 "$f" | sed -E 's/(#EXTINF:-1).*group-title="([^"]*)"(.*)/\1 group-title="\2",\3/' >> build/master.m3u
           done
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add .
+          git add build/master.m3u
           git commit -m "Auto update master playlist" || true
           git push
