@@ -1,64 +1,42 @@
 name: Update Master Playlist
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'  # every 6 hours
   workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Fetch external playlists
+      - name: Create folders
         run: |
-          mkdir -p sources build
-          # Fetch external playlists
-          curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/lgtv.m3u -o sources/lgtv.m3u
-          curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u -o sources/jtv.m3u
-          curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u -o sources/z5.m3u
+          mkdir -p sources
+          mkdir -p build
 
-      - name: Build master playlist (exact channel names + HD/SD)
+      - name: Download playlists
+        run: |
+          wget -O sources/lgtv.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/lgtv.m3u
+          wget -O sources/jtv.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u
+          wget -O sources/z5.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
+
+      - name: Build master playlist
         run: |
           echo "#EXTM3U" > build/master.m3u
+          if [ -f static/my_static.m3u ]; then
+            sed '1d' static/my_static.m3u >> build/master.m3u
+          fi
+          for f in sources/*.m3u; do
+            sed '1d' "$f" >> build/master.m3u
+          done
 
-          # List of exact channel names to keep (main names only, HD/SD allowed)
-          CHANNELS="&TV Anmol TV Big Magic Colors Colors Infinity Colors Marathi Colors Rishtey Dangal Shemaroo TV Shemaroo Umang SET Sony Pal Sony SAB Star Bharat Star Plus Star Pravah Star Utsav Sun Neo Sun Marathi Zee TV Zee Marathi Zee Yuva Zee Café Zing &Pictures &Pictures &Xplore &Flix &Privé Zee Anmol Cinema Colors Cineplex Colors Cineplex Bollywood Colors Cineplex HD Colors Cineplex Superhit Shemaroo MarathiBana Sony Max Sony Yay Sonic Cartoon Network Pogo Discovery Kids Nickelodeon Jr. Nick Power Kids TV Super Hungama Hungama Disney International Disney Junior Disney Channel Animax"
-
-          (
-            # Include static channels if file exists
-            if [ -f static/my_static.m3u ]; then
-              sed '1d' static/my_static.m3u
-            fi
-
-            # Include all sources
-            for f in sources/*.m3u; do
-              sed '1d' "$f"
-            done
-          ) | awk -v channels="$CHANNELS" '
-          BEGIN {
-              split(channels, ch_arr, " ")
-          }
-          /^#EXTINF/ {
-              extinf=$0
-              getline url
-              for(i in ch_arr){
-                  # Match main channel name at start, optional HD/SD at end
-                  pattern="^#EXTINF:-?[0-9]*.*" ch_arr[i] "( HD| SD)?"
-                  if (extinf ~ pattern && !seen[url]++) {
-                      print extinf
-                      print url
-                  }
-              }
-          }' >> build/master.m3u
-
-      - name: Commit updated master playlist
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add build/master.m3u
-          git commit -m "Auto update master playlist" || echo "No changes"
+          git add .
+          git commit -m "Auto update master playlist" || true
           git push
