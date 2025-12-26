@@ -20,7 +20,6 @@ jobs:
         curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u -o sources/jtv.m3u
         curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u -o sources/z5.m3u
 
-- name: Build master playlist (selected channels only)
   run: |
     echo "#EXTM3U" > build/master.m3u
 
