@@ -18,7 +18,6 @@ jobs:
         mkdir -p sources build
         curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/lgtv.m3u -o sources/lgtv.m3u
         curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u -o sources/jtv.m3u
-        curl -L https://raw.githubusercontent.com/fakeall12398-sketch/JIO_TV/refs/heads/main/sony.m3u -o sources/sony.m3u
         curl -L https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u -o sources/z5.m3u
 
     - name: Build master playlist
