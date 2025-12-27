@@ -1,2 +1,37 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="20359" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCj-A1nCwvy0a1Voo12QRwJXh-zBC8RSCrUQ&s" group-title="Entertainment",COMEDY CENTRAL  
+https://allinonereborn.xyz/push4k/index.php?id=20359
+
+#EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-country="IN" tvg-chno="039" tvg-language="hi" tvg-name="Anmol Cinema 2" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg" group-title="Movies", Anmol Cinema 2
+https://allinonereborn.xyz/filex.m3u8/live.php?id=701404
+
+#EXTINF:-1 tvg-id="Goldmines.Movies.in" tvg-name="GOLDMINES MOVIES" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",GOLDMINES MOVIES 
+https://allinonereborn.xyz/filex.m3u8/live.php?id=701300
+
+#EXTINF:-1 tvg-id="Goldmines.Bollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg/revision/latest?cb=20220401125831" group-title="Movies",Goldmines Bollywood 
+https://allinonereborn.xyz/filex.m3u8/live.php?id=701303 
+
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies",Goldmines 
+https://allinonereborn.xyz/filex.m3u8/live.php?id=701302 
+
+#EXTINF:-1 tvg-id="22136" tvg-logo="https://www.pngkey.com/png/full/107-1070590_movies-now-movies-now-logo-png.png" group-title="Movies",MOVIES NOW 
+https://allinonereborn.xyz/push4k/index.php?id=22136
+
+#EXTINF:-1 tvg-id="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Movies",MNX HD 
+https://allinonereborn.xyz/push4k/index.php?id=350
+
+#EXTINF:-1 tvg-id="7134" tvg-logo="http://tv.push4k2989.tv/stalker_portal/misc/logos/320/6720.png" group-title="Movies",MN PLUS 
+https://allinonereborn.xyz/push4k/index.php?id=7134 
+
+#EXTINF:-1 tvg-id="7137" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="Movies",ROMEDY NOW 
+https://allinonereborn.xyz/push4k/index.php?id=7137
+
+#EXTINF:-1 tvg-id="14443" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBU_M3ZLhgWHqPVckd7fB-Tjxt0z3dQC3uw&s" group-title="Kids",DISNEY XD  
+https://allinonereborn.xyz/push4k/index.php?id=14443
+
+#EXTINF:-1 tvg-id="15434" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/1a038637330639.Y3JvcCwxMzc5LDEwODAsMjcwLDA.jpg" group-title="Kids",YTV  
+https://allinonereborn.xyz/push4k/index.php?id=15434 
