@@ -19,7 +19,7 @@ jobs:
 
       - name: Download playlists
         run: |
-          wget -O sources/lgtv.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/lgtv.m3u
+          wget -O sources/lgtv https://raw.githubusercontent.com/Prithvirajdt/playlist/refs/heads/main/lgtv
           wget -O sources/jtv.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u
           wget -O sources/zee.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 
