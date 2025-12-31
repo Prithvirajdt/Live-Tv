@@ -19,6 +19,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 #EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Entertainment", Shorts TV Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_29_41-AM-1-185x278.png" group-title="Movies", Bollywood Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-7-2025-12_42_53-PM-200x300.png" group-title="Movies", Superfine Films
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-01_43_03-PM-1-200x300.png" group-title="Movies", Hollywood Desi
+https://cc-u6hadnoh0u6td.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u6hadnoh0u6td/OTM/OTM_HollywoodActionHindi-SCTE_SAMSUNG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-01_58_56-PM-1-200x300.png" group-title="Movies", South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+
 #EXTINF:-1 tvg-id="Goldmines.Movies.in" tvg-name="GOLDMINES MOVIES" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",GOLDMINES MOVIES 
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
@@ -28,19 +40,22 @@ https://ranapk.online/OPPLEX/RANAPK5/play.php?id=112973||http-user-agent=RANAPK
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies",Goldmines 
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Movies",Goldmines Movies 2
+#EXTINF:-1 tvg-name="Goldmines Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfBYPX3P4Uvxsc3neAFiMKVxfzNeVCLlKkfA&s" group-title="Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="22136" tvg-logo="https://www.pngkey.com/png/full/107-1070590_movies-now-movies-now-logo-png.png" group-title="Movies",MOVIES NOW 
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2023/08/ChatGPT-Image-Sep-4-2025-08_21_25-AM-1-200x300.png" group-title="Movies", Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="22136" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnRfn0G4jIjI1hVLm9_AtXFweW9TJf1oR1A&s" group-title="Movies",MOVIES NOW 
 https://allinonereborn.xyz/push4k/index.php?id=22136
 
-#EXTINF:-1 tvg-id="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Movies",MNX HD 
+#EXTINF:-1 tvg-id="350" tvg-logo="https://exchange4media.gumlet.io/news-photo/1500623177_bHn3Jl_69760.jpg" group-title="Movies",MNX HD 
 https://allinonereborn.xyz/push4k/index.php?id=350
 
-#EXTINF:-1 tvg-id="7134" tvg-logo="http://tv.push4k2989.tv/stalker_portal/misc/logos/320/6720.png" group-title="Movies",MN PLUS 
+#EXTINF:-1 tvg-id="7134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Movies",MN PLUS 
 https://allinonereborn.xyz/push4k/index.php?id=7134 
 
 #EXTINF:-1 tvg-id="7137" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="Movies",ROMEDY NOW 
