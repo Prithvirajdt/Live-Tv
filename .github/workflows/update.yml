@@ -113,3 +113,4 @@ jobs:
             git push || echo "Push failed (probably no changes)"
           else
             echo "Playlist file $PLAYLIST not found, skipping commit"
+          fi
