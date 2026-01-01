@@ -10,33 +10,46 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Create folders
         run: |
           mkdir -p sources
           mkdir -p build
 
-      - name: Download playlists
+      - name: Download playlists (sources hidden)
+        env:
+          SRC_LGTV: ${{ secrets.SRC_LGTV }}
+          SRC_JTV:  ${{ secrets.SRC_JTV }}
+          SRC_ZEE5: ${{ secrets.SRC_ZEE5 }}
         run: |
-          wget -O sources/lgtv.m3u https://raw.githubusercontent.com/Prithvirajdt/playlist/refs/heads/main/lgtv.m3u
-          wget -O sources/jtv.m3u https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jtv.m3u
-          wget -O sources/zee5.m3u https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/zee5.m3u
+          wget -q -O sources/lgtv.m3u "$SRC_LGTV"
+          wget -q -O sources/jtv.m3u  "$SRC_JTV"
+          wget -q -O sources/zee5.m3u "$SRC_ZEE5"
 
       - name: Build master playlist
         run: |
           echo "#EXTM3U" > build/master.m3u
+
+          # Append static playlist (if exists)
           if [ -f static/my_static.m3u ]; then
             sed '1d' static/my_static.m3u >> build/master.m3u
           fi
+
+          # Append downloaded playlists
           for f in sources/*.m3u; do
             sed '1d' "$f" >> build/master.m3u
           done
 
-      - name: Commit changes
+          # Extra safety: remove any accidental source references
+          sed -i '/githubusercontent.com/d' build/master.m3u
+          sed -i '/raw.githubusercontent.com/d' build/master.m3u
+
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add .
+          git add build/master.m3u
           git commit -m "Auto update master playlist" || true
           git push
