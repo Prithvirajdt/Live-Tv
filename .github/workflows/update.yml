@@ -20,19 +20,23 @@ jobs:
 
       - name: Download playlists (sources hidden)
         env:
-          SRC_LGTV: ${{ secrets.SRC_LGTV }}
-          SRC_JTV:  ${{ secrets.SRC_JTV }}
-          SRC_ZEE5: ${{ secrets.SRC_ZEE5 }}
+          SRC_LGTV:    ${{ secrets.SRC_LGTV }}
+          SRC_JTV:     ${{ secrets.SRC_JTV }}
+          SRC_ZEE5:    ${{ secrets.SRC_ZEE5 }}
+          SRC_TATA_TV: ${{ secrets.SRC_TATA_TV }}
         run: |
-          wget -q -O sources/lgtv.m3u "$SRC_LGTV"
-          wget -q -O sources/jtv.m3u  "$SRC_JTV"
-          wget -q -O sources/zee5.m3u "$SRC_ZEE5"
+          wget -q -O sources/lgtv.m3u     "$SRC_LGTV"
+          wget -q -O sources/jtv.m3u      "$SRC_JTV"
+          wget -q -O sources/zee5.m3u     "$SRC_ZEE5"
+          wget -q -O sources/tata_tv.m3u  "$SRC_TATA_TV"
 
       - name: Build master playlist
         run: |
           echo "#EXTM3U" > build/master.m3u
 
-          # Static playlist (unchanged)
+          # -------------------------
+          # Static playlist (optional)
+          # -------------------------
           if [ -f static/my_static.m3u ]; then
             sed '1d' static/my_static.m3u >> build/master.m3u
           fi
@@ -54,6 +58,24 @@ jobs:
           fi
 
           # -------------------------
+          # TATA TV → ONLY KIDS - 24X7
+          # RENAMED TO Kids 24/7
+          # -------------------------
+          if [ -f sources/tata_tv.m3u ]; then
+            sed '1d' sources/tata_tv.m3u \
+            | awk '
+                /^#EXTINF/ {
+                  keep = ($0 ~ /group-title="KIDS - 24X7"/)
+                  if (keep) {
+                    gsub(/group-title="KIDS - 24X7"/, "group-title=\"Kids 24/7\"")
+                  }
+                }
+                keep { print }
+              ' \
+            >> build/master.m3u
+          fi
+
+          # -------------------------
           # LGTV (unchanged)
           # -------------------------
           if [ -f sources/lgtv.m3u ]; then
@@ -67,7 +89,9 @@ jobs:
             sed '1d' sources/jtv.m3u >> build/master.m3u
           fi
 
-          # Safety: remove any source references
+          # -------------------------
+          # Safety cleanup
+          # -------------------------
           sed -i '/githubusercontent.com/d' build/master.m3u
           sed -i '/raw.githubusercontent.com/d' build/master.m3u
 
