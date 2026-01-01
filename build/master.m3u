@@ -96,15 +96,15 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105528/ANDPicturesELE/master.m3u8?hdnt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Entertainment",Zee Marathi
+#EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Entertainment",Zee Anmol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Entertainment",Zee Marathi Cinema
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Entertainment",Zee Anmol Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-bigganga" group-title="Entertainment",Zee Marathi Cinema 2
+#EXTINF:-1 tvg-id="0-9-bigganga" group-title="Entertainment",Zee Anmol Cinema 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
@@ -200,7 +200,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdntl=ex
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-bigganga" group-title="Entertainment",Zee Marathi Cinema 2
+#EXTINF:-1 tvg-id="0-9-bigganga" group-title="Entertainment",Zee Anmol Cinema 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
