@@ -144,10 +144,10 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8?hdntl=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
+#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",Zee 24 Kalak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105497/ZEE24KALAKELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-zee24taas" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png",Zee 24 Taas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105498/ZEE24TAASNEWSNEWELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
@@ -186,11 +186,11 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
+#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Entertainment",Zee Marathi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
+#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Entertainment",Zee Yuva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
@@ -220,7 +220,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD
+#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Movies",Zee Talkies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
@@ -270,7 +270,7 @@ https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index-connected
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105542/ZeePiccharELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-394" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",Zee Chitramandir
+#EXTINF:-1 tvg-id="0-9-394" group-title="Movies",Zee Chitramandir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
@@ -283,7 +283,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-9z5383486" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi
+#EXTINF:-1 tvg-id="0-9-9z5383486" group-title="Entertainment",Zee Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
@@ -302,6 +302,7 @@ https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8?hdntl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
+#EXTINF:-1 tvg-id="0-9-9z5398791" group-title="Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",Aastha Gujarati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
@@ -311,7 +312,7 @@ https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8?hdntl=exp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
-#EXTINF:-1 tvg-id="0-9-9z5383489" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies
+#EXTINF:-1 tvg-id="0-9-9z5383489" group-title="Movies",Zee Talkies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl=exp=1767336722~acl=%2f*~id=9f143aea-5347-43f2-adcf-48fc8ab69887~data=hdntl~hmac=e31b80f403c05faab9a1710a2280f975befa906daca0bb54a232425c13c75174
 
