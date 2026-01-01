@@ -40,12 +40,13 @@ jobs:
 
       - name: Build master playlist
         run: |
-          PLAYLIST="build/VortexVision.xyn"
-          echo "#EXTM3U" > "$PLAYLIST"
+          # Fixed path for master playlist
+          mkdir -p build
+          echo "#EXTM3U" > build/VortexVision.xyn
 
           # Append static playlist if exists
           if [ -f static/my_static.m3u ]; then
-            sed '1d' static/my_static.m3u >> "$PLAYLIST"
+            sed '1d' static/my_static.m3u >> build/VortexVision.xyn
           fi
 
           # -------------------------
@@ -57,11 +58,11 @@ jobs:
             | grep -Ev ',Zee 24 Taas$' \
             | sed \
                 -e 's/group-title="[^"]*".*,Zee Chitramandir$/group-title="Movies",Zee Chitramandir/' \
-                -e 's/group-title="[^"]*".*,Zee Talkies/group-title="Movies",Zee Talkies/' \
-                -e 's/group-title="[^"]*".*,Zee Marathi/group-title="Entertainment",Zee Marathi/' \
+                -e 's/group-title="[^"]*".*,Zee Talkies$/group-title="Movies",Zee Talkies/' \
+                -e 's/group-title="[^"]*".*,Zee Marathi$/group-title="Entertainment",Zee Marathi/' \
                 -e 's/group-title="[^"]*".*,Zee Anmol$/group-title="Entertainment",Zee Anmol/' \
-                -e 's/group-title="[^"]*".*,Zee Yuva/group-title="Entertainment",Zee Yuva/' \
-            >> "$PLAYLIST"
+                -e 's/group-title="[^"]*".*,Zee Yuva$/group-title="Entertainment",Zee Yuva/' \
+            >> build/VortexVision.xyn
           fi
 
           # -------------------------
@@ -78,39 +79,39 @@ jobs:
                 }
                 keep { print }
               ' \
-            >> "$PLAYLIST"
+            >> build/VortexVision.xyn
           fi
 
           # -------------------------
           # LGTV (unchanged)
           # -------------------------
           if [ -f sources/lgtv.m3u ]; then
-            sed '1d' sources/lgtv.m3u >> "$PLAYLIST"
+            sed '1d' sources/lgtv.m3u >> build/VortexVision.xyn
           fi
 
           # -------------------------
           # JioTV (unchanged)
           # -------------------------
           if [ -f sources/jtv.m3u ]; then
-            sed '1d' sources/jtv.m3u >> "$PLAYLIST"
+            sed '1d' sources/jtv.m3u >> build/VortexVision.xyn
           fi
 
           # -------------------------
           # Safety cleanup
           # -------------------------
-          sed -i '/githubusercontent.com/d' "$PLAYLIST"
-          sed -i '/raw.githubusercontent.com/d' "$PLAYLIST"
+          sed -i '/githubusercontent.com/d' build/VortexVision.xyn
+          sed -i '/raw.githubusercontent.com/d' build/VortexVision.xyn
 
       - name: Commit and push playlist
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          if [ -f "$PLAYLIST" ]; then
-            git add "$PLAYLIST"
+          if [ -f build/VortexVision.xyn ]; then
+            git add build/VortexVision.xyn
             # Only commit if there are changes
             git diff-index --quiet HEAD || git commit -m "Auto update VortexVision playlist"
             git push || echo "Push failed (probably no changes)"
           else
-            echo "Playlist file $PLAYLIST not found, skipping commit"
-          fi
+            echo "Playlist file build/VortexVision.xyn not found, skipping commit"
+
