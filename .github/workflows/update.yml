@@ -40,13 +40,10 @@ jobs:
 
       - name: Build master playlist
         run: |
-          # MASTER PLAYLIST NAME (unrelated extension)
           PLAYLIST="build/VortexVision.xyn"
           echo "#EXTM3U" > "$PLAYLIST"
 
-          # -------------------------
-          # Static playlist (optional)
-          # -------------------------
+          # Append static playlist if exists
           if [ -f static/my_static.m3u ]; then
             sed '1d' static/my_static.m3u >> "$PLAYLIST"
           fi
