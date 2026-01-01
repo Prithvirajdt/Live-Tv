@@ -37,19 +37,33 @@ jobs:
             sed '1d' static/my_static.m3u >> build/master.m3u
           fi
 
-          # ZEE5 → keep categories BUT EXCLUDE selected languages
+          # -------------------------
+          # ZEE5 PROCESSING
+          # -------------------------
           if [ -f sources/zee5.m3u ]; then
             sed '1d' sources/zee5.m3u \
-              | grep -Ev 'group-title="(Bengali|Gujarati|Kannada|Malayalam|Odia|Punjabi|Spiritual|Tamil|Telugu)"' \
-              >> build/master.m3u
+            | grep -Ev 'group-title="(Bengali|Gujrati|Kannada|Malayalam|Odia|Punjabi|Spiritual|Tamil|Telugu)"' \
+            | grep -Ev ',Zee 24 Taas$' \
+            | sed \
+                -e 's/group-title="[^"]*".*,Zee Chitramandir/group-title="Movies",Zee Chitramandir/' \
+                -e 's/group-title="[^"]*".*,Zee Talkies HD/group-title="Movies",Zee Talkies HD/' \
+                -e 's/group-title="[^"]*".*,Zee Talkies/group-title="Movies",Zee Talkies/' \
+                -e 's/group-title="[^"]*".*,Zee Marathi HD/group-title="Entertainment",Zee Marathi HD/' \
+                -e 's/group-title="[^"]*".*,Zee Marathi/group-title="Entertainment",Zee Marathi/' \
+                -e 's/group-title="[^"]*".*,Zee Yuva/group-title="Entertainment",Zee Yuva/' \
+            >> build/master.m3u
           fi
 
-          # LGTV → unchanged
+          # -------------------------
+          # LGTV (unchanged)
+          # -------------------------
           if [ -f sources/lgtv.m3u ]; then
             sed '1d' sources/lgtv.m3u >> build/master.m3u
           fi
 
-          # JioTV → unchanged
+          # -------------------------
+          # JioTV (unchanged)
+          # -------------------------
           if [ -f sources/jtv.m3u ]; then
             sed '1d' sources/jtv.m3u >> build/master.m3u
           fi
