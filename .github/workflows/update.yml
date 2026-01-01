@@ -32,19 +32,21 @@ jobs:
         run: |
           echo "#EXTM3U" > build/master.m3u
 
-          # Append static playlist (unchanged)
+          # Static playlist (unchanged)
           if [ -f static/my_static.m3u ]; then
             sed '1d' static/my_static.m3u >> build/master.m3u
           fi
 
-          # LGTV → prefix category with LGTV
-          if [ -f sources/lgtv.m3u ]; then
-            sed '1d; s/group-title="/group-title="LGTV - /g' sources/lgtv.m3u >> build/master.m3u
+          # ZEE5 → keep categories BUT EXCLUDE selected languages
+          if [ -f sources/zee5.m3u ]; then
+            sed '1d' sources/zee5.m3u \
+              | grep -Ev 'group-title="(Bengali|Gujarati|Kannada|Malayalam|Odia|Punjabi|Spiritual|Tamil|Telugu)"' \
+              >> build/master.m3u
           fi
 
-          # ZEE5 → prefix category with ZEE5
-          if [ -f sources/zee5.m3u ]; then
-            sed '1d; s/group-title="/group-title="ZEE5 - /g' sources/zee5.m3u >> build/master.m3u
+          # LGTV → unchanged
+          if [ -f sources/lgtv.m3u ]; then
+            sed '1d' sources/lgtv.m3u >> build/master.m3u
           fi
 
           # JioTV → unchanged
