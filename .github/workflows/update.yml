@@ -114,4 +114,5 @@ jobs:
             git push || echo "Push failed (probably no changes)"
           else
             echo "Playlist file build/VortexVision.xyn not found, skipping commit"
+          fi
 
