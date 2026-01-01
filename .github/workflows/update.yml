@@ -13,10 +13,18 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Create folders
+      - name: Ensure build folder exists
+        run: |
+          mkdir -p build
+          # Add .gitkeep to ensure folder is tracked
+          touch build/.gitkeep
+          git add build/.gitkeep
+          git commit -m "Ensure build folder exists" || echo "Folder already exists"
+          git push || echo "Push failed (probably no changes)"
+
+      - name: Create sources folder
         run: |
           mkdir -p sources
-          mkdir -p build
 
       - name: Download playlists (sources hidden)
         env:
@@ -96,16 +104,15 @@ jobs:
           sed -i '/githubusercontent.com/d' "$PLAYLIST"
           sed -i '/raw.githubusercontent.com/d' "$PLAYLIST"
 
-      - name: Commit and push
+      - name: Commit and push playlist
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # Only commit if file exists and has changes
           if [ -f "$PLAYLIST" ]; then
             git add "$PLAYLIST"
+            # Only commit if there are changes
             git diff-index --quiet HEAD || git commit -m "Auto update VortexVision playlist"
-            git push
+            git push || echo "Push failed (probably no changes)"
           else
             echo "Playlist file $PLAYLIST not found, skipping commit"
-          fi
