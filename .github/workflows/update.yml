@@ -32,17 +32,27 @@ jobs:
         run: |
           echo "#EXTM3U" > build/master.m3u
 
-          # Append static playlist (if exists)
+          # Append static playlist (unchanged)
           if [ -f static/my_static.m3u ]; then
             sed '1d' static/my_static.m3u >> build/master.m3u
           fi
 
-          # Append downloaded playlists
-          for f in sources/*.m3u; do
-            sed '1d' "$f" >> build/master.m3u
-          done
+          # LGTV → prefix category with LGTV
+          if [ -f sources/lgtv.m3u ]; then
+            sed '1d; s/group-title="/group-title="LGTV - /g' sources/lgtv.m3u >> build/master.m3u
+          fi
 
-          # Extra safety: remove any accidental source references
+          # ZEE5 → prefix category with ZEE5
+          if [ -f sources/zee5.m3u ]; then
+            sed '1d; s/group-title="/group-title="ZEE5 - /g' sources/zee5.m3u >> build/master.m3u
+          fi
+
+          # JioTV → unchanged
+          if [ -f sources/jtv.m3u ]; then
+            sed '1d' sources/jtv.m3u >> build/master.m3u
+          fi
+
+          # Safety: remove any source references
           sed -i '/githubusercontent.com/d' build/master.m3u
           sed -i '/raw.githubusercontent.com/d' build/master.m3u
 
