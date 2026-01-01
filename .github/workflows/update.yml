@@ -32,7 +32,7 @@ jobs:
 
       - name: Build master playlist
         run: |
-          # MASTER PLAYLIST NAME with unrelated extension
+          # MASTER PLAYLIST NAME (unrelated extension)
           PLAYLIST="build/VortexVision.xyn"
           echo "#EXTM3U" > "$PLAYLIST"
 
@@ -100,6 +100,12 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add "$PLAYLIST"
-          git commit -m "Auto update Vortex Vision playlist" || true
-          git push
+
+          # Only commit if file exists and has changes
+          if [ -f "$PLAYLIST" ]; then
+            git add "$PLAYLIST"
+            git diff-index --quiet HEAD || git commit -m "Auto update VortexVision playlist"
+            git push
+          else
+            echo "Playlist file $PLAYLIST not found, skipping commit"
+          fi
