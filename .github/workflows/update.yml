@@ -50,7 +50,7 @@ jobs:
                 -e 's/group-title="[^"]*".*,Zee Talkies/group-title="Movies",Zee Talkies/' \
                 -e 's/group-title="[^"]*".*,Zee Marathi HD/group-title="Entertainment",Zee Marathi HD/' \
                 -e 's/group-title="[^"]*".*,Zee Marathi/group-title="Entertainment",Zee Marathi/' \
-                -e 's/group-title="[^"]*".*,Zee Anmol/group-title="Entertainment",Zee Marathi/' \
+                -e 's/group-title="[^"]*".*,Zee Anmol/group-title="Entertainment",Zee Anmol/' \
                 -e 's/group-title="[^"]*".*,Zee Yuva/group-title="Entertainment",Zee Yuva/' \
             >> build/master.m3u
           fi
