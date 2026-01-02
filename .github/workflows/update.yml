@@ -76,10 +76,10 @@ jobs:
             sed '1d' sources/iptv_in.m3u \
             | awk '
                 /^#EXTINF/ {
-                  if ($0 ~ /,Epic TV$/) {
+                  if ($0 ~ /,Epic TV (1080p)$/) {
                     gsub(/group-title="[^"]*"/, "group-title=\"Entertainment\"")
                     keep=1
-                  } else if ($0 ~ /,ETV Bal Bharat$/) {
+                  } else if ($0 ~ /,ETV Bal Bharat (576p)$/) {
                     gsub(/group-title="[^"]*"/, "group-title=\"Kids\"")
                     keep=1
                   } else {
