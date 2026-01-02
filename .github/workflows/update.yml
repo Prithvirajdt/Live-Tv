@@ -32,11 +32,15 @@ jobs:
           SRC_JTV:     ${{ secrets.SRC_JTV }}
           SRC_ZEE5:    ${{ secrets.SRC_ZEE5 }}
           SRC_TATA_TV: ${{ secrets.SRC_TATA_TV }}
+          SRC_IPTV_IN:  ${{ secrets.SRC_IPTV_IN }}
+          SRC_SONY:     ${{ secrets.SRC_SONY }}
         run: |
           wget -q -O sources/lgtv.m3u     "$SRC_LGTV"
           wget -q -O sources/jtv.m3u      "$SRC_JTV"
           wget -q -O sources/zee5.m3u     "$SRC_ZEE5"
           wget -q -O sources/tata_tv.m3u  "$SRC_TATA_TV"
+          wget -q -O sources/iptv_in.m3u  "$SRC_IPTV_IN"
+          wget -q -O sources/sony.m3u     "$SRC_SONY"
 
       - name: Build master playlist
         run: |
@@ -62,6 +66,45 @@ jobs:
                 -e 's/group-title="[^"]*".*,Zee Marathi/group-title="Entertainment",Zee Marathi/' \
                 -e 's/group-title="[^"]*".*,Zee Anmol$/group-title="Entertainment",Zee Anmol/' \
                 -e 's/group-title="[^"]*".*,Zee Yuva/group-title="Entertainment",Zee Yuva/' \
+            >> build/VortexVision.xyn
+          fi
+
+          # -------------------------
+          # IPTV-ORG (Epic TV + ETV Bal Bharat)
+          # -------------------------
+          if [ -f sources/iptv_in.m3u ]; then
+            sed '1d' sources/iptv_in.m3u \
+            | awk '
+                /^#EXTINF/ {
+                  if ($0 ~ /,Epic TV$/) {
+                    gsub(/group-title="[^"]*"/, "group-title=\"Entertainment\"")
+                    keep=1
+                  } else if ($0 ~ /,ETV Bal Bharat$/) {
+                    gsub(/group-title="[^"]*"/, "group-title=\"Kids\"")
+                    keep=1
+                  } else {
+                    keep=0
+                  }
+                }
+                keep { print }
+              ' \
+            >> build/VortexVision.xyn
+          fi
+
+          # -------------------------
+          # Sony Marathi → Entertainment
+          # -------------------------
+          if [ -f sources/sony.m3u ]; then
+            sed '1d' sources/sony.m3u \
+            | awk '
+                /^#EXTINF/ {
+                  keep = ($0 ~ /,Sony Marathi$/)
+                  if (keep) {
+                    gsub(/group-title="[^"]*"/, "group-title=\"Entertainment\"")
+                  }
+                }
+                keep { print }
+              ' \
             >> build/VortexVision.xyn
           fi
 
