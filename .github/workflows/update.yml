@@ -98,7 +98,7 @@ jobs:
             sed '1d' sources/sony.m3u \
             | awk '
                 /^#EXTINF/ {
-                  keep = ($0 ~ /,Sony Marathi$/)
+                  keep = ($0 ~ /,Sony Marathii$/)
                   if (keep) {
                     gsub(/group-title="[^"]*"/, "group-title=\"Entertainment\"")
                   }
