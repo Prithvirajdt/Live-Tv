@@ -70,28 +70,6 @@ jobs:
           fi
 
           # -------------------------
-          # IPTV-ORG (Epic TV + ETV Bal Bharat)
-          # -------------------------
-          if [ -f sources/iptv_in.m3u ]; then
-            sed '1d' sources/iptv_in.m3u \
-            | awk '
-                /^#EXTINF/ {
-                  if ($0 ~ /,Epic TV /) {
-                    gsub(/group-title="[^"]*"/, "group-title=\"Entertainment\"")
-                    keep=1
-                  } else if ($0 ~ /,ETV Bal Bharat/) {
-                    gsub(/group-title="[^"]*"/, "group-title=\"Kids\"")
-                    keep=1
-                  } else {
-                    keep=0
-                  }
-                }
-                keep { print }
-              ' \
-            >> build/VortexVision.xyn
-          fi
-
-          # -------------------------
           # Sony Marathi → Entertainment
           # -------------------------
           if [ -f sources/sony.m3u ]; then
