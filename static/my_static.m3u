@@ -43,23 +43,20 @@ https://ranapk.online/OPPLEX/RANAPK5/play.php?id=112973||http-user-agent=RANAPK
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies",Goldmines 
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-name="Goldmines Movies 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfBYPX3P4Uvxsc3neAFiMKVxfzNeVCLlKkfA&s" group-title="Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-
 #EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2023/08/ChatGPT-Image-Sep-4-2025-08_21_25-AM-1-200x300.png" group-title="Movies", Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="22136" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnRfn0G4jIjI1hVLm9_AtXFweW9TJf1oR1A&s" group-title="Movies",MOVIES NOW 
-https://allinonereborn.xyz/push4k/index.php?id=22136
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Movies_Now_HD.png" group-title="Movies",MOVIES NOW HD
+http://aquablue.boats:80/play/live.php?mac=00:1A:79:00:01:01&stream=372981&extension=ts
 
-#EXTINF:-1 tvg-id="350" tvg-logo="https://exchange4media.gumlet.io/news-photo/1500623177_bHn3Jl_69760.jpg" group-title="Movies",MNX HD 
-https://allinonereborn.xyz/push4k/index.php?id=350
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/MNX_new_logo.png" group-title="Movies",MNX HD
+http://aquablue.boats:80/play/live.php?mac=00:1A:79:00:01:01&stream=372982&extension=ts
 
-#EXTINF:-1 tvg-id="7134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Movies",MN PLUS 
-https://allinonereborn.xyz/push4k/index.php?id=7134 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/mnplus.png" group-title="Movies",MN PLUS HD
+http://aquablue.boats:80/play/live.php?mac=00:1A:79:00:01:01&stream=372980&extension=ts 
 
 #EXTINF:-1 tvg-id="7137" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="Movies",ROMEDY NOW 
 https://allinonereborn.xyz/push4k/index.php?id=7137
