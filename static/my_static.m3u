@@ -58,8 +58,8 @@ http://aquablue.boats:80/play/live.php?mac=00:1A:79:00:01:01&stream=372982&exten
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/mnplus.png" group-title="Movies",MN PLUS HD
 http://aquablue.boats:80/play/live.php?mac=00:1A:79:00:01:01&stream=372980&extension=ts 
 
-#EXTINF:-1 tvg-id="7137" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="Movies",ROMEDY NOW 
-https://allinonereborn.xyz/push4k/index.php?id=7137
+#EXTINF:-1 tvg-id="1117" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/1034.jpg" group-title="Movies",ROMEDY NOW HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1117
 
 #EXTINF:-1 tvg-id="14443" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBU_M3ZLhgWHqPVckd7fB-Tjxt0z3dQC3uw&s" group-title="Kids",DISNEY XD  
 https://allinonereborn.xyz/push4k/index.php?id=14443
