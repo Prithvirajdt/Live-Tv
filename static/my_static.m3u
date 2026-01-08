@@ -38,19 +38,19 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-id="Goldmines.Bollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg/revision/latest?cb=20220401125831" group-title="Movies",Goldmines Bollywood 
-https://ranapk.online/OPPLEX/RANAPK5/play.php?id=112973||http-user-agent=RANAPK
+https://ranapk.online/OPPLEX/RANAPK3/play.php?id=112973||http-user-agent=RANAPK
 
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies",Goldmines 
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Movies",Sheemaroo Bollywood
+#EXTINF:-1 tvg-name="Sheemaroo Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png" group-title="Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2023/08/ChatGPT-Image-Sep-4-2025-08_21_25-AM-1-200x300.png" group-title="Movies", Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Movies_Now_HD.png" group-title="Movies",MOVIES NOW HD
-http://aquablue.boats:80/play/live.php?mac=00:1A:79:00:01:01&stream=372981&extension=ts
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1028
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/MNX_new_logo.png" group-title="Movies",MNX HD
 http://aquablue.boats:80/play/live.php?mac=00:1A:79:00:01:01&stream=372982&extension=ts
