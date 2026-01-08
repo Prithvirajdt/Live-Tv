@@ -19,8 +19,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Whkp6bmMZ0wSBHYTnh9U6gATn6b5noRkFBSP5ECLvfV5rhnNLSnRaYQ5&s=10" group-title="Entertainment",Epic TV
 https://epiconvh.akamaized.net/live/epic/master.m3u8
 
+#EXTINF:-1 tvg-name="THE Q" group-title="Comedy",THE Q
+http://103.78.149.54:8000/play/a010/index.m3u8
+
 #EXTINF:-1 tvg-id="ETVBalBharat.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATa-79b3mNx61KxSb9ZrV7eAbCo6IV5zh8S_TZoXT-1h3dyOsMQpFIQ&s=10" group-title="Kids",ETV Bal Bharat
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
+
+#EXTINF:-1 tvg-name="All Time Movies" group-title="Movies",All Time Movies
+http://103.78.149.54:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_29_41-AM-1-185x278.png" group-title="Movies", Bollywood Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
@@ -316,7 +322,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1767942182~acl=%2f*~id=6c1f9227-ec05-4373-876b-de91d736d61c~data=hdntl~hmac=56a3a2bc9aeb999c0dd5db93bcf5a929644775d39c7d7bad468f898081fb18a5
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1767898777~acl=/*~id=18074191563337753579746387827191~hmac=3692fa54693b1237410503e7b244cc28a41606a84f90af4f7b38ba8f2defaa9d
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1767900611~acl=/*~id=22951635726062092096257133545451~hmac=5959833a694c008a12e1f9f494c7055d85ed08dd6335a00e73901efb9e162cc3
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
