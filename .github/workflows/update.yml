@@ -44,28 +44,28 @@ jobs:
       - name: Build master playlist
         run: |
           mkdir -p build
-          echo "#EXTM3U" > build/VortexVision.raw
+          echo "#EXTM3U" > build/VortexVision.tmp
 
-          # -------------------------
-          # ZEE5 (priority 2)
-          # -------------------------
+          # Append static playlist FIRST (highest priority)
+          if [ -f static/my_static.m3u ]; then
+            sed '1d' static/my_static.m3u >> build/VortexVision.tmp
+          fi
+
+          # ZEE5
           if [ -f sources/zee5.m3u ]; then
             sed '1d' sources/zee5.m3u \
             | grep -Ev 'group-title="(Bengali|Gujarati|Kannada|Malayalam|Odia|Punjabi|Spiritual|Tamil|Telugu)"' \
             | grep -Ev ',Zee 24 Taas$' \
             | sed \
-                -e 's/^#EXTINF/#EXTINF:-1 tvg-priority="2"/' \
                 -e 's/group-title="[^"]*".*,Zee Chitramandir/group-title="Movies",Zee Chitramandir/' \
                 -e 's/group-title="[^"]*".*,Zee Talkies/group-title="Movies",Zee Talkies/' \
                 -e 's/group-title="[^"]*".*,Zee Marathi/group-title="Entertainment",Zee Marathi/' \
                 -e 's/group-title="[^"]*".*,Zee Anmol$/group-title="Entertainment",Zee Anmol/' \
                 -e 's/group-title="[^"]*".*,Zee Yuva/group-title="Entertainment",Zee Yuva/' \
-            >> build/VortexVision.raw
+            >> build/VortexVision.tmp
           fi
 
-          # -------------------------
-          # Sony Marathi → Entertainment (priority 2)
-          # -------------------------
+          # Sony Marathi
           if [ -f sources/sony.m3u ]; then
             sed '1d' sources/sony.m3u \
             | awk '
@@ -73,17 +73,14 @@ jobs:
                   keep = ($0 ~ /,Sony Marathii$/)
                   if (keep) {
                     gsub(/group-title="[^"]*"/, "group-title=\"Entertainment\"")
-                    sub(/^#EXTINF/, "#EXTINF:-1 tvg-priority=\"2\"")
                   }
                 }
                 keep { print }
               ' \
-            >> build/VortexVision.raw
+            >> build/VortexVision.tmp
           fi
 
-          # -------------------------
-          # TATA TV → KIDS (priority 1)
-          # -------------------------
+          # TATA TV (Kids)
           if [ -f sources/tata_tv.m3u ]; then
             sed '1d' sources/tata_tv.m3u \
             | awk '
@@ -91,66 +88,41 @@ jobs:
                   keep = ($0 ~ /group-title="KIDS - 24X7"/)
                   if (keep) {
                     gsub(/group-title="KIDS - 24X7"/, "group-title=\"Kids 24/7\"")
-                    sub(/^#EXTINF/, "#EXTINF:-1 tvg-priority=\"1\"")
                   }
                 }
                 keep { print }
               ' \
-            >> build/VortexVision.raw
+            >> build/VortexVision.tmp
           fi
 
-          # -------------------------
-          # LGTV (priority 1)
-          # -------------------------
+          # LGTV
           if [ -f sources/lgtv.m3u ]; then
-            sed '1d' sources/lgtv.m3u \
-            | sed 's/^#EXTINF/#EXTINF:-1 tvg-priority="1"/' \
-            >> build/VortexVision.raw
+            sed '1d' sources/lgtv.m3u >> build/VortexVision.tmp
           fi
 
-          # -------------------------
-          # JioTV (priority 3)
-          # -------------------------
+          # JioTV
           if [ -f sources/jtv.m3u ]; then
-            sed '1d' sources/jtv.m3u \
-            | sed 's/^#EXTINF/#EXTINF:-1 tvg-priority="3"/' \
-            >> build/VortexVision.raw
+            sed '1d' sources/jtv.m3u >> build/VortexVision.tmp
           fi
 
           # -------------------------------------------------
-          # FINAL DEDUPE (CHANNEL NAME + PRIORITY)
+          # ONLY DEDUPE BY CHANNEL NAME (FIRST ONE WINS)
           # -------------------------------------------------
           awk '
             BEGIN { RS=""; ORS="\n" }
             {
               split($0, l, "\n")
-              ext = l[1]
-
-              match(ext, /tvg-priority="([0-9]+)"/, p)
-              pr = p[1]
-
-              name = ext
+              name = l[1]
               sub(/.*?,/, "", name)
 
-              if (!(name in best) || pr > best_pr[name]) {
-                best[name] = $0
-                best_pr[name] = pr
-                order[++i] = name
+              if (!(name in seen)) {
+                seen[name] = 1
+                print
               }
             }
-            END {
-              for (j = 1; j <= i; j++) {
-                n = order[j]
-                if (n in best) {
-                  print best[n]
-                  delete best[n]
-                }
-              }
-            }
-          ' build/VortexVision.raw > build/VortexVision.xyn
+          ' build/VortexVision.tmp > build/VortexVision.xyn
 
-          # Cleanup
-          sed -i 's/ tvg-priority="[^"]*"//g' build/VortexVision.xyn
+          # Safety cleanup
           sed -i '/githubusercontent.com/d' build/VortexVision.xyn
           sed -i '/raw.githubusercontent.com/d' build/VortexVision.xyn
 
