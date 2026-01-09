@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="20359" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCj-A1nCwvy0a1Voo12QRwJXh-zBC8RSCrUQ&s" group-title="Entertainment",COMEDY CENTRAL  
-https://allinonereborn.xyz/push4k/index.php?id=20359
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1947
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-798-j5m7esnc-v4/imageContent-798-j5m7esnc-m11.png",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
@@ -66,10 +66,17 @@ http://aquablue.boats:80/play/live.php?mac=00:1A:79:00:01:01&stream=372980&exten
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1117
 
 #EXTINF:-1 tvg-id="14443" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBU_M3ZLhgWHqPVckd7fB-Tjxt0z3dQC3uw&s" group-title="Kids",DISNEY XD  
-https://allinonereborn.xyz/push4k/index.php?id=14443
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2529
 
 #EXTINF:-1 tvg-id="15434" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/1a038637330639.Y3JvcCwxMzc5LDEwODAsMjcwLDA.jpg" group-title="Kids",YTV  
-https://allinonereborn.xyz/push4k/index.php?id=15434 
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2693 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwf4ybz4SR-N_y-wk9XdLnrvtTPVzNYtsphg&s" group-title="Kids",Anime All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/e550fd0635d90c386765f781518b47ded3e25dcabf2228204eacf73589f2d158.png" group-title="Kids",Crunchyroll
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da
+
 # Join Telegram @ https://t.me/cloudply
 
 #EXTM3U
@@ -320,7 +327,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1767985442~acl=%2f*~id=d3af5910-bc79-456c-a0ec-362894bd47d8~data=hdntl~hmac=8564e3d5252833af45cfdcbc6ff3c079b9467514660712af558e91ada6496ad0
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1767977841~acl=/*~id=17763867525987422857222390449419~hmac=a9e3c4d7e8e9beae08038886e0039bc8a8cebe51aba2f0afbe9b4ff866be6e30
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1767979662~acl=/*~id=50475600318212362508172183248371~hmac=0a7cbbae12ae21c8fdfe735c7b9b7056842a0f18ab5021bf7b390a0e0d1cff94
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
