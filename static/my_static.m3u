@@ -72,3 +72,10 @@ https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2529
 
 #EXTINF:-1 tvg-id="15434" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/1a038637330639.Y3JvcCwxMzc5LDEwODAsMjcwLDA.jpg" group-title="Kids",YTV  
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2693 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwf4ybz4SR-N_y-wk9XdLnrvtTPVzNYtsphg&s" group-title="Kids",Anime All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/e550fd0635d90c386765f781518b47ded3e25dcabf2228204eacf73589f2d158.png" group-title="Kids",Crunchyroll
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e28-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95ddabd5-09c0-4680-9412-eea43c47a4da
+
