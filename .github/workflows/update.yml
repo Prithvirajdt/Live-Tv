@@ -16,7 +16,6 @@ jobs:
       - name: Ensure build folder exists
         run: |
           mkdir -p build
-          # Add .gitkeep to ensure folder is tracked
           touch build/.gitkeep
           git add build/.gitkeep
           git commit -m "Ensure build folder exists" || echo "Folder already exists"
@@ -32,8 +31,8 @@ jobs:
           SRC_JTV:     ${{ secrets.SRC_JTV }}
           SRC_ZEE5:    ${{ secrets.SRC_ZEE5 }}
           SRC_TATA_TV: ${{ secrets.SRC_TATA_TV }}
-          SRC_IPTV_IN:  ${{ secrets.SRC_IPTV_IN }}
-          SRC_SONY:     ${{ secrets.SRC_SONY }}
+          SRC_IPTV_IN: ${{ secrets.SRC_IPTV_IN }}
+          SRC_SONY:    ${{ secrets.SRC_SONY }}
         run: |
           wget -q -O sources/lgtv.m3u     "$SRC_LGTV"
           wget -q -O sources/jtv.m3u      "$SRC_JTV"
@@ -44,33 +43,28 @@ jobs:
 
       - name: Build master playlist
         run: |
-          # Fixed path for master playlist
           mkdir -p build
-          echo "#EXTM3U" > build/VortexVision.xyn
-
-          # Append static playlist if exists
-          if [ -f static/my_static.m3u ]; then
-            sed '1d' static/my_static.m3u >> build/VortexVision.xyn
-          fi
+          echo "#EXTM3U" > build/VortexVision.raw
 
           # -------------------------
-          # ZEE5 PROCESSING
+          # ZEE5 (priority 2)
           # -------------------------
           if [ -f sources/zee5.m3u ]; then
             sed '1d' sources/zee5.m3u \
             | grep -Ev 'group-title="(Bengali|Gujarati|Kannada|Malayalam|Odia|Punjabi|Spiritual|Tamil|Telugu)"' \
             | grep -Ev ',Zee 24 Taas$' \
             | sed \
+                -e 's/^#EXTINF/#EXTINF:-1 tvg-priority="2"/' \
                 -e 's/group-title="[^"]*".*,Zee Chitramandir/group-title="Movies",Zee Chitramandir/' \
                 -e 's/group-title="[^"]*".*,Zee Talkies/group-title="Movies",Zee Talkies/' \
                 -e 's/group-title="[^"]*".*,Zee Marathi/group-title="Entertainment",Zee Marathi/' \
                 -e 's/group-title="[^"]*".*,Zee Anmol$/group-title="Entertainment",Zee Anmol/' \
                 -e 's/group-title="[^"]*".*,Zee Yuva/group-title="Entertainment",Zee Yuva/' \
-            >> build/VortexVision.xyn
+            >> build/VortexVision.raw
           fi
 
           # -------------------------
-          # Sony Marathi → Entertainment
+          # Sony Marathi → Entertainment (priority 2)
           # -------------------------
           if [ -f sources/sony.m3u ]; then
             sed '1d' sources/sony.m3u \
@@ -79,15 +73,16 @@ jobs:
                   keep = ($0 ~ /,Sony Marathii$/)
                   if (keep) {
                     gsub(/group-title="[^"]*"/, "group-title=\"Entertainment\"")
+                    sub(/^#EXTINF/, "#EXTINF:-1 tvg-priority=\"2\"")
                   }
                 }
                 keep { print }
               ' \
-            >> build/VortexVision.xyn
+            >> build/VortexVision.raw
           fi
 
           # -------------------------
-          # TATA TV → ONLY KIDS - 24X7 renamed
+          # TATA TV → KIDS (priority 1)
           # -------------------------
           if [ -f sources/tata_tv.m3u ]; then
             sed '1d' sources/tata_tv.m3u \
@@ -96,30 +91,66 @@ jobs:
                   keep = ($0 ~ /group-title="KIDS - 24X7"/)
                   if (keep) {
                     gsub(/group-title="KIDS - 24X7"/, "group-title=\"Kids 24/7\"")
+                    sub(/^#EXTINF/, "#EXTINF:-1 tvg-priority=\"1\"")
                   }
                 }
                 keep { print }
               ' \
-            >> build/VortexVision.xyn
+            >> build/VortexVision.raw
           fi
 
           # -------------------------
-          # LGTV (unchanged)
+          # LGTV (priority 1)
           # -------------------------
           if [ -f sources/lgtv.m3u ]; then
-            sed '1d' sources/lgtv.m3u >> build/VortexVision.xyn
+            sed '1d' sources/lgtv.m3u \
+            | sed 's/^#EXTINF/#EXTINF:-1 tvg-priority="1"/' \
+            >> build/VortexVision.raw
           fi
 
           # -------------------------
-          # JioTV (unchanged)
+          # JioTV (priority 3)
           # -------------------------
           if [ -f sources/jtv.m3u ]; then
-            sed '1d' sources/jtv.m3u >> build/VortexVision.xyn
+            sed '1d' sources/jtv.m3u \
+            | sed 's/^#EXTINF/#EXTINF:-1 tvg-priority="3"/' \
+            >> build/VortexVision.raw
           fi
 
-          # -------------------------
-          # Safety cleanup
-          # -------------------------
+          # -------------------------------------------------
+          # FINAL DEDUPE (CHANNEL NAME + PRIORITY)
+          # -------------------------------------------------
+          awk '
+            BEGIN { RS=""; ORS="\n" }
+            {
+              split($0, l, "\n")
+              ext = l[1]
+
+              match(ext, /tvg-priority="([0-9]+)"/, p)
+              pr = p[1]
+
+              name = ext
+              sub(/.*?,/, "", name)
+
+              if (!(name in best) || pr > best_pr[name]) {
+                best[name] = $0
+                best_pr[name] = pr
+                order[++i] = name
+              }
+            }
+            END {
+              for (j = 1; j <= i; j++) {
+                n = order[j]
+                if (n in best) {
+                  print best[n]
+                  delete best[n]
+                }
+              }
+            }
+          ' build/VortexVision.raw > build/VortexVision.xyn
+
+          # Cleanup
+          sed -i 's/ tvg-priority="[^"]*"//g' build/VortexVision.xyn
           sed -i '/githubusercontent.com/d' build/VortexVision.xyn
           sed -i '/raw.githubusercontent.com/d' build/VortexVision.xyn
 
@@ -128,12 +159,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          if [ -f build/VortexVision.xyn ]; then
-            git add build/VortexVision.xyn
-            # Only commit if there are changes
-            git diff-index --quiet HEAD || git commit -m "Auto update VortexVision playlist"
-            git push || echo "Push failed (probably no changes)"
-          else
-            echo "Playlist file build/VortexVision.xyn not found, skipping commit"
-          fi
-
+          git add build/VortexVision.xyn
+          git diff-index --quiet HEAD || git commit -m "Auto update VortexVision playlist"
+          git push || echo "Push failed (probably no changes)"
