@@ -46,12 +46,16 @@ jobs:
           mkdir -p build
           echo "#EXTM3U" > build/VortexVision.tmp
 
-          # Append static playlist FIRST (highest priority)
+          # -------------------------
+          # Static playlist FIRST
+          # -------------------------
           if [ -f static/my_static.m3u ]; then
             sed '1d' static/my_static.m3u >> build/VortexVision.tmp
           fi
 
+          # -------------------------
           # ZEE5
+          # -------------------------
           if [ -f sources/zee5.m3u ]; then
             sed '1d' sources/zee5.m3u \
             | grep -Ev 'group-title="(Bengali|Gujarati|Kannada|Malayalam|Odia|Punjabi|Spiritual|Tamil|Telugu)"' \
@@ -65,7 +69,9 @@ jobs:
             >> build/VortexVision.tmp
           fi
 
+          # -------------------------
           # Sony Marathi
+          # -------------------------
           if [ -f sources/sony.m3u ]; then
             sed '1d' sources/sony.m3u \
             | awk '
@@ -80,7 +86,9 @@ jobs:
             >> build/VortexVision.tmp
           fi
 
+          # -------------------------
           # TATA TV (Kids)
+          # -------------------------
           if [ -f sources/tata_tv.m3u ]; then
             sed '1d' sources/tata_tv.m3u \
             | awk '
@@ -95,34 +103,46 @@ jobs:
             >> build/VortexVision.tmp
           fi
 
+          # -------------------------
           # LGTV
+          # -------------------------
           if [ -f sources/lgtv.m3u ]; then
             sed '1d' sources/lgtv.m3u >> build/VortexVision.tmp
           fi
 
+          # -------------------------
           # JioTV
+          # -------------------------
           if [ -f sources/jtv.m3u ]; then
             sed '1d' sources/jtv.m3u >> build/VortexVision.tmp
           fi
 
           # -------------------------------------------------
-          # ONLY DEDUPE BY CHANNEL NAME (FIRST ONE WINS)
+          # CORRECT DEDUPE (BY CHANNEL NAME, FIRST WINS)
           # -------------------------------------------------
           awk '
-            BEGIN { RS=""; ORS="\n" }
-            {
-              split($0, l, "\n")
-              name = l[1]
+            /^#EXTINF/ {
+              name = $0
               sub(/.*?,/, "", name)
 
               if (!(name in seen)) {
                 seen[name] = 1
+                keep = 1
                 print
+              } else {
+                keep = 0
               }
+              next
+            }
+
+            keep {
+              print
             }
           ' build/VortexVision.tmp > build/VortexVision.xyn
 
+          # -------------------------
           # Safety cleanup
+          # -------------------------
           sed -i '/githubusercontent.com/d' build/VortexVision.xyn
           sed -i '/raw.githubusercontent.com/d' build/VortexVision.xyn
 
