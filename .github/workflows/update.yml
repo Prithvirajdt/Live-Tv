@@ -118,6 +118,30 @@ jobs:
           fi
 
           # -------------------------------------------------
+          # REMOVE CHANNELS BY NAME KEYWORDS (CASE-INSENSITIVE)
+          # -------------------------------------------------
+          awk '
+            /^#EXTINF/ {
+              name = $0
+              sub(/.*?,/, "", name)
+
+              if (tolower(name) ~ /(tamil|telugu|kannada|bangla|malayalam|test)/) {
+                skip = 1
+              } else {
+                skip = 0
+                print
+              }
+              next
+            }
+
+            !skip {
+              print
+            }
+          ' build/VortexVision.tmp > build/VortexVision.filtered
+
+          mv build/VortexVision.filtered build/VortexVision.tmp
+
+          # -------------------------------------------------
           # CORRECT DEDUPE (BY CHANNEL NAME, FIRST WINS)
           # -------------------------------------------------
           awk '
