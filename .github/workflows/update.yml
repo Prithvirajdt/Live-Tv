@@ -125,8 +125,7 @@ jobs:
               name = $0
               sub(/.*?,/, "", name)
 
-              if (tolower(name) ~ /(tamil|telugu|kannada|bangla|malayalam|test|swayam|sathee|bie|cie|vidya|gujarat|bengali|asianet
-              |maa|ptc|vijay|etv|aath|rongeen|raj|punjab|manorama|mahaa|jaya|gemini|udaya|salaam|biskope|surya)/) {
+              if (tolower(name) ~ /(tamil|telugu|kannada|bangla|malayalam|test|swayam|sathee|bie|cie|vidya|gujarat|bengali|asianet|maa|ptc|vijay|etv|aath|rongeen|raj|punjab|manorama|mahaa|jaya|gemini|udaya|salaam|biskope|surya)/) {
                 skip = 1
               } else {
                 skip = 0
