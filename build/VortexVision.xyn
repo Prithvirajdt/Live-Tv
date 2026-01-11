@@ -71,6 +71,9 @@ https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2529
 #EXTINF:-1 tvg-id="15434" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/1a038637330639.Y3JvcCwxMzc5LDEwODAsMjcwLDA.jpg" group-title="Kids",YTV  
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2693 
 
+#EXTINF:-1 tvg-id="1932" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/1849.png" group-title="Kids",BOOMERANG
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1932
+
 #EXTINF:-1 tvg-id="2531" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/2448.png" group-title="Kids",TELETOON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2531
 
@@ -316,7 +319,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1768201503~acl=%2f*~id=d283f280-4a2c-493d-999b-06fb08018b4c~data=hdntl~hmac=e97d5fdbeec100f0a8032dc1b4cd8c4ef58a933d2570074830e560119631080c
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1768166707~acl=/*~id=13400084729646940711419715949674~hmac=8f9bff6fd70a122216e70937c9c50f1c4bf8200e549be3f7bb9724bac7c373e2
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1768168539~acl=/*~id=57509428929516971045796764206994~hmac=8245cf03293b282980592c1d00063c4820395853c1ddf8728a4a89f8ab9d2679
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
@@ -4266,6 +4269,13 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Newslive_BTS/output/index.mpd?__hdnea__=s
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1768094450~exp=1768180850~acl=/*~hmac=77a07189c68fb345c11e83fd1181421e18dc40c9ca083c76f73485efd07eb31d"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/TV9_Karnataka_BTS/output/index.mpd?__hdnea__=st=1768094450~exp=1768180850~acl=/*~hmac=77a07189c68fb345c11e83fd1181421e18dc40c9ca083c76f73485efd07eb31d&xxx=%7Ccookie=__hdnea__=st=1768094450~exp=1768180850~acl=/*~hmac=77a07189c68fb345c11e83fd1181421e18dc40c9ca083c76f73485efd07eb31d
+
+#EXTINF:-1 tvg-id="623" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png",Rang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2167938c9b3a57e4b0abf7f2062447a1:f79682b9b69ac608162c0f9abb9eafe5
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1768094450~exp=1768180850~acl=/*~hmac=77a07189c68fb345c11e83fd1181421e18dc40c9ca083c76f73485efd07eb31d"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Rang_BTS/output/index.mpd?__hdnea__=st=1768094450~exp=1768180850~acl=/*~hmac=77a07189c68fb345c11e83fd1181421e18dc40c9ca083c76f73485efd07eb31d&xxx=%7Ccookie=__hdnea__=st=1768094450~exp=1768180850~acl=/*~hmac=77a07189c68fb345c11e83fd1181421e18dc40c9ca083c76f73485efd07eb31d
 
 #EXTINF:-1 tvg-id="624" group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prag_News.png",Prag News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
