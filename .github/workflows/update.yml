@@ -32,7 +32,6 @@ jobs:
           SRC_ZEE5:    ${{ secrets.SRC_ZEE5 }}
           SRC_TATA_TV: ${{ secrets.SRC_TATA_TV }}
           SRC_IPTV_IN: ${{ secrets.SRC_IPTV_IN }}
-          SRC_RUNN:    ${{ secrets.SRC_RUNN }}
           SRC_SONY:    ${{ secrets.SRC_SONY }}
         run: |
           wget -q -O sources/lgtv.m3u     "$SRC_LGTV"
@@ -40,7 +39,6 @@ jobs:
           wget -q -O sources/zee5.m3u     "$SRC_ZEE5"
           wget -q -O sources/tata_tv.m3u  "$SRC_TATA_TV"
           wget -q -O sources/iptv_in.m3u  "$SRC_IPTV_IN"
-          wget -q -O sources/runn.m3u     "$SRC_RUNN"
           wget -q -O sources/sony.m3u     "$SRC_SONY"
 
       - name: Build master playlist
@@ -110,13 +108,6 @@ jobs:
           # -------------------------
           if [ -f sources/lgtv.m3u ]; then
             sed '1d' sources/lgtv.m3u >> build/VortexVision.tmp
-          fi
-
-          # -------------------------
-          # RUNN
-          # -------------------------
-          if [ -f sources/runn.m3u ]; then
-            sed '1d' sources/runn.m3u >> build/VortexVision.tmp
           fi
 
           # -------------------------
