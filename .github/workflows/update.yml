@@ -113,6 +113,13 @@ jobs:
           fi
 
           # -------------------------
+          # RUNN
+          # -------------------------
+          if [ -f sources/runn.m3u ]; then
+            sed '1d' sources/runn.m3u >> build/VortexVision.tmp
+          fi
+
+          # -------------------------
           # JioTV
           # -------------------------
           if [ -f sources/jtv.m3u ]; then
