@@ -44,7 +44,7 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-id="Goldmines.Bollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg/revision/latest?cb=20220401125831" group-title="Movies",Goldmines Bollywood 
-https://ranapk.online/OPPLEX/RANAPK3/play.php?id=112973||http-user-agent=RANAPK
+http://103.78.149.54:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies",Goldmines 
 https://cdn-2.pishow.tv/live/1459/master.m3u8
