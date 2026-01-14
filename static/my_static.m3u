@@ -74,16 +74,16 @@ https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Movies_Now_HD.png" group-title="Movies",MOVIES NOW HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1028
+https://freelivtv.xyz/oppu/oppu.php?id=66271
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/MNX_new_logo.png" group-title="Movies",MNX HD
-http://aquablue.boats:80/play/live.php?mac=00:1A:79:00:01:01&stream=372982&extension=ts
+https://freelivtv.xyz/oppu/oppu.php?id=66266
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/mnplus.png" group-title="Movies",MN PLUS HD
-http://aquablue.boats:80/play/live.php?mac=00:1A:79:00:01:01&stream=372980&extension=ts 
+https://freelivtv.xyz/oppu/oppu.php?id=66244
 
 #EXTINF:-1 tvg-id="1117" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/1034.jpg" group-title="Movies",ROMEDY NOW HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1117
+https://freelivtv.xyz/oppu/oppu.php?id=66282
 
 #EXTINF:-1 tvg-id="80" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/thumbnail/54317851-3356-4b71-85af-f36b5c0250ae.png" group-title="Kids",Cartoon TV
 https://streams2.sofast.tv/ptnr-runntv/title-CARTOON_TV/sofastplayout/3e3230ae-4664-4ba3-9ea7-15c06471d5ce_0_HLS/manifest.m3u8
