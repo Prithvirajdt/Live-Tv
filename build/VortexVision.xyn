@@ -71,17 +71,22 @@ https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSup_8NTjyQH_SpQDrnf9l29LaHWXeX1REnqQ&s" group-title="Movies", Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/Movies_Now_HD.png" group-title="Movies",MOVIES NOW HD
-https://freelivtv.xyz/oppu/oppu.php?id=66271
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/MNX_new_logo.png" group-title="Movies",MNX HD
-https://freelivtv.xyz/oppu/oppu.php?id=66266
+#EXTINF:-1 tvg-id="MNX.HD.in" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="Movies",MNX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/INDIA/mnplus.png" group-title="Movies",MN PLUS HD
-https://freelivtv.xyz/oppu/oppu.php?id=66244
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="1117" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/1034.jpg" group-title="Movies",ROMEDY NOW HD
-https://freelivtv.xyz/oppu/oppu.php?id=66282
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="80" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/thumbnail/54317851-3356-4b71-85af-f36b5c0250ae.png" group-title="Kids",Cartoon TV
 https://streams2.sofast.tv/ptnr-runntv/title-CARTOON_TV/sofastplayout/3e3230ae-4664-4ba3-9ea7-15c06471d5ce_0_HLS/manifest.m3u8
@@ -340,7 +345,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1768567564~acl=%2f*~id=ad85447d-6f4e-4caf-8d2a-f76ca570c380~data=hdntl~hmac=a4952685b3a981f31c9bd8355ec77a211fa41540643ad122e746aa69fbae5bc1
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1768541081~acl=/*~id=93058344310802695014130094471620~hmac=57d67179ddc3fd7fcbb4189502a2aa8334df0d56754f21176b93054781d839a4
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1768546533~acl=/*~id=44775966620858386760650273099661~hmac=2215e73ec38dd142a9732f3053699527da05b9a6731cb2f8d58c6495dfe73e4c
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
