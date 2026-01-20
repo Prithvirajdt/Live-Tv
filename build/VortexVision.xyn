@@ -346,7 +346,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1768959970~acl=%2f*~id=25737ef0-fbd0-4b23-9ae5-2f0a5e62021e~data=hdntl~hmac=c6cdd874d00c76e5f0ca1aa003fcea78467494ebe77fb2159e483220c95663c9
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1768931585~acl=/*~id=37860240915112887869999027961377~hmac=de9f701c8c8dcc8a93088322aa92c0bad01d6be8ce2847b95ddf5367b2e1e102
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1768953489~acl=/*~id=71413243989513295821022045435028~hmac=ef99be6f0da9ea6554223381c921fb9151dcc07bad2f32c82fcfb241fa8b2907
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
