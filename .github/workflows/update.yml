@@ -125,7 +125,7 @@ jobs:
               name = $0
               sub(/.*?,/, "", name)
 
-              if (tolower(name) ~ /(tamil|telugu|kannada|bangla|malayalam|test|swayam|sathee|bie|cie|vidya|gujarat|bengali|asianet|maa|ptc|vijay|etv|aath|rongeen|raj|punjab|manorama|mahaa|jaya|gemini|udaya|salaam|biskope|surya|adithya|amrita|colors super$|arunprabha|girnar|kashir|oriya|saptagiri|urdu|podhigai|desi channel$|kairali|jalsha|studio|apex|flower|jonack|kalaignar|makkal|mango|may|mk|moon|nakshatra|bangalore|peppers|polimer|puthu|sanjha|sidharth|spondon|kiran|sun tv|sundrani|suvarna|thanthi|vaanavil|vasanth|vendhar|vissa|jomjomat|j movies|ktv|maha|mahua|pitaara|public m|sun life|tabbar|thalaa|tolly|chintu|chutti|kochu|kushi|naap|east|sun music|sun news|rang$|sonic marathi$|Cartoon Network HD+ English)/) {
+              if (tolower(name) ~ /(tamil|telugu|kannada|bangla|malayalam|test|swayam|sathee|bie|cie|vidya|gujarat|bengali|asianet|maa|ptc|vijay|etv|aath|rongeen|raj|punjab|manorama|mahaa|jaya|gemini|udaya|salaam|biskope|surya|adithya|amrita|colors super$|arunprabha|girnar|kashir|oriya|saptagiri|urdu|podhigai|desi channel$|kairali|jalsha|studio|apex|flower|jonack|kalaignar|makkal|mango|may|mk|moon|nakshatra|bangalore|peppers|polimer|puthu|sanjha|sidharth|spondon|kiran|sun tv|sundrani|suvarna|thanthi|vaanavil|vasanth|vendhar|vissa|jomjomat|j movies|ktv|maha|mahua|pitaara|public m|sun life|tabbar|thalaa|tolly|chintu|chutti|kochu|kushi|naap|east|sun music|sun news|rang$|sonic marathi$|Cartoon Network HD+ English|)/) {
                 skip = 1
               } else {
                 skip = 0
