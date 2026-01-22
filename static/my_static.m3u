@@ -88,8 +88,10 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="ts174" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="Movies", Romedy Now
-http://103.178.78.151:7505/play/a12t/index.m3u8
+#EXTINF:-1 tvg-id="Romedy.Now.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/romedy-now-in.png" group-title="hilaytv",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="80" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/thumbnail/54317851-3356-4b71-85af-f36b5c0250ae.png" group-title="Kids",Cartoon TV
 https://streams2.sofast.tv/ptnr-runntv/title-CARTOON_TV/sofastplayout/3e3230ae-4664-4ba3-9ea7-15c06471d5ce_0_HLS/manifest.m3u8
@@ -98,13 +100,10 @@ https://streams2.sofast.tv/ptnr-runntv/title-CARTOON_TV/sofastplayout/3e3230ae-4
 https://greengold.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14443" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBU_M3ZLhgWHqPVckd7fB-Tjxt0z3dQC3uw&s" group-title="Kids",DISNEY XD  
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2529
-
-#EXTINF:-1 tvg-id="15434" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/1a038637330639.Y3JvcCwxMzc5LDEwODAsMjcwLDA.jpg" group-title="Kids",YTV  
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2693 
+http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="1932" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/1849.png" group-title="Kids",BOOMERAANG
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1932
+http://fl7.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwf4ybz4SR-N_y-wk9XdLnrvtTPVzNYtsphg&s" group-title="Kids",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
