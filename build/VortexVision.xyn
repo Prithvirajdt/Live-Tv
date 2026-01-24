@@ -139,6 +139,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title="Movies",Zee Talkies
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=150478|User-Agent=RANAPK
+
 
 
 # Telegram: https://t.me/cloudply
@@ -4662,13 +4665,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Janam_TV_BTS/output/index.mpd?__hdnea__=s
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1769257764~exp=1769344164~acl=/*~hmac=1d99187f9a1cb62a5847f958f3c673b2d5bc65770b9513db7f4ed353270c5ad5"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/output/index.mpd?__hdnea__=st=1769257764~exp=1769344164~acl=/*~hmac=1d99187f9a1cb62a5847f958f3c673b2d5bc65770b9513db7f4ed353270c5ad5&xxx=%7Ccookie=__hdnea__=st=1769257764~exp=1769344164~acl=/*~hmac=1d99187f9a1cb62a5847f958f3c673b2d5bc65770b9513db7f4ed353270c5ad5
-
-#EXTINF:-1 tvg-id="816" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1769257764~exp=1769344164~acl=/*~hmac=1d99187f9a1cb62a5847f958f3c673b2d5bc65770b9513db7f4ed353270c5ad5"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mpd?__hdnea__=st=1769257764~exp=1769344164~acl=/*~hmac=1d99187f9a1cb62a5847f958f3c673b2d5bc65770b9513db7f4ed353270c5ad5&xxx=%7Ccookie=__hdnea__=st=1769257764~exp=1769344164~acl=/*~hmac=1d99187f9a1cb62a5847f958f3c673b2d5bc65770b9513db7f4ed353270c5ad5
 
 #EXTINF:-1 tvg-id="821" group-title="Infotainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png",Sony BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
