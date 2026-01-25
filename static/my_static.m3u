@@ -144,5 +144,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 https://ranapk.online/OPPLEX/RANAPK1/play.php?id=150478|User-Agent=RANAPK
 
+#EXTINF:-1 tvg-id="0" tvg-name="" group-title="Entertainment" tvg-logo="https://static.epg.best/in/ZeeAction.in.png",Zee Action
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66191|User-Agent=RANAPK
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Yuva.png",Zee Yuva
+https://ranapk.online/OPPLEX/RANAPK1/play.php?id=380837|User-Agent=RANAPK
 
