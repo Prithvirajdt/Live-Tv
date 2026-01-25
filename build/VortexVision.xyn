@@ -32,14 +32,9 @@ https://playout.runn.tv/playout/v1/stream/p_tttflm/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Whkp6bmMZ0wSBHYTnh9U6gATn6b5noRkFBSP5ECLvfV5rhnNLSnRaYQ5&s=10" group-title="Entertainment",Epic TV
 https://epiconvh.akamaized.net/live/epic/master.m3u8
 
-#EXTINF:-1 tvg-name="THE Q" group-title="Comedy",THE Q
-http://103.78.149.54:8000/play/a010/index.m3u8
-
-#EXTINF:-1 tvg-id="ETVBalBharat.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATa-79b3mNx61KxSb9ZrV7eAbCo6IV5zh8S_TZoXT-1h3dyOsMQpFIQ&s=10" group-title="Kids",E TV Bal Bharat
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATa-79b3mNx61KxSb9ZrV7eAbCo6IV5zh8S_TZoXT-1h3dyOsMQpFIQ&s=10" group-title="Kids",E TV Bal Bharat
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
 
-#EXTINF:-1 tvg-name="All Time Movies" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",All Time Movies
-http://103.78.149.54:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_29_41-AM-1-185x278.png" group-title="Movies", Bollywood Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
@@ -4003,13 +3998,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Uttar_Pradesh_BTS/output/index.mpd?__h
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1769304117~exp=1769390517~acl=/*~hmac=e8ae5f8f0409f632947a8c02ca5306547cea0fedfb9231c38ee8256ff95c6af7"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Turbo_BTS/output/index.mpd?__hdnea__=st=1769304117~exp=1769390517~acl=/*~hmac=e8ae5f8f0409f632947a8c02ca5306547cea0fedfb9231c38ee8256ff95c6af7&xxx=%7Ccookie=__hdnea__=st=1769304117~exp=1769390517~acl=/*~hmac=e8ae5f8f0409f632947a8c02ca5306547cea0fedfb9231c38ee8256ff95c6af7
-
-#EXTINF:-1 tvg-id="544" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=650b7266910553cb8129d2277a865afc:c90f8125b0a30c61b7d8221ad6b90d12
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1769304117~exp=1769390517~acl=/*~hmac=e8ae5f8f0409f632947a8c02ca5306547cea0fedfb9231c38ee8256ff95c6af7"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Junior_BTS/output/index.mpd?__hdnea__=st=1769304117~exp=1769390517~acl=/*~hmac=e8ae5f8f0409f632947a8c02ca5306547cea0fedfb9231c38ee8256ff95c6af7&xxx=%7Ccookie=__hdnea__=st=1769304117~exp=1769390517~acl=/*~hmac=e8ae5f8f0409f632947a8c02ca5306547cea0fedfb9231c38ee8256ff95c6af7
 
 #EXTINF:-1 tvg-id="545" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
