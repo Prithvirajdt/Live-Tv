@@ -345,7 +345,7 @@ https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8?hdntl=exp
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8?hdntl=exp=1769586365~acl=%2f*~id=fd2b8130-e11b-42d6-bc2a-f53e38be6202~data=hdntl~hmac=cbb4b8a746605e3993ff9ac8907af130a805e2200640a91306d7d0759128d034
 
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1769543377~acl=/*~id=57456996627223453257325222616548~hmac=fd94c49d9255e2871993e8eb47b6a03e6f95d91b820930e6005a2422b1022994
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1769556200~acl=/*~id=37501724174968805024933741025730~hmac=eb8ebdba25b3da5403b93963ba6c48b7997eda57c035ffe9f61217f0f543b8fe
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
