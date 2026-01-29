@@ -34,10 +34,6 @@ https://playout.runn.tv/playout/v1/stream/p_tttflm/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Whkp6bmMZ0wSBHYTnh9U6gATn6b5noRkFBSP5ECLvfV5rhnNLSnRaYQ5&s=10" group-title="Entertainment",Epic TV
 https://epiconvh.akamaized.net/live/epic/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATa-79b3mNx61KxSb9ZrV7eAbCo6IV5zh8S_TZoXT-1h3dyOsMQpFIQ&s=10" group-title="Kids",E TV Bal Bharat
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
-
-
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_29_41-AM-1-185x278.png" group-title="Movies", Bollywood Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
 
