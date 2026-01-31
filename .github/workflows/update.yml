@@ -1,5 +1,11 @@
 name: Update Master Playlist
 
+# --------------------------------------------------
+# WHEN THIS WORKFLOW RUNS
+# --------------------------------------------------
+# 1. Manually (workflow_dispatch)
+# 2. Automatically every 6 hours
+# --------------------------------------------------
 on:
   workflow_dispatch:
   schedule:
@@ -10,68 +16,88 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # --------------------------------------------------
+      # STEP 1: CHECKOUT REPOSITORY
+      # --------------------------------------------------
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      # --------------------------------------------------
+      # STEP 2: ENSURE build/ DIRECTORY EXISTS
+      # - Required so Git tracks the folder
+      # - .gitkeep avoids empty-folder issues
+      # --------------------------------------------------
       - name: Ensure build folder exists
         run: |
           mkdir -p build
           touch build/.gitkeep
           git add build/.gitkeep
-          git commit -m "Ensure build folder exists" || echo "Folder already exists"
-          git push || echo "Push failed (probably no changes)"
+          git commit -m "Ensure build folder exists" || echo "No changes"
+          git push || echo "Push skipped"
 
+      # --------------------------------------------------
+      # STEP 3: CREATE TEMP SOURCES FOLDER
+      # - Holds downloaded playlists
+      # --------------------------------------------------
       - name: Create sources folder
         run: |
           mkdir -p sources
 
+      # --------------------------------------------------
+      # STEP 4: DOWNLOAD ALL SOURCE PLAYLISTS
+      # - URLs are stored securely in GitHub Secrets
+      # - Nothing sensitive is exposed in code
+      # --------------------------------------------------
       - name: Download playlists (sources hidden)
         env:
           SRC_LGTV:    ${{ secrets.SRC_LGTV }}
           SRC_JTV:     ${{ secrets.SRC_JTV }}
           SRC_ZEE5:    ${{ secrets.SRC_ZEE5 }}
           SRC_TATA_TV: ${{ secrets.SRC_TATA_TV }}
-          SRC_IPTV_IN: ${{ secrets.SRC_IPTV_IN }}
           SRC_SONY:    ${{ secrets.SRC_SONY }}
         run: |
           wget -q -O sources/lgtv.m3u     "$SRC_LGTV"
           wget -q -O sources/jtv.m3u      "$SRC_JTV"
           wget -q -O sources/zee5.m3u     "$SRC_ZEE5"
           wget -q -O sources/tata_tv.m3u  "$SRC_TATA_TV"
-          wget -q -O sources/iptv_in.m3u  "$SRC_IPTV_IN"
           wget -q -O sources/sony.m3u     "$SRC_SONY"
 
+      # --------------------------------------------------
+      # STEP 5: BUILD MASTER PLAYLIST
+      # --------------------------------------------------
       - name: Build master playlist
         run: |
           mkdir -p build
+
+          # Create temp playlist and write M3U header
           echo "#EXTM3U" > build/VortexVision.tmp
 
-          # -------------------------
-          # Static playlist FIRST
-          # -------------------------
+          # --------------------------------------------------
+          # STATIC PLAYLIST (ALWAYS FIRST)
+          # --------------------------------------------------
           if [ -f static/my_static.m3u ]; then
             sed '1d' static/my_static.m3u >> build/VortexVision.tmp
           fi
 
-          # -------------------------
-          # ZEE5
-          # -------------------------
+          # --------------------------------------------------
+          # ZEE5: FILTER + NORMALIZE GROUP TITLES
+          # --------------------------------------------------
           if [ -f sources/zee5.m3u ]; then
-            sed '1d' sources/zee5.m3u \z
+            sed '1d' sources/zee5.m3u \
             | grep -Ev 'group-title="(Bengali|Gujarati|Kannada|Malayalam|Odia|Punjabi|Spiritual|Tamil|Telugu)"' \
             | grep -Ev ',Zee 24 Taas$' \
             | sed \
-                -e 's/group-title="[^"]*".*,Zee Chitramandir/group-title="Movies",Zee Chitramandir/' \ 
-                -e 's/group-title="[^"]*".*,Zee Talkies/group-title="Movies",Zee Talkies/' \ 
-                -e 's/group-title="[^"]*".*,Zee Marathi/group-title="Entertainment",Zee Marathi/' \ 
-                -e 's/group-title="[^"]*".*,Zee Anmol$/group-title="Entertainment",Zee Anmol/' \ 
+                -e 's/group-title="[^"]*".*,Zee Chitramandir/group-title="Movies",Zee Chitramandir/' \
+                -e 's/group-title="[^"]*".*,Zee Talkies/group-title="Movies",Zee Talkies/' \
+                -e 's/group-title="[^"]*".*,Zee Marathi/group-title="Entertainment",Zee Marathi/' \
+                -e 's/group-title="[^"]*".*,Zee Anmol$/group-title="Entertainment",Zee Anmol/' \
                 -e 's/group-title="[^"]*".*,Zee Yuva/group-title="Entertainment",Zee Yuva/' \
             >> build/VortexVision.tmp
           fi
 
-          # -------------------------
-          # Sony Marathi
-          # -------------------------
+          # --------------------------------------------------
+          # SONY: KEEP ONLY "SONY MARATHII"
+          # --------------------------------------------------
           if [ -f sources/sony.m3u ]; then
             sed '1d' sources/sony.m3u \
             | awk '
@@ -82,13 +108,12 @@ jobs:
                   }
                 }
                 keep { print }
-              ' \
-            >> build/VortexVision.tmp
+              ' >> build/VortexVision.tmp
           fi
 
-          # -------------------------
-          # TATA TV (Kids)
-          # -------------------------
+          # --------------------------------------------------
+          # TATA TV: KEEP KIDS CHANNELS ONLY
+          # --------------------------------------------------
           if [ -f sources/tata_tv.m3u ]; then
             sed '1d' sources/tata_tv.m3u \
             | awk '
@@ -99,33 +124,32 @@ jobs:
                   }
                 }
                 keep { print }
-              ' \
-            >> build/VortexVision.tmp
+              ' >> build/VortexVision.tmp
           fi
 
-          # -------------------------
+          # ==================================================
           # LGTV
-          # -------------------------
+          # ==================================================
           if [ -f sources/lgtv.m3u ]; then
             sed '1d' sources/lgtv.m3u >> build/VortexVision.tmp
           fi
 
-          # -------------------------
-          # JioTV
-          # -------------------------
+          # ==================================================
+          # JIOTV
+          # ==================================================
           if [ -f sources/jtv.m3u ]; then
             sed '1d' sources/jtv.m3u >> build/VortexVision.tmp
           fi
 
-          # -------------------------------------------------
-          # REMOVE CHANNELS BY NAME KEYWORDS (CASE-INSENSITIVE)
-          # -------------------------------------------------
+          # --------------------------------------------------
+          # REMOVE CHANNELS BY NAME (CASE-INSENSITIVE)
+          # --------------------------------------------------
           awk '
             /^#EXTINF/ {
               name = $0
               sub(/.*?,/, "", name)
 
-              if (tolower(name) ~ /(tamil|telugu|keral|kannada|bangla|malayalam|english|test|bios|picc|thirai|wow|swayam|sathee|bie|cie|vidya|gujarat|malu|sarth|bengali|asianet|maa|ptc|vijay|etv|aath|rongeen|raj|punjab|manorama|mahaa|jaya|gemini|udaya|salaam|biskope|surya|adithya|amrita|colors super$|arunprabha|girnar|kashir|oriya|saptagiri|urdu|podhigai|desi channel$|kairali|jalsha|studio|apex|flower|jonack|kalaignar|makkal|mango|may|mk|moon|nakshatra|bangalore|peppers|polimer|puthu|sanjha|sidharth|spondon|kiran|sun tv|sundrani|suvarna|thanthi|vaanavil|vasanth|vendhar|vissa|jomjomat|j movies|ktv|maha|mahua|pitaara|public m|sun life|tabbar|thalaa|tolly|chintu|chutti|kochu|kushi|naap|east|sun music|sun news|nick junior|sonic marathi$|rang$|sristi|teh|haryana|mh)/) {
+              if (tolower(name) ~ /(tamil|telugu|kannada|bangla|malayalam|english|test|wow|swayam|sathee|bie|cie|vidya|gujarat|bengali|asianet|maa|ptc|vijay|etv|aath|rongeen|raj|punjab|manorama|mahaa|jaya|gemini|udaya|salaam|biskope|surya|adithya|amrita|colors super$|arunprabha|girnar|kashir|oriya|saptagiri|urdu|podhigai|desi channel$|kairali|jalsha|studio|apex|flower|jonack|kalaignar|makkal|mango|may|mk|moon|nakshatra|bangalore|peppers|polimer|puthu|sanjha|sidharth|spondon|kiran|sun tv|sundrani|suvarna|thanthi|vaanavil|vasanth|vendhar|vissa|jomjomat|j movies|ktv|maha|mahua|pitaara|public m|sun life|tabbar|thalaa|tolly|chintu|chutti|kochu|kushi|naap|east|sun music|sun news|nick junior|sonic marathi$|rang$|sristi|teh|haryana|mh)/) {
                 skip = 1
               } else {
                 skip = 0
@@ -133,17 +157,14 @@ jobs:
               }
               next
             }
-
-            !skip {
-              print
-            }
+            !skip { print }
           ' build/VortexVision.tmp > build/VortexVision.filtered
 
           mv build/VortexVision.filtered build/VortexVision.tmp
 
-          # -------------------------------------------------
-          # CORRECT DEDUPE (BY CHANNEL NAME, FIRST WINS)
-          # -------------------------------------------------
+          # --------------------------------------------------
+          # DEDUPLICATION (BY CHANNEL NAME, FIRST WINS)
+          # --------------------------------------------------
           awk '
             /^#EXTINF/ {
               name = $0
@@ -158,18 +179,18 @@ jobs:
               }
               next
             }
-
-            keep {
-              print
-            }
+            keep { print }
           ' build/VortexVision.tmp > build/VortexVision.xyn
 
-          # -------------------------
-          # Safety cleanup
-          # -------------------------
+          # --------------------------------------------------
+          # SAFETY CLEANUP (BLOCK RAW GITHUB LINKS)
+          # --------------------------------------------------
           sed -i '/githubusercontent.com/d' build/VortexVision.xyn
           sed -i '/raw.githubusercontent.com/d' build/VortexVision.xyn
 
+      # --------------------------------------------------
+      # STEP 6: COMMIT & PUSH FINAL PLAYLIST
+      # --------------------------------------------------
       - name: Commit and push playlist
         run: |
           git config user.name "github-actions"
@@ -177,4 +198,4 @@ jobs:
 
           git add build/VortexVision.xyn
           git diff-index --quiet HEAD || git commit -m "Auto update VortexVision playlist"
-          git push || echo "Push failed (probably no changes)"
+          git push || echo "No changes to push"
