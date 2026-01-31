@@ -57,11 +57,15 @@ jobs:
           # ZEE5
           # -------------------------
           if [ -f sources/zee5.m3u ]; then
-            sed '1d' sources/zee5.m3u \
+            sed '1d' sources/zee5.m3u \z
             | grep -Ev 'group-title="(Bengali|Gujarati|Kannada|Malayalam|Odia|Punjabi|Spiritual|Tamil|Telugu)"' \
             | grep -Ev ',Zee 24 Taas$' \
             | sed \
-                -e 's/group-title="[^"]*".*,Zee Anmol Cinema 2/group-title="Entertainment",Zee Anmol Cinema 2/' \
+                -e 's/group-title="[^"]*".*,Zee Chitramandir/group-title="Movies",Zee Chitramandir/' \ 
+                -e 's/group-title="[^"]*".*,Zee Talkies/group-title="Movies",Zee Talkies/' \ 
+                -e 's/group-title="[^"]*".*,Zee Marathi/group-title="Entertainment",Zee Marathi/' \ 
+                -e 's/group-title="[^"]*".*,Zee Anmol$/group-title="Entertainment",Zee Anmol/' \ 
+                -e 's/group-title="[^"]*".*,Zee Yuva/group-title="Entertainment",Zee Yuva/' \
             >> build/VortexVision.tmp
           fi
 
