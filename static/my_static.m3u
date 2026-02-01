@@ -118,4 +118,8 @@ https://ranapk.online/OPPLEX/RANAPK1/play.php?id=150478|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="0" tvg-name="" group-title="Movies" tvg-logo="https://static.epg.best/in/ZeeAction.in.png",Zee Action
 https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66191|User-Agent=RANAPK
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+#EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Entertainment",&TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 
