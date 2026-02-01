@@ -202,7 +202,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_24_Kalak_BTS/output/index.mpd?__hdnea
 #EXTHTTP:{"cookie":"__hdnea__=st=1769908111~exp=1769994511~acl=/*~hmac=6086255c66d9865f1cf19c2a23cbe19ae53807c463e0d5462f660e2af9bbed09"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd?__hdnea__=st=1769908111~exp=1769994511~acl=/*~hmac=6086255c66d9865f1cf19c2a23cbe19ae53807c463e0d5462f660e2af9bbed09&xxx=%7Ccookie=__hdnea__=st=1769908111~exp=1769994511~acl=/*~hmac=6086255c66d9865f1cf19c2a23cbe19ae53807c463e0d5462f660e2af9bbed09
 
-#EXTINF:-1 tvg-id="1021" group-title="Entertainment",Zee Marathi
+#EXTINF:-1 tvg-id="1021" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6926b72412225200bc3622da23dfd90c:07a39d35219cfb5fdcc84213491bf302
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -244,7 +244,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/output/index.mpd?__hdnea_
 #EXTHTTP:{"cookie":"__hdnea__=st=1769908111~exp=1769994511~acl=/*~hmac=6086255c66d9865f1cf19c2a23cbe19ae53807c463e0d5462f660e2af9bbed09"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinema_MOB/WDVLive/index.mpd?__hdnea__=st=1769908111~exp=1769994511~acl=/*~hmac=6086255c66d9865f1cf19c2a23cbe19ae53807c463e0d5462f660e2af9bbed09&xxx=%7Ccookie=__hdnea__=st=1769908111~exp=1769994511~acl=/*~hmac=6086255c66d9865f1cf19c2a23cbe19ae53807c463e0d5462f660e2af9bbed09
 
-#EXTINF:-1 tvg-id="1270" group-title="Movies",Zee Talkies HD
+#EXTINF:-1 tvg-id="1270" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e370273ac0f521c8ee529a886f2dc06:c2bc9f42751680a68c006986fbf2f039
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -286,7 +286,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeePowerHD_BTS/output/index.mpd?__hdnea__
 #EXTHTTP:{"cookie":"__hdnea__=st=1769908111~exp=1769994511~acl=/*~hmac=6086255c66d9865f1cf19c2a23cbe19ae53807c463e0d5462f660e2af9bbed09"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeThirai_BTS/output/index.mpd?__hdnea__=st=1769908111~exp=1769994511~acl=/*~hmac=6086255c66d9865f1cf19c2a23cbe19ae53807c463e0d5462f660e2af9bbed09&xxx=%7Ccookie=__hdnea__=st=1769908111~exp=1769994511~acl=/*~hmac=6086255c66d9865f1cf19c2a23cbe19ae53807c463e0d5462f660e2af9bbed09
 
-#EXTINF:-1 tvg-id="1290" group-title="Movies",Zee Chitramandir
+#EXTINF:-1 tvg-id="1290" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",Zee Chitramandir
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95b726ce54c05713ac6bf540ee64ca87:8e1bc81913c474311b79ca988c087f2a
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
@@ -421,7 +421,7 @@ https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index-connected
 https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Power-HD/index-connected/index-connected.m3u8?hdntl=exp=1770019055~acl=%2f*~id=dfcf6774-ee4c-49c5-b61e-ed9436fc557e~data=hdntl~hmac=3da5f9e67e104f5754c9892891552b5d2ad24232f1248a210dedcda12b37fd82
 
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1769979042~acl=/*~id=54746426873497945100160430183386~hmac=0400c77aa5b250ba360d9357311586bcd1eacb24c5d0f1690b1ae1ac45783c49
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1769980865~acl=/*~id=52804043128563482530653451298564~hmac=70a493bcb25fb806113e8f517835739b300236510b0aa8564c40c30c512a3c24
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
