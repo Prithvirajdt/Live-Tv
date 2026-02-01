@@ -80,26 +80,17 @@ jobs:
           fi
 
           # --------------------------------------------------
-          # ZEE5: FILTER + NORMALIZE GROUP TITLES
+          # ZEE5
           # --------------------------------------------------
           if [ -f sources/zee5.m3u ]; then
             sed '1d' sources/zee5.m3u >> build/VortexVision.tmp
           fi
 
           # --------------------------------------------------
-          # SONY: KEEP ONLY "SONY MARATHII"
+          # SONY
           # --------------------------------------------------
           if [ -f sources/sony.m3u ]; then
-            sed '1d' sources/sony.m3u \
-            | awk '
-                /^#EXTINF/ {
-                  keep = ($0 ~ /,Sony Marathii$/)
-                  if (keep) {
-                    gsub(/group-title="[^"]*"/, "group-title=\"Entertainment\"")
-                  }
-                }
-                keep { print }
-              ' >> build/VortexVision.tmp
+            sed '1d' sources/sony.m3u >> build/VortexVision.tmp
           fi
 
           # --------------------------------------------------
