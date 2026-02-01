@@ -83,12 +83,7 @@ jobs:
           # ZEE5: FILTER + NORMALIZE GROUP TITLES
           # --------------------------------------------------
           if [ -f sources/zee5.m3u ]; then
-            sed '1d' sources/zee5.m3u \
-            | grep -Ev 'group-title="(Bengali|Gujarati|Kannada|Malayalam|Odia|Punjabi|Spiritual|Tamil|Telugu)"' \
-            | grep -Ev ',Zee 24 Taas$' \
-            | sed \
-                -e 's/group-title="[^"]*".*,Zee Anmol$/group-title="Entertainment",Zee Anmol/' \
-            >> build/VortexVision.tmp
+            sed '1d' sources/zee5.m3u >> build/VortexVision.tmp
           fi
 
           # --------------------------------------------------
