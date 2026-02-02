@@ -49,9 +49,6 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="Goldmines.Movies.in" tvg-name="GOLDMINES MOVIES" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",GOLDMINES MOVIES 
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-id="Goldmines.Bollywood.in" tvg-name="Goldmines Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg/revision/latest?cb=20220401125831" group-title="Movies",Goldmines Bollywood 
-https://ranapk.online/OPPLEX/RANAPK1/play.php?id=112973|User-Agent=RANAPK
-
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies",Goldmines 
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
@@ -115,8 +112,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 #EXTINF:-1 tvg-id="1847" tvg-logo="https://wallpapers.com/images/hd/adult-swim-qlbbjgfdaqeap8dw.jpg" group-title="KIDS - TV",Adult Swim
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1847
 
-#EXTINF:-1 tvg-id="11633" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/11549.png" group-title="HINDI - TV",Cartoon Network Hindi
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11633
+#EXTINF:-1 tvg-id="11633" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75HVgKiQGpjSfmSSzsmGWNeLjXqYXn3zVgw&s" group-title="HINDI - TV",Cartoon Network Hindi
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PD6NAln3SPGDD3E6dpdg5w","kid":"nXoZF+4yRNGYGTzdH/H+rg"}],"type":"temporary"}
