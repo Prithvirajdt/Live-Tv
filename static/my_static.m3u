@@ -112,11 +112,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="Movies",Zee Anmol Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
-https://ranapk.online/OPPLEX/RANAPK1/play.php?id=150478|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="1847" tvg-logo="https://wallpapers.com/images/hd/adult-swim-qlbbjgfdaqeap8dw.jpg" group-title="KIDS - TV",Adult Swim
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1847
 
-#EXTINF:-1 tvg-id="0" tvg-name="" group-title="Movies" tvg-logo="https://static.epg.best/in/ZeeAction.in.png",Zee Action
-https://ranapk.online/OPPLEX/RANAPK1/play.php?id=66191|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="11633" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/11549.png" group-title="HINDI - TV",Cartoon Network Hindi
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11633
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PD6NAln3SPGDD3E6dpdg5w","kid":"nXoZF+4yRNGYGTzdH/H+rg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Watcho Dishtv",Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
