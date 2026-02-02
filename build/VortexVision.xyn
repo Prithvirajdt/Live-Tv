@@ -3210,13 +3210,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_MOB/WDVLive/index.mpd?__hdne
 #EXTHTTP:{"cookie":"__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeClassic_MOB/WDVLive/index.mpd?__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30&xxx=%7Ccookie=__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30
 
-#EXTINF:-1 tvg-id="1319" tvg-language="Hindi" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",Zee Cafe HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=937e3af54bd55ef4b862296e0319bb80:8868db6c5e57e4330e9304d18745ea5f
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_MOB/WDVLive/index.mpd?__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30&xxx=%7Ccookie=__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30
-
 #EXTINF:-1 tvg-id="1351" tvg-language="Hindi" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=284db1a465ee50c081b7fa9735c4e000:26d05a4a82a0d6eb317dd861a06d746c
@@ -3230,13 +3223,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_MOB/WDVLive/index.mpd?__hdnea__=st=
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathiHD_MOB/WDVLive/index.mpd?__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30&xxx=%7Ccookie=__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30
-
-#EXTINF:-1 tvg-id="1364" tvg-language="Hindi" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cafe_SD.png",Zee Cafe SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeSD_MOB/WDVLive/index.mpd?__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30&xxx=%7Ccookie=__hdnea__=st=1770031627~exp=1770118027~acl=/*~hmac=678e53598a74fc3192f814fa66fb919e21191d66ea84daabd2165eee3c2a1a30
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_374,h_374,c_fill,f_webp,q_auto:eco/resources/0-9-tvhd_0/square/374x3748790ab6dd09442588cf081e4bed6a8e8",&TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
