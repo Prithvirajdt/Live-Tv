@@ -123,432 +123,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBTPyHbc4zxjLfiOkXhBaZigoduclzSyYFHEjQ-GPwRg&s=10" group-title="Kids",GUBBARE
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
-#EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
-#EXTINF:-1 tvg-id="61825" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61594.jpg" group-title="Kids 24/7",24X7 - ANGRY BIRDS HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61825
-#EXTINF:-1 tvg-id="61826" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61595.png" group-title="Kids 24/7",24X7 - ANGRY BIRDS BLUE HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61826
-#EXTINF:-1 tvg-id="60746" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60530.jpg" group-title="Kids 24/7",24X7 - BABYSHARK
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60746
-#EXTINF:-1 tvg-id="63716" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63437.jpg" group-title="Kids 24/7",24X7 - WOLFO HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63716
-#EXTINF:-1 tvg-id="60750" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60534.jpg" group-title="Kids 24/7",24X7 - DIANA SHOW
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60750
-#EXTINF:-1 tvg-id="60734" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60518.jpg" group-title="Kids 24/7",24X7 - NASTYA
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60734
-#EXTINF:-1 tvg-id="63717" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63438.jpg" group-title="Kids 24/7",24X7 - GECKO GARAGE HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63717
-#EXTINF:-1 tvg-id="63719" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63440.png" group-title="Kids 24/7",24X7 - OMAR & HANA HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63719
-#EXTINF:-1 tvg-id="63718" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63439.jpg" group-title="Kids 24/7",24X7 - MRBEAN HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63718
-#EXTINF:-1 tvg-id="63720" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63441.png" group-title="Kids 24/7",24X7 - PROPHET STORIES HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63720
-#EXTINF:-1 tvg-id="61822" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61591.jpg" group-title="Kids 24/7",24X7 - ABC HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61822
-#EXTINF:-1 tvg-id="61823" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61592.png" group-title="Kids 24/7",24X7 - 123 HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61823
-#EXTINF:-1 tvg-id="61824" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61593.jpg" group-title="Kids 24/7",24X7 - ALVINN CHIPMUNKS HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61824
-#EXTINF:-1 tvg-id="60748" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60532.png" group-title="Kids 24/7",24X7 - BABYTV
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60748
-#EXTINF:-1 tvg-id="63722" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63443.jpg" group-title="Kids 24/7",24X7 - BLUEY HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63722
-#EXTINF:-1 tvg-id="61827" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61596.png" group-title="Kids 24/7",24X7 - SUPER WINGS HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61827
-#EXTINF:-1 tvg-id="61828" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61597.jpg" group-title="Kids 24/7",24X7 - CUPHEAD SHOW HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61828
-#EXTINF:-1 tvg-id="61829" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61598.jpg" group-title="Kids 24/7",24X7 - GO DOG GO HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61829
-#EXTINF:-1 tvg-id="61830" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61599.jpg" group-title="Kids 24/7",24X7 - SHARKDOG HD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61830
-#EXTINF:-1 tvg-id="62566" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62318.jpg" group-title="Kids 24/7",24X7 - TRANSFORMERS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62566
-#EXTINF:-1 tvg-id="60733" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60517.jpg" group-title="Kids 24/7",24X7 - VLAD&NIKI
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60733
-#EXTINF:-1 tvg-id="60737" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60521.jpg" group-title="Kids 24/7",24X7 - PJ MASKS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60737
-#EXTINF:-1 tvg-id="60736" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60520.jpg" group-title="Kids 24/7",24X7 - MASHA&BEAR
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60736
-#EXTINF:-1 tvg-id="60738" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60522.jpg" group-title="Kids 24/7",24X7 - MICKEY MOUSE
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60738
-#EXTINF:-1 tvg-id="60739" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60523.png" group-title="Kids 24/7",24X7 - TOM&JERRY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60739
-#EXTINF:-1 tvg-id="61528" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61306.jpg" group-title="Kids 24/7",24X7 - BOSS BABY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61528
-#EXTINF:-1 tvg-id="60749" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60533.jpg" group-title="Kids 24/7",24X7 - BLOOPIES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60749
-#EXTINF:-1 tvg-id="61531" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61309.jpg" group-title="Kids 24/7",24X7 - LITTLEPONY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61531
-#EXTINF:-1 tvg-id="60741" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60525.png" group-title="Kids 24/7",24X7 - SPONGEBOB
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60741
-#EXTINF:-1 tvg-id="60742" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60526.jpg" group-title="Kids 24/7",24X7 - PETS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60742
-#EXTINF:-1 tvg-id="60743" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60527.jpg" group-title="Kids 24/7",24X7 - ODDBODS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60743
-#EXTINF:-1 tvg-id="60744" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60528.jpg" group-title="Kids 24/7",24X7 - LARVA
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60744
-#EXTINF:-1 tvg-id="60752" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60536.jpg" group-title="Kids 24/7",24X7 - GRIZZY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60752
-#EXTINF:-1 tvg-id="60745" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60529.png" group-title="Kids 24/7",24X7 - BOB THE BUILDER
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60745
-#EXTINF:-1 tvg-id="60747" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60531.jpg" group-title="Kids 24/7",24X7 - CLOUDBABIES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60747
-#EXTINF:-1 tvg-id="62567" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62319.jpg" group-title="Kids 24/7",24X7 - TOY STORY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62567
-#EXTINF:-1 tvg-id="60753" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60537.jpg" group-title="Kids 24/7",24X7 - KIDS CHANNELS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60753
-#EXTINF:-1 tvg-id="58473" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58257.png" group-title="Kids 24/7",24X7 - DISNEY MOVIES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58473
-#EXTINF:-1 tvg-id="58478" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58262.png" group-title="Kids 24/7",24X7 - DISNEY MOVIES 2
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58478
-#EXTINF:-1 tvg-id="58482" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58266.png" group-title="Kids 24/7",24X7 - DISNEY MOVIES 3
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58482
-#EXTINF:-1 tvg-id="60754" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60538.jpg" group-title="Kids 24/7",24X7 - SPIDEY.
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60754
-#EXTINF:-1 tvg-id="60756" tvg-logo="https://i.ibb.co/gLsp7Vrz/x.jpg" group-title="Kids 24/7",24X7 - BLIPPI
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60756
-#EXTINF:-1 tvg-id="61529" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61307.jpg" group-title="Kids 24/7",24X7 - MIGHTYLITTE BHEEM
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61529
-#EXTINF:-1 tvg-id="61530" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61308.jpg" group-title="Kids 24/7",24X7 - SONIC
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61530
-#EXTINF:-1 tvg-id="61532" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61310.jpg" group-title="Kids 24/7",24X7 - SHAUNTHESHEEP
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61532
-#EXTINF:-1 tvg-id="61533" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61311.jpg" group-title="Kids 24/7",24X7 - GARFIELDSHOW
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61533
-#EXTINF:-1 tvg-id="61534" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61312.jpg" group-title="Kids 24/7",24X7 - OGGY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61534
-#EXTINF:-1 tvg-id="61535" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61313.jpg" group-title="Kids 24/7",24X7 - CURIOUSGEORGE
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61535
-#EXTINF:-1 tvg-id="61536" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61314.jpg" group-title="Kids 24/7",24X7 - PUCCA
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61536
-#EXTINF:-1 tvg-id="61537" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61315.jpg" group-title="Kids 24/7",24X7 - PINKPANTHER
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61537
-#EXTINF:-1 tvg-id="61538" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61316.jpg" group-title="Kids 24/7",24X7 - FIREMANSAM
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61538
-#EXTINF:-1 tvg-id="62568" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62320.jpg" group-title="Kids 24/7",24X7 - TMNT
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62568
-#EXTINF:-1 tvg-id="62569" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62321.jpg" group-title="Kids 24/7",24X7 - POWER RANGERS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62569
-#EXTINF:-1 tvg-id="61031" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60812.jpg" group-title="Kids 24/7",24X7 - BUBBLE GUPPIES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61031
-#EXTINF:-1 tvg-id="58454" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58238.jpg" group-title="Kids 24/7",24X7 - DRAKE AND JOSH
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58454
-#EXTINF:-1 tvg-id="58453" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58237.png" group-title="Kids 24/7",24X7 - ADVENTURE TIME
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58453
-#EXTINF:-1 tvg-id="62570" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62322.jpg" group-title="Kids 24/7",24X7 - PINKY AND THE BRAIN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62570
-#EXTINF:-1 tvg-id="58458" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58242.jpg" group-title="Kids 24/7",24X7 - AVATAR
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58458
-#EXTINF:-1 tvg-id="58463" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58247.png" group-title="Kids 24/7",24X7 - BATMAN BRAVE AND THE BOLD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58463
-#EXTINF:-1 tvg-id="58466" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58250.png" group-title="Kids 24/7",24X7 - BATMAN THE ANIMATED SERIES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58466
-#EXTINF:-1 tvg-id="58467" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58251.jpg" group-title="Kids 24/7",24X7 - BEN 10
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58467
-#EXTINF:-1 tvg-id="58465" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58249.png" group-title="Kids 24/7",24X7 - BEN AND HOLLY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58465
-#EXTINF:-1 tvg-id="58474" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58258.jpg" group-title="Kids 24/7",24X7 - BLUEY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58474
-#EXTINF:-1 tvg-id="58483" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58267.jpg" group-title="Kids 24/7",24X7 - ARCADE
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58483
-#EXTINF:-1 tvg-id="58487" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58271.jpg" group-title="Kids 24/7",24X7 - DOC MCSTUFFINS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58487
-#EXTINF:-1 tvg-id="58488" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58272.jpg" group-title="Kids 24/7",24X7 - SPIDERMAN AND HIS AMAZING FRIENDS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58488
-#EXTINF:-1 tvg-id="58490" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58274.jpg" group-title="Kids 24/7",24X7 - SARAH AND DUCK
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58490
-#EXTINF:-1 tvg-id="58497" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58281.jpg" group-title="Kids 24/7",24X7 - DREAMWORKS ANIMATION
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58497
-#EXTINF:-1 tvg-id="58499" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58283.png" group-title="Kids 24/7",24X7 - FAIRLY ODD PARENTS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58499
-#EXTINF:-1 tvg-id="58494" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58278.png" group-title="Kids 24/7",24X7 - CHARLIE AND LOLA
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58494
-#EXTINF:-1 tvg-id="58498" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58282.jpg" group-title="Kids 24/7",24X7 - BATFINK
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58498
-#EXTINF:-1 tvg-id="58504" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58288.jpg" group-title="Kids 24/7",24X7 - GRAVITY FALLS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58504
-#EXTINF:-1 tvg-id="58503" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58287.jpg" group-title="Kids 24/7",24X7 - A PLACE TO CALL HOME
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58503
-#EXTINF:-1 tvg-id="58515" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58299.png" group-title="Kids 24/7",24X7 - JOHNNY BRAVO
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58515
-#EXTINF:-1 tvg-id="58449" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58233.jpg" group-title="Kids 24/7",24X7 - JOHNY TEST
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58449
-#EXTINF:-1 tvg-id="58456" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58240.jpg" group-title="Kids 24/7",24X7 - LEGO MOVIES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58456
-#EXTINF:-1 tvg-id="58459" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58243.png" group-title="Kids 24/7",24X7 - LEGO STAR WARS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58459
-#EXTINF:-1 tvg-id="58452" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58236.png" group-title="Kids 24/7",24X7 - LOONEY TUNES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58452
-#EXTINF:-1 tvg-id="58451" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58235.png" group-title="Kids 24/7",24X7 - MICKEY MOUSE CLUBHOUSE
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58451
-#EXTINF:-1 tvg-id="58476" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58260.jpg" group-title="Kids 24/7",24X7 - SAINT SEIYA OMEGA
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58476
-#EXTINF:-1 tvg-id="58455" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58239.jpg" group-title="Kids 24/7",24X7 - MR BEAN ANIMATED
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58455
-#EXTINF:-1 tvg-id="58457" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58241.png" group-title="Kids 24/7",24X7 - MUPPET BABIES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58457
-#EXTINF:-1 tvg-id="58592" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58376.jpg" group-title="Kids 24/7",24X7 - PJ MASKS.
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58592
-#EXTINF:-1 tvg-id="58462" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58246.jpg" group-title="Kids 24/7",24X7 - PAW PATROL
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58462
-#EXTINF:-1 tvg-id="58460" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58244.png" group-title="Kids 24/7",24X7 - PEPPA PIG
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58460
-#EXTINF:-1 tvg-id="58469" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58253.png" group-title="Kids 24/7",24X7 - PINKY MALINKY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58469
-#EXTINF:-1 tvg-id="58464" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58248.jpg" group-title="Kids 24/7",24X7 - POKEMON
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58464
-#EXTINF:-1 tvg-id="58468" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58252.png" group-title="Kids 24/7",24X7 - POPEYE
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58468
-#EXTINF:-1 tvg-id="58472" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58256.png" group-title="Kids 24/7",24X7 - POWERPUFF GIRLS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58472
-#EXTINF:-1 tvg-id="58471" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58255.jpg" group-title="Kids 24/7",24X7 - PUPPY DOG PALS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58471
-#EXTINF:-1 tvg-id="58477" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58261.png" group-title="Kids 24/7",24X7 - RECESS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58477
-#EXTINF:-1 tvg-id="58481" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58265.png" group-title="Kids 24/7",24X7 - RUGRATS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58481
-#EXTINF:-1 tvg-id="58492" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58276.png" group-title="Kids 24/7",24X7 - SCOOBY DOO
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58492
-#EXTINF:-1 tvg-id="58491" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58275.jpg" group-title="Kids 24/7",24X7 - SHAUN THE SHEEP
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58491
-#EXTINF:-1 tvg-id="58489" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58273.jpg" group-title="Kids 24/7",24X7 - SOFIA THE FIRST
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58489
-#EXTINF:-1 tvg-id="58496" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58280.png" group-title="Kids 24/7",24X7 - SPIDERMAN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58496
-#EXTINF:-1 tvg-id="58493" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58277.png" group-title="Kids 24/7",24X7 - SPONGEBOB SQUAREPANTS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58493
-#EXTINF:-1 tvg-id="58510" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58294.jpg" group-title="Kids 24/7",24X7 - STAR WARS REBELS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58510
-#EXTINF:-1 tvg-id="58495" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58279.png" group-title="Kids 24/7",24X7 - STAR WARS THE CLONE WARS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58495
-#EXTINF:-1 tvg-id="58500" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58284.png" group-title="Kids 24/7",24X7 - STEVEN UNIVERSE
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58500
-#EXTINF:-1 tvg-id="58450" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58234.png" group-title="Kids 24/7",24X7 - DRAGONBALL Z
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58450
-#EXTINF:-1 tvg-id="58501" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58285.jpg" group-title="Kids 24/7",24X7 - THE REN & STIMPY SHOW
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58501
-#EXTINF:-1 tvg-id="58509" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58293.png" group-title="Kids 24/7",24X7 - TEEN TITANS GO
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58509
-#EXTINF:-1 tvg-id="58507" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58291.jpg" group-title="Kids 24/7",24X7 - THE BATMAN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58507
-#EXTINF:-1 tvg-id="58516" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58300.png" group-title="Kids 24/7",24X7 - THE FLINSTONES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58516
-#EXTINF:-1 tvg-id="58512" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58296.png" group-title="Kids 24/7",24X7 - THE REGULAR SHOW
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58512
-#EXTINF:-1 tvg-id="58524" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58308.png" group-title="Kids 24/7",24X7 - THE SPECTACULAR SPIDERMAN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58524
-#EXTINF:-1 tvg-id="58521" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58305.png" group-title="Kids 24/7",24X7 - THOMAS AND FRIENDS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58521
-#EXTINF:-1 tvg-id="58593" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58377.png" group-title="Kids 24/7",24X7 - TOM AND JERRY.
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58593
-#EXTINF:-1 tvg-id="58530" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58314.jpg" group-title="Kids 24/7",24X7 - TOP CAT
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58530
-#EXTINF:-1 tvg-id="58601" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58385.jpg" group-title="Kids 24/7",24X7 - WACKY RACES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58601
-#EXTINF:-1 tvg-id="58541" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58325.png" group-title="Kids 24/7",24X7 - X-MEN CARTOON
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58541
-#EXTINF:-1 tvg-id="58542" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58326.jpg" group-title="Kids 24/7",24X7 - ALVIN AND THE CHIPMUNKS TV
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58542
-#EXTINF:-1 tvg-id="58540" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58324.jpg" group-title="Kids 24/7",24X7 - PETER RABBIT
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58540
-#EXTINF:-1 tvg-id="58539" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58323.jpg" group-title="Kids 24/7",24X7 - ZENIMATION
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58539
-#EXTINF:-1 tvg-id="58547" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58331.jpg" group-title="Kids 24/7",24X7 - ANDI MACK
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58547
-#EXTINF:-1 tvg-id="62249" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58330.jpg" group-title="Kids 24/7",24X7 - BAYMAX
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62249
-#EXTINF:-1 tvg-id="58551" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58335.png" group-title="Kids 24/7",24X7 - BEN 10 ULTIMATE ALIEN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58551
-#EXTINF:-1 tvg-id="62248" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58254.jpg" group-title="Kids 24/7",24X7 - THE CARE BEARS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62248
-#EXTINF:-1 tvg-id="58479" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58263.jpg" group-title="Kids 24/7",24X7 - NINJAGO: MASTERS OF SPINJITZU
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58479
-#EXTINF:-1 tvg-id="58475" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58259.jpg" group-title="Kids 24/7",24X7 - BUGS BUNNY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58475
-#EXTINF:-1 tvg-id="58485" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58269.png" group-title="Kids 24/7",24X7 - CAILLOU
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58485
-#EXTINF:-1 tvg-id="58480" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58264.jpg" group-title="Kids 24/7",24X7 - CAPTAIN PLANET AND THE PLANETEERS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58480
-#EXTINF:-1 tvg-id="58484" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58268.png" group-title="Kids 24/7",24X7 - COW & CHICKEN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58484
-#EXTINF:-1 tvg-id="58570" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58354.png" group-title="Kids 24/7",24X7 - DANIEL TIGER'S NEIGHBOURHOOD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58570
-#EXTINF:-1 tvg-id="58598" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58382.png" group-title="Kids 24/7",24X7 - DESPICABLE ME.
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58598
-#EXTINF:-1 tvg-id="58505" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58289.jpg" group-title="Kids 24/7",24X7 - DISNEY SHORTS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58505
-#EXTINF:-1 tvg-id="58502" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58286.png" group-title="Kids 24/7",24X7 - DONALD DUCK
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58502
-#EXTINF:-1 tvg-id="58599" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58383.jpg" group-title="Kids 24/7",24X7 - DOTA DRAGON"S BLOOD
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58599
-#EXTINF:-1 tvg-id="58511" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58295.png" group-title="Kids 24/7",24X7 - DRAGON BALL Z KAI
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58511
-#EXTINF:-1 tvg-id="58508" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58292.jpg" group-title="Kids 24/7",24X7 - DUCKTALES( 80'S)
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58508
-#EXTINF:-1 tvg-id="58517" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58301.png" group-title="Kids 24/7",24X7 - ED EDD N EDDY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58517
-#EXTINF:-1 tvg-id="58513" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58297.jpg" group-title="Kids 24/7",24X7 - FELIX THE CAT
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58513
-#EXTINF:-1 tvg-id="58522" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58306.jpg" group-title="Kids 24/7",24X7 - FRAGGLE ROCK
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58522
-#EXTINF:-1 tvg-id="58520" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58304.jpg" group-title="Kids 24/7",24X7 - GUARDIANS OF THE GALAXY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58520
-#EXTINF:-1 tvg-id="58523" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58307.png" group-title="Kids 24/7",24X7 - INVINCIBLE
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58523
-#EXTINF:-1 tvg-id="62572" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62324.jpg" group-title="Kids 24/7",24X7 - MARVEL AVENGERS ASSEMBLE
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62572
-#EXTINF:-1 tvg-id="58529" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58313.png" group-title="Kids 24/7",24X7 - HARLEY QUINN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58529
-#EXTINF:-1 tvg-id="58535" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58319.png" group-title="Kids 24/7",24X7 - HE-MAN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58535
-#EXTINF:-1 tvg-id="58536" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58320.jpg" group-title="Kids 24/7",24X7 - HENRY DANGER
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58536
-#EXTINF:-1 tvg-id="58537" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58321.jpg" group-title="Kids 24/7",24X7 - HOTEL TRANSYLVANIA
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58537
-#EXTINF:-1 tvg-id="58544" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58328.jpg" group-title="Kids 24/7",24X7 - JACKIE CHAN ADVENTURES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58544
-#EXTINF:-1 tvg-id="58545" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58329.png" group-title="Kids 24/7",24X7 - JESSE
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58545
-#EXTINF:-1 tvg-id="58549" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58333.jpg" group-title="Kids 24/7",24X7 - JOHNNY TEST
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58549
-#EXTINF:-1 tvg-id="62573" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62325.jpg" group-title="Kids 24/7",24X7 - LITTLE EINSTEINS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62573
-#EXTINF:-1 tvg-id="58556" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58340.jpg" group-title="Kids 24/7",24X7 - LEGO CITY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58556
-#EXTINF:-1 tvg-id="58572" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58356.jpg" group-title="Kids 24/7",24X7 - LEGO MOVIE
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58572
-#EXTINF:-1 tvg-id="62574" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62326.jpg" group-title="Kids 24/7",24X7 - MORTAL KOMBAT
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62574
-#EXTINF:-1 tvg-id="62575" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62327.jpg" group-title="Kids 24/7",24X7 - THE PJS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62575
-#EXTINF:-1 tvg-id="58563" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58347.png" group-title="Kids 24/7",24X7 - LOONY TUNES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58563
-#EXTINF:-1 tvg-id="58562" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58346.png" group-title="Kids 24/7",24X7 - DEXTER LABORATORY
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58562
-#EXTINF:-1 tvg-id="62576" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62328.jpg" group-title="Kids 24/7",24X7 - ELENA OF AVALOR
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62576
-#EXTINF:-1 tvg-id="58569" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58353.jpg" group-title="Kids 24/7",24X7 - MICKEY AND THE ROADSTER RACERS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58569
-#EXTINF:-1 tvg-id="62577" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62329.jpg" group-title="Kids 24/7",24X7 - DORA THE EXPLORER
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62577
-#EXTINF:-1 tvg-id="58573" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58357.jpg" group-title="Kids 24/7",24X7 - MR BEAN CARTOON
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58573
-#EXTINF:-1 tvg-id="58583" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58367.png" group-title="Kids 24/7",24X7 - MUPPET BABIES S01-S04
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58583
-#EXTINF:-1 tvg-id="58579" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58363.png" group-title="Kids 24/7",24X7 - MUPPET BABIES S05-S07
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58579
-#EXTINF:-1 tvg-id="58580" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58364.png" group-title="Kids 24/7",24X7 - NARUTO
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58580
-#EXTINF:-1 tvg-id="58585" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58369.png" group-title="Kids 24/7",24X7 - OCTONAUTS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58585
-#EXTINF:-1 tvg-id="58590" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58374.png" group-title="Kids 24/7",24X7 - PINGU
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58590
-#EXTINF:-1 tvg-id="58594" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58378.png" group-title="Kids 24/7",24X7 - PEPPA PIG.
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58594
-#EXTINF:-1 tvg-id="58604" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58388.jpg" group-title="Kids 24/7",24X7 - PJ MASKS..
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58604
-#EXTINF:-1 tvg-id="58595" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58379.jpg" group-title="Kids 24/7",24X7 - POKEMON.
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58595
-#EXTINF:-1 tvg-id="58525" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58309.jpg" group-title="Kids 24/7",24X7 - POPEYE THE SAILOR MAN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58525
-#EXTINF:-1 tvg-id="58526" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58310.jpg" group-title="Kids 24/7",24X7 - RAVEN'S HOME
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58526
-#EXTINF:-1 tvg-id="62578" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62330.jpg" group-title="Kids 24/7",24X7 - BLUES CLUES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62578
-#EXTINF:-1 tvg-id="58596" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58380.jpg" group-title="Kids 24/7",24X7 - BLACK CLOVER
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58596
-#EXTINF:-1 tvg-id="58533" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58317.png" group-title="Kids 24/7",24X7 - SESAME STREET
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58533
-#EXTINF:-1 tvg-id="58597" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58381.jpg" group-title="Kids 24/7",24X7 - SHAUN THE SHEEP.
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58597
-#EXTINF:-1 tvg-id="58538" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58322.jpg" group-title="Kids 24/7",24X7 - SHE-RA AND THE PRINCESSES OF POWER
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58538
-#EXTINF:-1 tvg-id="62579" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62331.png" group-title="Kids 24/7",24X7 - BLAZE AND THE MONSTERMACHINES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62579
-#EXTINF:-1 tvg-id="58550" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58334.jpg" group-title="Kids 24/7",24X7 - SONICX
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58550
-#EXTINF:-1 tvg-id="58554" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58338.jpg" group-title="Kids 24/7",24X7 - SPIDER-MAN 90'S
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58554
-#EXTINF:-1 tvg-id="58552" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58336.jpg" group-title="Kids 24/7",24X7 - SPIDER-MAN AND HIS AMAZING FRIENDS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58552
-#EXTINF:-1 tvg-id="58602" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58386.jpg" group-title="Kids 24/7",24X7 - SPONGEBOB SQUAREPANTS.
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58602
-#EXTINF:-1 tvg-id="58600" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58384.png" group-title="Kids 24/7",24X7 - TEEN TITANS GO.
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58600
-#EXTINF:-1 tvg-id="58565" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58349.jpg" group-title="Kids 24/7",24X7 - TELETUBBIES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58565
-#EXTINF:-1 tvg-id="58566" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58350.jpg" group-title="Kids 24/7",24X7 - THE DRAGON BALL Z MOVIE COLLECTION
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58566
-#EXTINF:-1 tvg-id="58574" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58358.png" group-title="Kids 24/7",24X7 - THE FAIRLY ODDPARENTS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58574
-#EXTINF:-1 tvg-id="58576" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58360.png" group-title="Kids 24/7",24X7 - THE FLINTSTONES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58576
-#EXTINF:-1 tvg-id="58588" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58372.png" group-title="Kids 24/7",24X7 - THE JETSONS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58588
-#EXTINF:-1 tvg-id="58577" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58361.png" group-title="Kids 24/7",24X7 - THE LITTLE MERMAID
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58577
-#EXTINF:-1 tvg-id="58641" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58425.jpg" group-title="Kids 24/7",24X7 - ANGRY BIRDS TOONS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58641
-#EXTINF:-1 tvg-id="58591" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58375.jpg" group-title="Kids 24/7",24X7 - THE SMURFS SHOW
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58591
-#EXTINF:-1 tvg-id="58589" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58373.jpg" group-title="Kids 24/7",24X7 - THE SMURFS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58589
-#EXTINF:-1 tvg-id="58518" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58302.png" group-title="Kids 24/7",24X7 - THOMAS & FRIENDS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58518
-#EXTINF:-1 tvg-id="58514" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58298.jpg" group-title="Kids 24/7",24X7 - THREE STOOGES CARTOON
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58514
-#EXTINF:-1 tvg-id="58519" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58303.jpg" group-title="Kids 24/7",24X7 - THUNDER CATS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58519
-#EXTINF:-1 tvg-id="58603" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58387.jpg" group-title="Kids 24/7",24X7 - TOM AND JERRY..
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58603
-#EXTINF:-1 tvg-id="58528" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58312.jpg" group-title="Kids 24/7",24X7 - WHATS NEW SCOOBY DOO
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58528
-#EXTINF:-1 tvg-id="58531" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58315.png" group-title="Kids 24/7",24X7 - X-MEN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58531
-#EXTINF:-1 tvg-id="58618" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58402.jpg" group-title="Kids 24/7",24X7 - SPIDER MAN-1994 45
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58618
-#EXTINF:-1 tvg-id="58614" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58398.jpg" group-title="Kids 24/7",24X7 - TRANFORMERS PRIME
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58614
-#EXTINF:-1 tvg-id="58623" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58407.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOON | TOM AND JERRY TALES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58623
-#EXTINF:-1 tvg-id="58617" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58401.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | THE SMURFS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58617
-#EXTINF:-1 tvg-id="58619" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58403.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | SWAT KATS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58619
-#EXTINF:-1 tvg-id="58622" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58406.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | SPIDER MAN-2008
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58622
-#EXTINF:-1 tvg-id="58625" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58409.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOON | SHINCHAN
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58625
-#EXTINF:-1 tvg-id="58627" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58411.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOON | CHUCHU TV
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58627
-#EXTINF:-1 tvg-id="58631" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58415.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOONS | KUNG FU PANDA
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58631
-#EXTINF:-1 tvg-id="58633" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58417.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOONS | GENERATOR REX HINDI
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58633
-#EXTINF:-1 tvg-id="58630" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58414.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | DUCK TALES-2017
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58630
-#EXTINF:-1 tvg-id="58636" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58420.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | DUCK TALES
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58636
-#EXTINF:-1 tvg-id="58634" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58418.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | DORAEMON HINDI
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58634
-#EXTINF:-1 tvg-id="58640" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58424.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOON | AVATAR THE LAST AIRBENDER
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58640
-#EXTINF:-1 tvg-id="58632" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58416.jpg" group-title="Kids 24/7",24X7 - BEN 10 ULTIMATE ALIEN HINDI
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58632
-#EXTINF:-1 tvg-id="58642" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58426.jpg" group-title="Kids 24/7",24X7 - BEN 10 CLASSIC HINDI
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58642
-#EXTINF:-1 tvg-id="70877" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/70791.jpg" group-title="Kids 24/7",PREMIUM | GOOSEBUMPS
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=70877
-#EXTINF:-1 tvg-id="73200" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/72540.png" group-title="Kids 24/7",PREMIUM | LIV AND MADDIE S1
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=73200
-#EXTINF:-1 tvg-id="73203" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/72543.png" group-title="Kids 24/7",PREMIUM | LIV AND MADDIE S2
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=73203
-#EXTINF:-1 tvg-id="73216" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/72556.png" group-title="Kids 24/7",PREMIUM | LIV AND MADDIE S3
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=73216
-#EXTINF:-1 tvg-id="73218" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/72558.png" group-title="Kids 24/7",PREMIUM | LIV AND MADDIE S4
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=73218
 
 #EXTINF:-1 tvg-id="1077" group-title="Devotional" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sharnam_TV.png",Sharnam TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2554,13 +2128,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Divya_TV_BTS/output/index.mpd?__hdnea__=s
 #EXTHTTP:{"cookie":"__hdnea__=st=1770122639~exp=1770209039~acl=/*~hmac=246985f30957409cc86dc1b3984135637b932731fabb14f8d444b494e3e71ead"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/output/index.mpd?__hdnea__=st=1770122639~exp=1770209039~acl=/*~hmac=246985f30957409cc86dc1b3984135637b932731fabb14f8d444b494e3e71ead&xxx=%7Ccookie=__hdnea__=st=1770122639~exp=1770209039~acl=/*~hmac=246985f30957409cc86dc1b3984135637b932731fabb14f8d444b494e3e71ead
 
-#EXTINF:-1 tvg-id="816" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1770122639~exp=1770209039~acl=/*~hmac=246985f30957409cc86dc1b3984135637b932731fabb14f8d444b494e3e71ead"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mpd?__hdnea__=st=1770122639~exp=1770209039~acl=/*~hmac=246985f30957409cc86dc1b3984135637b932731fabb14f8d444b494e3e71ead&xxx=%7Ccookie=__hdnea__=st=1770122639~exp=1770209039~acl=/*~hmac=246985f30957409cc86dc1b3984135637b932731fabb14f8d444b494e3e71ead
-
 #EXTINF:-1 tvg-id="821" group-title="Infotainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png",Sony BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
@@ -3158,42 +2725,468 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=
 
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" tvg-name="Sony Sab HD" group-title="Entertainment" tvg-logo="https://i.postimg.cc/LhKxf97t/sonysabhd.webp",Sony Sab HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="Sony MAX" group-title="Movies" tvg-logo="https://i.postimg.cc/43JFB33w/sonymax.webp",Sony Max
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-logo="https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",Sony TEN 1 SD
-https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-name="Sony Sports Ten 1 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",Sony TEN 1 HD
-https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 2.in" tvg-name="Sony Sports Ten 2" group-title="Sports" tvg-logo="https://i.postimg.cc/027s4b8q/sonysportsten2.webp",Sony TEN 2 SD
-https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-name="Sony Sports Ten 2 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",Sony TEN 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" tvg-name="Sony Sports Ten 3" group-title="Sports" tvg-logo="https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",Sony TEN 3 SD
-https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2020592-b/TEN3SD/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-name="Sony Sports Ten 3 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",Sony TEN 3 HD
-https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" tvg-name="Sony Sports Ten 4" group-title="Sports" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 SD
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" tvg-name="Sony Sports Ten 4 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 HD
-https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-logo="https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",Sony TEN 5 SD
-https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="Sony Sports Ten 5 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",Sony TEN 5 HD
-https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1770169845~acl=/*~id=30536460498502052921270339004643~hmac=48320d509e88d0507139e321c470197e59e61bb9bcd20bf559757f801d6c76de
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1770184434~acl=/*~id=47461040937254632441372359040620~hmac=bf6b1f8c8f4736683ff36d0267a2cd7a7896ab354b96c6c31820de67120d66d1
 
 
+#EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
+#EXTINF:-1 tvg-id="61825" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61594.jpg" group-title="Kids 24/7",24X7 - ANGRY BIRDS HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61825
+#EXTINF:-1 tvg-id="61826" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61595.png" group-title="Kids 24/7",24X7 - ANGRY BIRDS BLUE HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61826
+#EXTINF:-1 tvg-id="60746" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60530.jpg" group-title="Kids 24/7",24X7 - BABYSHARK
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60746
+#EXTINF:-1 tvg-id="63716" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63437.jpg" group-title="Kids 24/7",24X7 - WOLFO HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63716
+#EXTINF:-1 tvg-id="60750" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60534.jpg" group-title="Kids 24/7",24X7 - DIANA SHOW
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60750
+#EXTINF:-1 tvg-id="60734" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60518.jpg" group-title="Kids 24/7",24X7 - NASTYA
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60734
+#EXTINF:-1 tvg-id="63717" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63438.jpg" group-title="Kids 24/7",24X7 - GECKO GARAGE HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63717
+#EXTINF:-1 tvg-id="63719" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63440.png" group-title="Kids 24/7",24X7 - OMAR & HANA HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63719
+#EXTINF:-1 tvg-id="63718" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63439.jpg" group-title="Kids 24/7",24X7 - MRBEAN HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63718
+#EXTINF:-1 tvg-id="63720" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63441.png" group-title="Kids 24/7",24X7 - PROPHET STORIES HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63720
+#EXTINF:-1 tvg-id="61822" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61591.jpg" group-title="Kids 24/7",24X7 - ABC HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61822
+#EXTINF:-1 tvg-id="61823" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61592.png" group-title="Kids 24/7",24X7 - 123 HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61823
+#EXTINF:-1 tvg-id="61824" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61593.jpg" group-title="Kids 24/7",24X7 - ALVINN CHIPMUNKS HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61824
+#EXTINF:-1 tvg-id="60748" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60532.png" group-title="Kids 24/7",24X7 - BABYTV
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60748
+#EXTINF:-1 tvg-id="63722" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/63443.jpg" group-title="Kids 24/7",24X7 - BLUEY HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=63722
+#EXTINF:-1 tvg-id="61827" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61596.png" group-title="Kids 24/7",24X7 - SUPER WINGS HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61827
+#EXTINF:-1 tvg-id="61828" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61597.jpg" group-title="Kids 24/7",24X7 - CUPHEAD SHOW HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61828
+#EXTINF:-1 tvg-id="61829" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61598.jpg" group-title="Kids 24/7",24X7 - GO DOG GO HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61829
+#EXTINF:-1 tvg-id="61830" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61599.jpg" group-title="Kids 24/7",24X7 - SHARKDOG HD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61830
+#EXTINF:-1 tvg-id="62566" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62318.jpg" group-title="Kids 24/7",24X7 - TRANSFORMERS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62566
+#EXTINF:-1 tvg-id="60733" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60517.jpg" group-title="Kids 24/7",24X7 - VLAD&NIKI
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60733
+#EXTINF:-1 tvg-id="60737" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60521.jpg" group-title="Kids 24/7",24X7 - PJ MASKS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60737
+#EXTINF:-1 tvg-id="60736" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60520.jpg" group-title="Kids 24/7",24X7 - MASHA&BEAR
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60736
+#EXTINF:-1 tvg-id="60738" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60522.jpg" group-title="Kids 24/7",24X7 - MICKEY MOUSE
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60738
+#EXTINF:-1 tvg-id="60739" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60523.png" group-title="Kids 24/7",24X7 - TOM&JERRY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60739
+#EXTINF:-1 tvg-id="61528" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61306.jpg" group-title="Kids 24/7",24X7 - BOSS BABY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61528
+#EXTINF:-1 tvg-id="60749" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60533.jpg" group-title="Kids 24/7",24X7 - BLOOPIES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60749
+#EXTINF:-1 tvg-id="61531" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61309.jpg" group-title="Kids 24/7",24X7 - LITTLEPONY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61531
+#EXTINF:-1 tvg-id="60741" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60525.png" group-title="Kids 24/7",24X7 - SPONGEBOB
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60741
+#EXTINF:-1 tvg-id="60742" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60526.jpg" group-title="Kids 24/7",24X7 - PETS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60742
+#EXTINF:-1 tvg-id="60743" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60527.jpg" group-title="Kids 24/7",24X7 - ODDBODS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60743
+#EXTINF:-1 tvg-id="60744" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60528.jpg" group-title="Kids 24/7",24X7 - LARVA
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60744
+#EXTINF:-1 tvg-id="60752" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60536.jpg" group-title="Kids 24/7",24X7 - GRIZZY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60752
+#EXTINF:-1 tvg-id="60745" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60529.png" group-title="Kids 24/7",24X7 - BOB THE BUILDER
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60745
+#EXTINF:-1 tvg-id="60747" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60531.jpg" group-title="Kids 24/7",24X7 - CLOUDBABIES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60747
+#EXTINF:-1 tvg-id="62567" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62319.jpg" group-title="Kids 24/7",24X7 - TOY STORY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62567
+#EXTINF:-1 tvg-id="60753" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60537.jpg" group-title="Kids 24/7",24X7 - KIDS CHANNELS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60753
+#EXTINF:-1 tvg-id="58473" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58257.png" group-title="Kids 24/7",24X7 - DISNEY MOVIES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58473
+#EXTINF:-1 tvg-id="58478" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58262.png" group-title="Kids 24/7",24X7 - DISNEY MOVIES 2
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58478
+#EXTINF:-1 tvg-id="58482" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58266.png" group-title="Kids 24/7",24X7 - DISNEY MOVIES 3
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58482
+#EXTINF:-1 tvg-id="60754" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60538.jpg" group-title="Kids 24/7",24X7 - SPIDEY.
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60754
+#EXTINF:-1 tvg-id="60756" tvg-logo="https://i.ibb.co/gLsp7Vrz/x.jpg" group-title="Kids 24/7",24X7 - BLIPPI
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60756
+#EXTINF:-1 tvg-id="61529" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61307.jpg" group-title="Kids 24/7",24X7 - MIGHTYLITTE BHEEM
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61529
+#EXTINF:-1 tvg-id="61530" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61308.jpg" group-title="Kids 24/7",24X7 - SONIC
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61530
+#EXTINF:-1 tvg-id="61532" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61310.jpg" group-title="Kids 24/7",24X7 - SHAUNTHESHEEP
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61532
+#EXTINF:-1 tvg-id="61533" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61311.jpg" group-title="Kids 24/7",24X7 - GARFIELDSHOW
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61533
+#EXTINF:-1 tvg-id="61534" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61312.jpg" group-title="Kids 24/7",24X7 - OGGY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61534
+#EXTINF:-1 tvg-id="61535" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61313.jpg" group-title="Kids 24/7",24X7 - CURIOUSGEORGE
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61535
+#EXTINF:-1 tvg-id="61536" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61314.jpg" group-title="Kids 24/7",24X7 - PUCCA
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61536
+#EXTINF:-1 tvg-id="61537" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61315.jpg" group-title="Kids 24/7",24X7 - PINKPANTHER
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61537
+#EXTINF:-1 tvg-id="61538" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/61316.jpg" group-title="Kids 24/7",24X7 - FIREMANSAM
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61538
+#EXTINF:-1 tvg-id="62568" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62320.jpg" group-title="Kids 24/7",24X7 - TMNT
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62568
+#EXTINF:-1 tvg-id="62569" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62321.jpg" group-title="Kids 24/7",24X7 - POWER RANGERS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62569
+#EXTINF:-1 tvg-id="61031" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60812.jpg" group-title="Kids 24/7",24X7 - BUBBLE GUPPIES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=61031
+#EXTINF:-1 tvg-id="58454" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58238.jpg" group-title="Kids 24/7",24X7 - DRAKE AND JOSH
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58454
+#EXTINF:-1 tvg-id="58453" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58237.png" group-title="Kids 24/7",24X7 - ADVENTURE TIME
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58453
+#EXTINF:-1 tvg-id="62570" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62322.jpg" group-title="Kids 24/7",24X7 - PINKY AND THE BRAIN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62570
+#EXTINF:-1 tvg-id="58458" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58242.jpg" group-title="Kids 24/7",24X7 - AVATAR
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58458
+#EXTINF:-1 tvg-id="58463" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58247.png" group-title="Kids 24/7",24X7 - BATMAN BRAVE AND THE BOLD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58463
+#EXTINF:-1 tvg-id="58466" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58250.png" group-title="Kids 24/7",24X7 - BATMAN THE ANIMATED SERIES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58466
+#EXTINF:-1 tvg-id="58467" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58251.jpg" group-title="Kids 24/7",24X7 - BEN 10
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58467
+#EXTINF:-1 tvg-id="58465" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58249.png" group-title="Kids 24/7",24X7 - BEN AND HOLLY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58465
+#EXTINF:-1 tvg-id="58474" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58258.jpg" group-title="Kids 24/7",24X7 - BLUEY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58474
+#EXTINF:-1 tvg-id="58483" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58267.jpg" group-title="Kids 24/7",24X7 - ARCADE
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58483
+#EXTINF:-1 tvg-id="58487" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58271.jpg" group-title="Kids 24/7",24X7 - DOC MCSTUFFINS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58487
+#EXTINF:-1 tvg-id="58488" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58272.jpg" group-title="Kids 24/7",24X7 - SPIDERMAN AND HIS AMAZING FRIENDS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58488
+#EXTINF:-1 tvg-id="58490" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58274.jpg" group-title="Kids 24/7",24X7 - SARAH AND DUCK
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58490
+#EXTINF:-1 tvg-id="58497" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58281.jpg" group-title="Kids 24/7",24X7 - DREAMWORKS ANIMATION
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58497
+#EXTINF:-1 tvg-id="58499" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58283.png" group-title="Kids 24/7",24X7 - FAIRLY ODD PARENTS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58499
+#EXTINF:-1 tvg-id="58494" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58278.png" group-title="Kids 24/7",24X7 - CHARLIE AND LOLA
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58494
+#EXTINF:-1 tvg-id="58498" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58282.jpg" group-title="Kids 24/7",24X7 - BATFINK
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58498
+#EXTINF:-1 tvg-id="58504" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58288.jpg" group-title="Kids 24/7",24X7 - GRAVITY FALLS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58504
+#EXTINF:-1 tvg-id="58503" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58287.jpg" group-title="Kids 24/7",24X7 - A PLACE TO CALL HOME
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58503
+#EXTINF:-1 tvg-id="58515" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58299.png" group-title="Kids 24/7",24X7 - JOHNNY BRAVO
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58515
+#EXTINF:-1 tvg-id="58449" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58233.jpg" group-title="Kids 24/7",24X7 - JOHNY TEST
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58449
+#EXTINF:-1 tvg-id="58456" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58240.jpg" group-title="Kids 24/7",24X7 - LEGO MOVIES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58456
+#EXTINF:-1 tvg-id="58459" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58243.png" group-title="Kids 24/7",24X7 - LEGO STAR WARS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58459
+#EXTINF:-1 tvg-id="58452" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58236.png" group-title="Kids 24/7",24X7 - LOONEY TUNES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58452
+#EXTINF:-1 tvg-id="58451" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58235.png" group-title="Kids 24/7",24X7 - MICKEY MOUSE CLUBHOUSE
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58451
+#EXTINF:-1 tvg-id="58476" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58260.jpg" group-title="Kids 24/7",24X7 - SAINT SEIYA OMEGA
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58476
+#EXTINF:-1 tvg-id="58455" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58239.jpg" group-title="Kids 24/7",24X7 - MR BEAN ANIMATED
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58455
+#EXTINF:-1 tvg-id="58457" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58241.png" group-title="Kids 24/7",24X7 - MUPPET BABIES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58457
+#EXTINF:-1 tvg-id="58592" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58376.jpg" group-title="Kids 24/7",24X7 - PJ MASKS.
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58592
+#EXTINF:-1 tvg-id="58462" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58246.jpg" group-title="Kids 24/7",24X7 - PAW PATROL
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58462
+#EXTINF:-1 tvg-id="58460" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58244.png" group-title="Kids 24/7",24X7 - PEPPA PIG
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58460
+#EXTINF:-1 tvg-id="58469" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58253.png" group-title="Kids 24/7",24X7 - PINKY MALINKY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58469
+#EXTINF:-1 tvg-id="58464" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58248.jpg" group-title="Kids 24/7",24X7 - POKEMON
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58464
+#EXTINF:-1 tvg-id="58468" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58252.png" group-title="Kids 24/7",24X7 - POPEYE
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58468
+#EXTINF:-1 tvg-id="58472" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58256.png" group-title="Kids 24/7",24X7 - POWERPUFF GIRLS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58472
+#EXTINF:-1 tvg-id="58471" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58255.jpg" group-title="Kids 24/7",24X7 - PUPPY DOG PALS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58471
+#EXTINF:-1 tvg-id="58477" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58261.png" group-title="Kids 24/7",24X7 - RECESS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58477
+#EXTINF:-1 tvg-id="58481" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58265.png" group-title="Kids 24/7",24X7 - RUGRATS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58481
+#EXTINF:-1 tvg-id="58492" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58276.png" group-title="Kids 24/7",24X7 - SCOOBY DOO
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58492
+#EXTINF:-1 tvg-id="58491" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58275.jpg" group-title="Kids 24/7",24X7 - SHAUN THE SHEEP
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58491
+#EXTINF:-1 tvg-id="58489" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58273.jpg" group-title="Kids 24/7",24X7 - SOFIA THE FIRST
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58489
+#EXTINF:-1 tvg-id="58496" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58280.png" group-title="Kids 24/7",24X7 - SPIDERMAN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58496
+#EXTINF:-1 tvg-id="58493" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58277.png" group-title="Kids 24/7",24X7 - SPONGEBOB SQUAREPANTS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58493
+#EXTINF:-1 tvg-id="58510" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58294.jpg" group-title="Kids 24/7",24X7 - STAR WARS REBELS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58510
+#EXTINF:-1 tvg-id="58495" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58279.png" group-title="Kids 24/7",24X7 - STAR WARS THE CLONE WARS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58495
+#EXTINF:-1 tvg-id="58500" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58284.png" group-title="Kids 24/7",24X7 - STEVEN UNIVERSE
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58500
+#EXTINF:-1 tvg-id="58450" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58234.png" group-title="Kids 24/7",24X7 - DRAGONBALL Z
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58450
+#EXTINF:-1 tvg-id="58501" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58285.jpg" group-title="Kids 24/7",24X7 - THE REN & STIMPY SHOW
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58501
+#EXTINF:-1 tvg-id="58509" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58293.png" group-title="Kids 24/7",24X7 - TEEN TITANS GO
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58509
+#EXTINF:-1 tvg-id="58507" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58291.jpg" group-title="Kids 24/7",24X7 - THE BATMAN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58507
+#EXTINF:-1 tvg-id="58516" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58300.png" group-title="Kids 24/7",24X7 - THE FLINSTONES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58516
+#EXTINF:-1 tvg-id="58512" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58296.png" group-title="Kids 24/7",24X7 - THE REGULAR SHOW
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58512
+#EXTINF:-1 tvg-id="58524" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58308.png" group-title="Kids 24/7",24X7 - THE SPECTACULAR SPIDERMAN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58524
+#EXTINF:-1 tvg-id="58521" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58305.png" group-title="Kids 24/7",24X7 - THOMAS AND FRIENDS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58521
+#EXTINF:-1 tvg-id="58593" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58377.png" group-title="Kids 24/7",24X7 - TOM AND JERRY.
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58593
+#EXTINF:-1 tvg-id="58530" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58314.jpg" group-title="Kids 24/7",24X7 - TOP CAT
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58530
+#EXTINF:-1 tvg-id="58601" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58385.jpg" group-title="Kids 24/7",24X7 - WACKY RACES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58601
+#EXTINF:-1 tvg-id="58541" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58325.png" group-title="Kids 24/7",24X7 - X-MEN CARTOON
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58541
+#EXTINF:-1 tvg-id="58542" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58326.jpg" group-title="Kids 24/7",24X7 - ALVIN AND THE CHIPMUNKS TV
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58542
+#EXTINF:-1 tvg-id="58540" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58324.jpg" group-title="Kids 24/7",24X7 - PETER RABBIT
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58540
+#EXTINF:-1 tvg-id="58539" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58323.jpg" group-title="Kids 24/7",24X7 - ZENIMATION
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58539
+#EXTINF:-1 tvg-id="58547" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58331.jpg" group-title="Kids 24/7",24X7 - ANDI MACK
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58547
+#EXTINF:-1 tvg-id="62249" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58330.jpg" group-title="Kids 24/7",24X7 - BAYMAX
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62249
+#EXTINF:-1 tvg-id="58551" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58335.png" group-title="Kids 24/7",24X7 - BEN 10 ULTIMATE ALIEN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58551
+#EXTINF:-1 tvg-id="62248" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58254.jpg" group-title="Kids 24/7",24X7 - THE CARE BEARS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62248
+#EXTINF:-1 tvg-id="58479" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58263.jpg" group-title="Kids 24/7",24X7 - NINJAGO: MASTERS OF SPINJITZU
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58479
+#EXTINF:-1 tvg-id="58475" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58259.jpg" group-title="Kids 24/7",24X7 - BUGS BUNNY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58475
+#EXTINF:-1 tvg-id="58485" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58269.png" group-title="Kids 24/7",24X7 - CAILLOU
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58485
+#EXTINF:-1 tvg-id="58480" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58264.jpg" group-title="Kids 24/7",24X7 - CAPTAIN PLANET AND THE PLANETEERS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58480
+#EXTINF:-1 tvg-id="58484" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58268.png" group-title="Kids 24/7",24X7 - COW & CHICKEN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58484
+#EXTINF:-1 tvg-id="58570" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58354.png" group-title="Kids 24/7",24X7 - DANIEL TIGER'S NEIGHBOURHOOD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58570
+#EXTINF:-1 tvg-id="58598" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58382.png" group-title="Kids 24/7",24X7 - DESPICABLE ME.
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58598
+#EXTINF:-1 tvg-id="58505" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58289.jpg" group-title="Kids 24/7",24X7 - DISNEY SHORTS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58505
+#EXTINF:-1 tvg-id="58502" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58286.png" group-title="Kids 24/7",24X7 - DONALD DUCK
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58502
+#EXTINF:-1 tvg-id="58599" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58383.jpg" group-title="Kids 24/7",24X7 - DOTA DRAGON"S BLOOD
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58599
+#EXTINF:-1 tvg-id="58511" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58295.png" group-title="Kids 24/7",24X7 - DRAGON BALL Z KAI
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58511
+#EXTINF:-1 tvg-id="58508" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58292.jpg" group-title="Kids 24/7",24X7 - DUCKTALES( 80'S)
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58508
+#EXTINF:-1 tvg-id="58517" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58301.png" group-title="Kids 24/7",24X7 - ED EDD N EDDY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58517
+#EXTINF:-1 tvg-id="58513" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58297.jpg" group-title="Kids 24/7",24X7 - FELIX THE CAT
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58513
+#EXTINF:-1 tvg-id="58522" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58306.jpg" group-title="Kids 24/7",24X7 - FRAGGLE ROCK
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58522
+#EXTINF:-1 tvg-id="58520" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58304.jpg" group-title="Kids 24/7",24X7 - GUARDIANS OF THE GALAXY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58520
+#EXTINF:-1 tvg-id="58523" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58307.png" group-title="Kids 24/7",24X7 - INVINCIBLE
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58523
+#EXTINF:-1 tvg-id="62572" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62324.jpg" group-title="Kids 24/7",24X7 - MARVEL AVENGERS ASSEMBLE
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62572
+#EXTINF:-1 tvg-id="58529" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58313.png" group-title="Kids 24/7",24X7 - HARLEY QUINN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58529
+#EXTINF:-1 tvg-id="58535" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58319.png" group-title="Kids 24/7",24X7 - HE-MAN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58535
+#EXTINF:-1 tvg-id="58536" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58320.jpg" group-title="Kids 24/7",24X7 - HENRY DANGER
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58536
+#EXTINF:-1 tvg-id="58537" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58321.jpg" group-title="Kids 24/7",24X7 - HOTEL TRANSYLVANIA
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58537
+#EXTINF:-1 tvg-id="58544" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58328.jpg" group-title="Kids 24/7",24X7 - JACKIE CHAN ADVENTURES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58544
+#EXTINF:-1 tvg-id="58545" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58329.png" group-title="Kids 24/7",24X7 - JESSE
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58545
+#EXTINF:-1 tvg-id="58549" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58333.jpg" group-title="Kids 24/7",24X7 - JOHNNY TEST
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58549
+#EXTINF:-1 tvg-id="62573" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62325.jpg" group-title="Kids 24/7",24X7 - LITTLE EINSTEINS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62573
+#EXTINF:-1 tvg-id="58556" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58340.jpg" group-title="Kids 24/7",24X7 - LEGO CITY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58556
+#EXTINF:-1 tvg-id="58572" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58356.jpg" group-title="Kids 24/7",24X7 - LEGO MOVIE
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58572
+#EXTINF:-1 tvg-id="62574" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62326.jpg" group-title="Kids 24/7",24X7 - MORTAL KOMBAT
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62574
+#EXTINF:-1 tvg-id="62575" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62327.jpg" group-title="Kids 24/7",24X7 - THE PJS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62575
+#EXTINF:-1 tvg-id="58563" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58347.png" group-title="Kids 24/7",24X7 - LOONY TUNES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58563
+#EXTINF:-1 tvg-id="58562" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58346.png" group-title="Kids 24/7",24X7 - DEXTER LABORATORY
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58562
+#EXTINF:-1 tvg-id="62576" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62328.jpg" group-title="Kids 24/7",24X7 - ELENA OF AVALOR
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62576
+#EXTINF:-1 tvg-id="58569" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58353.jpg" group-title="Kids 24/7",24X7 - MICKEY AND THE ROADSTER RACERS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58569
+#EXTINF:-1 tvg-id="62577" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62329.jpg" group-title="Kids 24/7",24X7 - DORA THE EXPLORER
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62577
+#EXTINF:-1 tvg-id="58573" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58357.jpg" group-title="Kids 24/7",24X7 - MR BEAN CARTOON
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58573
+#EXTINF:-1 tvg-id="58583" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58367.png" group-title="Kids 24/7",24X7 - MUPPET BABIES S01-S04
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58583
+#EXTINF:-1 tvg-id="58579" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58363.png" group-title="Kids 24/7",24X7 - MUPPET BABIES S05-S07
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58579
+#EXTINF:-1 tvg-id="58580" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58364.png" group-title="Kids 24/7",24X7 - NARUTO
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58580
+#EXTINF:-1 tvg-id="58585" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58369.png" group-title="Kids 24/7",24X7 - OCTONAUTS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58585
+#EXTINF:-1 tvg-id="58590" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58374.png" group-title="Kids 24/7",24X7 - PINGU
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58590
+#EXTINF:-1 tvg-id="58594" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58378.png" group-title="Kids 24/7",24X7 - PEPPA PIG.
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58594
+#EXTINF:-1 tvg-id="58604" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58388.jpg" group-title="Kids 24/7",24X7 - PJ MASKS..
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58604
+#EXTINF:-1 tvg-id="58595" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58379.jpg" group-title="Kids 24/7",24X7 - POKEMON.
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58595
+#EXTINF:-1 tvg-id="58525" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58309.jpg" group-title="Kids 24/7",24X7 - POPEYE THE SAILOR MAN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58525
+#EXTINF:-1 tvg-id="58526" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58310.jpg" group-title="Kids 24/7",24X7 - RAVEN'S HOME
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58526
+#EXTINF:-1 tvg-id="62578" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62330.jpg" group-title="Kids 24/7",24X7 - BLUES CLUES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62578
+#EXTINF:-1 tvg-id="58596" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58380.jpg" group-title="Kids 24/7",24X7 - BLACK CLOVER
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58596
+#EXTINF:-1 tvg-id="58533" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58317.png" group-title="Kids 24/7",24X7 - SESAME STREET
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58533
+#EXTINF:-1 tvg-id="58597" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58381.jpg" group-title="Kids 24/7",24X7 - SHAUN THE SHEEP.
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58597
+#EXTINF:-1 tvg-id="58538" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58322.jpg" group-title="Kids 24/7",24X7 - SHE-RA AND THE PRINCESSES OF POWER
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58538
+#EXTINF:-1 tvg-id="62579" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/62331.png" group-title="Kids 24/7",24X7 - BLAZE AND THE MONSTERMACHINES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=62579
+#EXTINF:-1 tvg-id="58550" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58334.jpg" group-title="Kids 24/7",24X7 - SONICX
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58550
+#EXTINF:-1 tvg-id="58554" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58338.jpg" group-title="Kids 24/7",24X7 - SPIDER-MAN 90'S
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58554
+#EXTINF:-1 tvg-id="58552" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58336.jpg" group-title="Kids 24/7",24X7 - SPIDER-MAN AND HIS AMAZING FRIENDS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58552
+#EXTINF:-1 tvg-id="58602" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58386.jpg" group-title="Kids 24/7",24X7 - SPONGEBOB SQUAREPANTS.
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58602
+#EXTINF:-1 tvg-id="58600" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58384.png" group-title="Kids 24/7",24X7 - TEEN TITANS GO.
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58600
+#EXTINF:-1 tvg-id="58565" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58349.jpg" group-title="Kids 24/7",24X7 - TELETUBBIES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58565
+#EXTINF:-1 tvg-id="58566" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58350.jpg" group-title="Kids 24/7",24X7 - THE DRAGON BALL Z MOVIE COLLECTION
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58566
+#EXTINF:-1 tvg-id="58574" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58358.png" group-title="Kids 24/7",24X7 - THE FAIRLY ODDPARENTS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58574
+#EXTINF:-1 tvg-id="58576" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58360.png" group-title="Kids 24/7",24X7 - THE FLINTSTONES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58576
+#EXTINF:-1 tvg-id="58588" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58372.png" group-title="Kids 24/7",24X7 - THE JETSONS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58588
+#EXTINF:-1 tvg-id="58577" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58361.png" group-title="Kids 24/7",24X7 - THE LITTLE MERMAID
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58577
+#EXTINF:-1 tvg-id="58641" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58425.jpg" group-title="Kids 24/7",24X7 - ANGRY BIRDS TOONS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58641
+#EXTINF:-1 tvg-id="58591" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58375.jpg" group-title="Kids 24/7",24X7 - THE SMURFS SHOW
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58591
+#EXTINF:-1 tvg-id="58589" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58373.jpg" group-title="Kids 24/7",24X7 - THE SMURFS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58589
+#EXTINF:-1 tvg-id="58518" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58302.png" group-title="Kids 24/7",24X7 - THOMAS & FRIENDS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58518
+#EXTINF:-1 tvg-id="58514" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58298.jpg" group-title="Kids 24/7",24X7 - THREE STOOGES CARTOON
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58514
+#EXTINF:-1 tvg-id="58519" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58303.jpg" group-title="Kids 24/7",24X7 - THUNDER CATS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58519
+#EXTINF:-1 tvg-id="58603" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58387.jpg" group-title="Kids 24/7",24X7 - TOM AND JERRY..
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58603
+#EXTINF:-1 tvg-id="58528" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58312.jpg" group-title="Kids 24/7",24X7 - WHATS NEW SCOOBY DOO
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58528
+#EXTINF:-1 tvg-id="58531" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58315.png" group-title="Kids 24/7",24X7 - X-MEN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58531
+#EXTINF:-1 tvg-id="58618" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58402.jpg" group-title="Kids 24/7",24X7 - SPIDER MAN-1994 45
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58618
+#EXTINF:-1 tvg-id="58614" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58398.jpg" group-title="Kids 24/7",24X7 - TRANFORMERS PRIME
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58614
+#EXTINF:-1 tvg-id="58623" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58407.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOON | TOM AND JERRY TALES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58623
+#EXTINF:-1 tvg-id="58617" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58401.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | THE SMURFS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58617
+#EXTINF:-1 tvg-id="58619" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58403.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | SWAT KATS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58619
+#EXTINF:-1 tvg-id="58622" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58406.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | SPIDER MAN-2008
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58622
+#EXTINF:-1 tvg-id="58625" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58409.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOON | SHINCHAN
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58625
+#EXTINF:-1 tvg-id="58627" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58411.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOON | CHUCHU TV
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58627
+#EXTINF:-1 tvg-id="58631" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58415.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOONS | KUNG FU PANDA
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58631
+#EXTINF:-1 tvg-id="58633" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58417.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOONS | GENERATOR REX HINDI
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58633
+#EXTINF:-1 tvg-id="58630" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58414.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | DUCK TALES-2017
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58630
+#EXTINF:-1 tvg-id="58636" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58420.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | DUCK TALES
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58636
+#EXTINF:-1 tvg-id="58634" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58418.png" group-title="Kids 24/7",24X7 - KIDS CARTOON | DORAEMON HINDI
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58634
+#EXTINF:-1 tvg-id="58640" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58424.jpg" group-title="Kids 24/7",24X7 - KIDS CARTOON | AVATAR THE LAST AIRBENDER
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58640
+#EXTINF:-1 tvg-id="58632" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58416.jpg" group-title="Kids 24/7",24X7 - BEN 10 ULTIMATE ALIEN HINDI
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58632
+#EXTINF:-1 tvg-id="58642" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/58426.jpg" group-title="Kids 24/7",24X7 - BEN 10 CLASSIC HINDI
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=58642
+#EXTINF:-1 tvg-id="70877" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/70791.jpg" group-title="Kids 24/7",PREMIUM | GOOSEBUMPS
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=70877
+#EXTINF:-1 tvg-id="73200" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/72540.png" group-title="Kids 24/7",PREMIUM | LIV AND MADDIE S1
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=73200
+#EXTINF:-1 tvg-id="73203" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/72543.png" group-title="Kids 24/7",PREMIUM | LIV AND MADDIE S2
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=73203
+#EXTINF:-1 tvg-id="73216" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/72556.png" group-title="Kids 24/7",PREMIUM | LIV AND MADDIE S3
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=73216
+#EXTINF:-1 tvg-id="73218" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/72558.png" group-title="Kids 24/7",PREMIUM | LIV AND MADDIE S4
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=73218
