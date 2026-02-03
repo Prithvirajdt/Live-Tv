@@ -726,13 +726,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd?_
 #EXTHTTP:{"cookie":"__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Tulja_Bhavani_BTS/output/index.mpd?__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab&xxx=%7Ccookie=__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab
 
-#EXTINF:-1 tvg-id="1163" group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png",JioGames HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae597f8c16c52429d3240a91fd39935:87c7615c0f83d6e1a2e2095120c55112
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jio_Esports_HD_BTS/output/index.mpd?__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab&xxx=%7Ccookie=__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab
-
 #EXTINF:-1 tvg-id="1175" group-title="Devotional" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Awakening.png",Awakening
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=46c355740969591cac6d3b1a39178302:42fdc9cb66e7c155082bf86e9248e6e9
