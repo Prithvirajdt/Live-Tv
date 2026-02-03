@@ -993,13 +993,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Santvani_BTS/output/index.mpd?__hdnea__=s
 #EXTHTTP:{"cookie":"__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Gyan_Brikshya_BTS/output/index.mpd?__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab&xxx=%7Ccookie=__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab
 
-#EXTINF:-1 tvg-id="1429" group-title="Education" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png",KITE VICTERS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc42939e0f5b580786298f0b54dd7771:28bace379c452518c1cf439abd492070
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/KITE_Victers_BTS/output/index.mpd?__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab&xxx=%7Ccookie=__hdnea__=st=1770082918~exp=1770169318~acl=/*~hmac=56716c9d786ec0453834188e5a248b5ba69737ba488e4e6fc06264180a6ac1ab
-
 #EXTINF:-1 tvg-id="143" group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png",CNBC TV18 Prime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=810f0869e10c537891203cc70315dd6d:b8f7d22abf86cf12444a848ed5dbec13
@@ -3046,13 +3039,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinema_MOB/WDVLive/index.mpd?__hdnea__
 #EXTHTTP:{"cookie":"__hdnea__=st=1770080526~exp=1770166926~acl=/*~hmac=58d6434e827ff233a3cfb75282bd72d4d2ff9cc40254a01553c12c3e101ad7f6"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1770080526~exp=1770166926~acl=/*~hmac=58d6434e827ff233a3cfb75282bd72d4d2ff9cc40254a01553c12c3e101ad7f6&xxx=%7Ccookie=__hdnea__=st=1770080526~exp=1770166926~acl=/*~hmac=58d6434e827ff233a3cfb75282bd72d4d2ff9cc40254a01553c12c3e101ad7f6
 
-#EXTINF:-1 tvg-id="487" tvg-language="Hindi" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1770080526~exp=1770166926~acl=/*~hmac=58d6434e827ff233a3cfb75282bd72d4d2ff9cc40254a01553c12c3e101ad7f6"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeClassic_MOB/WDVLive/index.mpd?__hdnea__=st=1770080526~exp=1770166926~acl=/*~hmac=58d6434e827ff233a3cfb75282bd72d4d2ff9cc40254a01553c12c3e101ad7f6&xxx=%7Ccookie=__hdnea__=st=1770080526~exp=1770166926~acl=/*~hmac=58d6434e827ff233a3cfb75282bd72d4d2ff9cc40254a01553c12c3e101ad7f6
-
 #EXTINF:-1 tvg-id="1360" tvg-language="Hindi" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f17a37b9a68555be8b0164478c832f93:352fa691d2c9d578e1b39e9993c4ffd2
@@ -3075,6 +3061,10 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connecte
 #EXTINF:-1 tvg-id="0-9-pictures" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_374,h_374,c_fill,f_webp,q_auto:eco/resources/0-9-pictures/square/374x3742e296cbbc4f54584b3193c4ac38d3cab",&Pictures
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
 https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/AND-PICTURES-SD/master/master.m3u8?hdntl=exp=1770148812~acl=%2f*~id=41204c40-dbd3-4363-bbe8-3b4cd9bf51d7~data=hdntl~hmac=3976c09ed05a932bc361aae01d06849aab6a398d1735e2b379fce4de81f0c685
+
+#EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_374,h_374,c_fill,f_webp,q_auto:eco/resources/0-9-zeeclassic/square/374x374b3e872f8f4c54610aaa1b25f5f7cab6c",Zee Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Bollywood-SD/master/master.m3u8?hdntl=exp=1770148812~acl=%2f*~id=41204c40-dbd3-4363-bbe8-3b4cd9bf51d7~data=hdntl~hmac=3976c09ed05a932bc361aae01d06849aab6a398d1735e2b379fce4de81f0c685
 
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_374,h_374,c_fill,f_webp,q_auto:eco/resources/0-9-channel_2105335046/square/374x374411eb423d8c241baa4c4f1663fbfefc7",&flix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
