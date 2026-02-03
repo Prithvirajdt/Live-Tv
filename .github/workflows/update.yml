@@ -81,22 +81,6 @@ jobs:
             sed '1d' static/my_static.m3u >> build/VortexVision.tmp
           fi
 
-          # --------------------------------------------------
-          # TATA TV: KEEP KIDS CHANNELS ONLY
-          # --------------------------------------------------
-          if [ -f sources/tata_tv.m3u ]; then
-            sed '1d' sources/tata_tv.m3u \
-            | awk '
-                /^#EXTINF/ {
-                  keep = ($0 ~ /group-title="KIDS - 24X7"/)
-                  if (keep) {
-                    gsub(/group-title="KIDS - 24X7"/, "group-title=\"Kids 24/7\"")
-                  }
-                }
-                keep { print }
-              ' >> build/VortexVision.tmp
-          fi
-
           # ==================================================
           # JIOTV
           # ==================================================
@@ -129,7 +113,7 @@ jobs:
           # JIOTVBACK
           # ==================================================
           if [ -f sources/jtvback.m3u ]; then
-            sed '1d' sources/jtv.m3u >> build/VortexVision.tmp
+            sed '1d' sources/jtvback.m3u >> build/VortexVision.tmp
           fi
 
           # --------------------------------------------------
