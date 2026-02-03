@@ -147,7 +147,7 @@ jobs:
               name = $0
               sub(/.*?,/, "", name)
 
-              if (tolower(name) ~ /(bhoj|cvr|vanitha)/) {
+              if (tolower(name) ~ /(demo|demo)/) {
                 skip = 1
               } else {
                 skip = 0
