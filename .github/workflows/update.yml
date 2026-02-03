@@ -127,6 +127,13 @@ jobs:
           # TATA TV: KEEP KIDS CHANNELS ONLY
           # --------------------------------------------------
           if [ -f sources/tata_tv.m3u ]; then
+          
+            # Ensure header + blank line only once
+            if [ ! -s build/VortexVision.tmp ]; then
+             echo "#EXTM3U" > build/VortexVision.tmp
+             echo >> build/VortexVision.tmp
+            fi
+            
             sed '1d' sources/tata_tv.m3u \
             | awk '
                 /^#EXTINF/ {
