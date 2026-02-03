@@ -53,12 +53,14 @@ jobs:
           SRC_JTV:     ${{ secrets.SRC_JTV }}
           SRC_LGTV:    ${{ secrets.SRC_LGTV }}
           SRC_ZEE5:    ${{ secrets.SRC_ZEE5 }}
+          SRC_JTVBACK: ${{ secrets.SRC_JTVBACK }}
           SRC_TATA_TV: ${{ secrets.SRC_TATA_TV }}
           SRC_SONY:    ${{ secrets.SRC_SONY }}
         run: |
           wget -q -O sources/jtv.m3u      "$SRC_JTV"
           wget -q -O sources/lgtv.m3u     "$SRC_LGTV"
           wget -q -O sources/zee5.m3u     "$SRC_ZEE5"
+          wget -q -O sources/jtvback.m3u  "$SRC_JTVBACK"
           wget -q -O sources/tata_tv.m3u  "$SRC_TATA_TV"
           wget -q -O sources/sony.m3u     "$SRC_SONY"
 
@@ -121,6 +123,13 @@ jobs:
           # --------------------------------------------------
           if [ -f sources/sony.m3u ]; then
             sed '1d' sources/sony.m3u >> build/VortexVision.tmp
+          fi
+
+          # ==================================================
+          # JIOTVBACK
+          # ==================================================
+          if [ -f sources/jtvback.m3u ]; then
+            sed '1d' sources/jtv.m3u >> build/VortexVision.tmp
           fi
 
           # --------------------------------------------------
