@@ -134,3 +134,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBTPyHbc4zxjLfiOkXhBaZigoduclzSyYFHEjQ-GPwRg&s=10" group-title="Kids",GUBBARE
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
+#EXTINF:-1 tvg-id="44157" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/43947.jpg" group-title="Entertainment",SONY KAL
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=44157
+
+#EXTINF:-1 tvg-id="2693" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/2610.jpg" group-title="Kids",Y TV HD 
+https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=2693
+
