@@ -2677,8 +2677,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1770406322~exp=1770492722~acl=/*~hmac=4fa94b6c9e8c91770c3bbb06217e9627d7c2f305a05f718c3556b0df273c608b"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_BTS/output/index.mpd?__hdnea__=st=1770406322~exp=1770492722~acl=/*~hmac=4fa94b6c9e8c91770c3bbb06217e9627d7c2f305a05f718c3556b0df273c608b&xxx=%7Ccookie=__hdnea__=st=1770406322~exp=1770492722~acl=/*~hmac=4fa94b6c9e8c91770c3bbb06217e9627d7c2f305a05f718c3556b0df273c608b
+#EXTHTTP:{"cookie":"__hdnea__=st=1770445802~exp=1770532202~acl=/*~hmac=5d40ff924d5c47ee0c5dc044d1beecf3f788fcc358ea667cb40bdfbf18edd686"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_BTS/output/index.mpd?__hdnea__=st=1770445802~exp=1770532202~acl=/*~hmac=5d40ff924d5c47ee0c5dc044d1beecf3f788fcc358ea667cb40bdfbf18edd686&xxx=%7Ccookie=__hdnea__=st=1770445802~exp=1770532202~acl=/*~hmac=5d40ff924d5c47ee0c5dc044d1beecf3f788fcc358ea667cb40bdfbf18edd686
 
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
