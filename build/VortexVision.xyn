@@ -2638,13 +2638,13 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1771266298~acl=/*~id=50607428679053972063961937105517~hmac=1c94ef75301daec679b66420cabb93abd72b07f9104b2bb0fde06a59b09506c1
 
 
-#EXTINF:-1 tvg-id="816" tvg-language="Hindi" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+#EXTINF:-1 tvg-id="123" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1771205762~exp=1771292162~acl=/*~hmac=9fffe4bf8230c0bfb3fa83c63733cd5d9b88ecb33e20d1c367c68791565696a7"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mpd?__hdnea__=st=1771205762~exp=1771292162~acl=/*~hmac=9fffe4bf8230c0bfb3fa83c63733cd5d9b88ecb33e20d1c367c68791565696a7&xxx=%7Ccookie=__hdnea__=st=1771205762~exp=1771292162~acl=/*~hmac=9fffe4bf8230c0bfb3fa83c63733cd5d9b88ecb33e20d1c367c68791565696a7
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ea48cf7b24dd54dd98c369626b9ad105&key=ee5778d627dfae2c2affc02d76e8db6c
+#EXTVLCOPT:http-user-agent=billatvoriginals
+#EXTHTTP:{ "cookie":"__hdnea__=st=1771184162~exp=1771270562~acl=/*~hmac=82c48d832203b5f97463a882c331d630a34cfdef3253acc6ecabcc32788ac249" }
+https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
