@@ -32,7 +32,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/main.mpd
 https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Whkp6bmMZ0wSBHYTnh9U6gATn6b5noRkFBSP5ECLvfV5rhnNLSnRaYQ5&s=10" group-title="Entertainment",Epic TV
-https://epiconvh.akamaized.net/live/epic/master.m3u8
+https://jmp2.uk/stvp-IN17000109O
 
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_29_41-AM-1-185x278.png" group-title="Movies", Bollywood Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
@@ -45,15 +45,6 @@ https://cc-u6hadnoh0u6td.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-01_58_56-PM-1-200x300.png" group-title="Movies", South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/The_Q-TV.png" group-title="Comedy",THE Q
-http://103.78.149.54:8000/play/a010/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s160-c-k-c0x00ffffff-no-rj" group-title="Movies",All Time Movies
-http://103.78.149.54:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/BMAiZnOGPMbMXWFW-lYwgp1-qJD6iPbBtB6YS3Kyr9lPM1jlegCl83vHjyasFEjPJrBYAsaeLQ=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Bollywood
-http://103.78.149.54:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="Goldmines.Movies.in" tvg-name="GOLDMINES MOVIES" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Goldmines Movies 
 https://cdn-2.pishow.tv/live/1461/master.m3u8
@@ -93,12 +84,6 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="94" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Mobile/thumbnail/3db87275-f469-4f9d-8ee5-b6cd5fa3a039.png" group-title="Kids",Green Gold TV
 https://greengold.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
 
-#EXTINF:-1 tvg-id="14443" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBU_M3ZLhgWHqPVckd7fB-Tjxt0z3dQC3uw&s" group-title="Kids",DISNEY XD  
-http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="1932" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/1849.png" group-title="Kids",BOOMERAANG
-http://fl7.moveonjoy.com/BOOMERANG/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwf4ybz4SR-N_y-wk9XdLnrvtTPVzNYtsphg&s" group-title="Kids",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
 
@@ -132,7 +117,7 @@ https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=44157
 #EXTINF:-1 tvg-id="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Movies",Zee Action
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 
-#EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Entertainment",And TV
+#EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Entertainment",&TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
@@ -147,11 +132,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="Entertainment",Zing
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Movies",Zee Bollywood
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
@@ -160,5 +140,3 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment",Big Magic
 https://mumt05.tangotv.in/BIGMAGIC/index.mpd
 
-#EXTINF:-1 tvg-id="11624" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies",AND Flix
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=11624
