@@ -2499,7 +2499,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ea48cf7b24dd54dd98c369626b9ad105&key=ee5778d627dfae2c2affc02d76e8db6c
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1772450931~exp=1772537331~acl=/*~hmac=dc35e4a3c611bfa3bf0e6cd468c9effc4eb8921f4f67a9e339875fb1c6a8dd4f" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772474432~exp=1772560832~acl=/*~hmac=d0ee1cf6207599dec3372119d5e17142d901727196ebf9bb6d0c280732e7c654" }
 http://jiotvbpkmob.cdn.jio.com/bpk-tv/CNHindi_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
