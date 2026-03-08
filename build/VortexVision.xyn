@@ -38,7 +38,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPJIO/Web/thumbnail/62d65198-5f33-4640-9ebf-d80d94d23507.png" group-title="Movies",Superfine Films
 https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-01_43_03-PM-1-200x300.png" group-title="Movies", Hollywood Desi
+#EXTINF:-1 tvg-logo="https://c.kmpr.in/assets/tv_channels_150/7176.jpg" group-title="Movies", Hollywood Desi
 https://cc-u6hadnoh0u6td.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u6hadnoh0u6td/OTM/OTM_HollywoodActionHindi-SCTE_SAMSUNG/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-01_58_56-PM-1-200x300.png" group-title="Movies", South Station
@@ -111,7 +111,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1847
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBTPyHbc4zxjLfiOkXhBaZigoduclzSyYFHEjQ-GPwRg&s=10" group-title="Kids",GUBBARE
-https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0304/master.m3u8
 
 #EXTINF:-1 tvg-id="44157" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/43947.jpg" group-title="Entertainment",SONY KAL
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=44157
@@ -143,6 +143,50 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment",Big Magic
 https://mumt05.tangotv.in/BIGMAGIC/index.mpd
+
+#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bc7a90c43b7e6130ea656d9420a89553.png" group-title="Movies",And flix HD
+http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2026-03-04/2603041146016.jpg" group-title="Entertainment",Sony Marathi
+http://iptvcasomsapi.jprdigital.in/x-media/C0382/master.m3u8
+
+#EXTINF:-1 tvg-id="ETVBalBharat.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/ETV_Bal_Bharat.jpg" group-title="Kids",ETV Bal Bharat
+http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_GVTAAmcT6SJPoCAnzEeEGpQNvQ_NmzCf-w&s" group-title="Kids",Disney Channel HD 
+http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/The_Q-TV.png" group-title="Comedy",Q TV
+http://iptvcasomsapi.jprdigital.in/x-media/C0064/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB HD 
+http://iptvcasomsapi.jprdigital.in/x-media/C0110/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB 
+http://iptvcasomsapi.jprdigital.in/x-media/C0275/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB Dubbed
+http://iptvcasomsapi.jprdigital.in/x-media/C0280/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB Action
+http://iptvcasomsapi.jprdigital.in/x-media/C0281/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cbeebies 
+http://iptvcasomsapi.jprdigital.in/x-media/C0306/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",JPR Cinema
+http://iptvcasomsapi.jprdigital.in/x-media/C0278/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSot7FgVleTd1TEAq-Hp5fKd68_I2vu73rBHnTSDrbPQIocfh3g" group-title="Music",My Channel
+http://iptvcasomsapi.jprdigital.in/x-media/C0276/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Fakt Marathi 
+http://iptvcasomsapi.jprdigital.in/x-media/C0328/master.m3u8
+
+#EXTINF:-1 tvg-id="1146JP" tvg-name="Test Channel" group-title="TEST",Test Channel
+#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=1146JP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://m3uplay.com/leo/dlive.mpd?id=1146JP&format=.mpd
 
 
 #EXTINF:-1 tvg-id="1077" group-title="Devotional" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sharnam_TV.png",Sharnam TV
@@ -2693,7 +2737,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ea48cf7b24dd54dd98c369626b9ad105&key=ee5778d627dfae2c2affc02d76e8db6c
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1772888211~exp=1772974611~acl=/*~hmac=363ede82030c9e7c5d980e93e8581407c7b0925626d4cd6f1c93ef453f58f9d9" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1772937268~exp=1773023668~acl=/*~hmac=c55a5403262a70076ceb46e2d2c265dd9168798d5560ac661b923bd1751534ee" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
