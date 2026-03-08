@@ -183,10 +183,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0276/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Fakt Marathi 
 http://iptvcasomsapi.jprdigital.in/x-media/C0328/master.m3u8
 
-#EXTINF:-1 tvg-id="1146JP" tvg-name="Test Channel" group-title="TEST",Test Channel
-#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=1146JP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://m3uplay.com/leo/dlive.mpd?id=1146JP&format=.mpd
 
 
 #EXTINF:-1 tvg-id="1077" group-title="Devotional" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sharnam_TV.png",Sharnam TV
