@@ -112,8 +112,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 #EXTINF:-1 tvg-id="1847" tvg-logo="https://wallpapers.com/images/hd/adult-swim-qlbbjgfdaqeap8dw.jpg" group-title="Kids",Adult Swim
 http://s.rocketdns.info:8080/live/52748969/72335180/3077.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBTPyHbc4zxjLfiOkXhBaZigoduclzSyYFHEjQ-GPwRg&s=10" group-title="Kids",GUBBARE
-http://iptvcasomsapi.jprdigital.in/x-media/C0304/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" group-title="Kids",Y TV
+http://s.rocketdns.info:8080/live/52748969/72335180/647754.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD 
+http://s.rocketdns.info:8080/live/52748969/72335180/3631.ts
 
 #EXTINF:-1 tvg-id="44157" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/43947.jpg" group-title="Entertainment",SONY KAL
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=44157
@@ -181,6 +184,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0281/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cbeebies 
 http://iptvcasomsapi.jprdigital.in/x-media/C0306/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBTPyHbc4zxjLfiOkXhBaZigoduclzSyYFHEjQ-GPwRg&s=10" group-title="Kids",GUBBARE
+http://iptvcasomsapi.jprdigital.in/x-media/C0304/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",JPR Cinema
 http://iptvcasomsapi.jprdigital.in/x-media/C0278/master.m3u8
 
@@ -190,10 +196,6 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0276/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png",Fakt Marathi
 http://iptvcasomsapi.jprdigital.in/x-media/C0328/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" group-title="Kids",Y TV
-http://s.rocketdns.info:8080/live/52748969/72335180/647754.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD 
-http://s.rocketdns.info:8080/live/52748969/72335180/3631.ts
 
 
