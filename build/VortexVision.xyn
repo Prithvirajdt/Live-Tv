@@ -2356,13 +2356,9 @@ https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Horror",Zee Horror Nights
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="Entertainment",Zee Horror Nights
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png" group-title="Entertainment",Atrangii
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/tvtn/Lg-images/LT%20400x200.png" group-title="News",Lallantop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
@@ -2432,17 +2428,9 @@ https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://streams2.sofast.tv/ptnr-lg/title-BEST_THRILLER_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04a87d60-a79e-4a36-9df8-0ea3a4e2c173/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/horrortv/logo/Horror-tv-400x200.png" group-title="Horror",HORROR TV
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/horrortv/logo/Horror-tv-400x200.png" group-title="Entertainment",HORROR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://streams2.sofast.tv/ptnr-lg/title-HORROR-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/de879fd9-0fae-4530-af26-7abe5283d02a/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/nightmare-network/logo/Nightmare-Network-400x200.png" group-title="Horror",NIGHTMARE NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://vglivessai.akamaized.net/ptnr-lg/title-Nightmare_network/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4344f0d3-3d3b-43a9-83bf-344b9bf154bf/478.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Capemay/Panic TV Logo 400x200.png" group-title="Horror",Panic TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://amg27164-amg27164c1-amgplt0173.playout.now3.amagi.tv/playlist/amg27164-amg27164c1-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bestaction/logo/Bestaction-tv-400x200.png" group-title="Movies",Best Action TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
@@ -2459,10 +2447,6 @@ https://streams2.sofast.tv/ptnr-lg/title-COWBOY-MOVIE-CHANNEL-ENG_LG/v1/master/6
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Brat/brattv_logo_resized_400x200.png" group-title="Entertainment",Brat TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00350-bratstudio-amg00350c1-lg-in-2365.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-lgin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/RIC-PLUS/logo/RIC Plus_400x200.png" group-title="Entertainment",RIC-PLUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://vglivessai.akamaized.net/ptnr-lg/title-Ric_Plus/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/76ccd03f-a2a1-4b83-adfa-142dfc9d7072/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/baby-first/logo/Babyfirst-400x200.png" group-title="Kids",BABY FIRST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
@@ -2512,10 +2496,6 @@ https://amg01281-amg01281c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg01550-indiatv-amg01550c2-lg-in-5515.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvyoga-lgin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/indian-yoga-and-wellness-tv-hin/logo/Indian-Yoga-WellnessTV_Hindi_400X200.png" group-title="Lifestyle",INDIAN YOGA AND WELLNESS TV HIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://vglivessai.akamaized.net/ptnr-lg/title-Indian_Yoga_&_Wellness_TV_Hindi/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/97cac431-edfa-48a4-83ba-78adb8991baa/indianyogahindi_lg.m3u8
-
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/ESCAPE-TV-ENG/logo/Escape Tv_400x200.png" group-title="Lifestyle",ESCAPE-TV-ENG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://vglivessai.akamaized.net/ptnr-lg/title-Escape_TV/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a4847583-0173-4687-ac66-5638d3f9240b/master.m3u8
@@ -2527,10 +2507,6 @@ https://streams2.sofast.tv/ptnr-lgtv/title-4K-TRAVEL-TV-ENG_LG/v1/master/611d79b
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/heritage/logo/Heritage-400x200.png" group-title="Lifestyle",HERITAGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://streams2.sofast.tv/ptnr-lg/title-HERITAGE-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/074c919f-f587-4da2-bea0-345fcb1401c5/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/divya-bhajan/logo/divya bhajan_logo_400x200.png" group-title="Devotional",Divya Bhajan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://vglivessai.akamaized.net/ptnr-lgtv/title-Divya_Bhajan_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6ab55dbd-de45-4239-80ea-8eacc13066b6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/CRICKET-GOLD-USA/logo/Cricket-Gold_400x200.png" group-title="Sports",CRICKET-GOLD-USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
