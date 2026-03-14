@@ -180,47 +180,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 # --------------------------------------------------
 
-#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bc7a90c43b7e6130ea656d9420a89553.png" group-title="Movies",And flix HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathi
-http://iptvcasomsapi.jprdigital.in/x-media/C0382/master.m3u8
-
-#EXTINF:-1 tvg-id="ETVBalBharat.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/ETV_Bal_Bharat.jpg" group-title="Kids",ETV Bal Bharat
-http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_GVTAAmcT6SJPoCAnzEeEGpQNvQ_NmzCf-w&s" group-title="Kids",Disney Channel HD 
-http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/The_Q-TV.png" group-title="Comedy",Q TV
-http://iptvcasomsapi.jprdigital.in/x-media/C0064/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB HD 
-http://iptvcasomsapi.jprdigital.in/x-media/C0110/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB 
-http://iptvcasomsapi.jprdigital.in/x-media/C0275/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB Dubbed
-http://iptvcasomsapi.jprdigital.in/x-media/C0280/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB Action
-http://iptvcasomsapi.jprdigital.in/x-media/C0281/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cbeebies 
-http://iptvcasomsapi.jprdigital.in/x-media/C0306/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBTPyHbc4zxjLfiOkXhBaZigoduclzSyYFHEjQ-GPwRg&s=10" group-title="Kids",GUBBARE
-http://iptvcasomsapi.jprdigital.in/x-media/C0304/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",JPR Cinema
-http://iptvcasomsapi.jprdigital.in/x-media/C0278/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSot7FgVleTd1TEAq-Hp5fKd68_I2vu73rBHnTSDrbPQIocfh3g" group-title="Music",My Channel
-http://iptvcasomsapi.jprdigital.in/x-media/C0276/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png",Fakt Marathi
-http://iptvcasomsapi.jprdigital.in/x-media/C0328/master.m3u8
 
 
 
