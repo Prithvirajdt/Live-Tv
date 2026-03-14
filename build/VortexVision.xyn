@@ -24,7 +24,7 @@ https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/Web/thumbnail/logo_web.png" group-title="Movies",Shemaroo Bollywood
 https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Music",Shemaroo Filmigaane
+#EXTINF:-1 tvg-id="16" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Music",Shemaroo Filmy Gaane
 https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="94" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Mobile/thumbnail/3db87275-f469-4f9d-8ee5-b6cd5fa3a039.png" group-title="Kids",Green Gold TV
@@ -32,8 +32,8 @@ https://greengold.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
 
 # --------------------------------------------------
 
-#EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Whkp6bmMZ0wSBHYTnh9U6gATn6b5noRkFBSP5ECLvfV5rhnNLSnRaYQ5&s=10" group-title="Entertainment",Epic TV
-https://jmp2.uk/stvp-IN17000109O
+# -- #EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Whkp6bmMZ0wSBHYTnh9U6gATn6b5noRkFBSP5ECLvfV5rhnNLSnRaYQ5&s=10" group-title="Entertainment",Epic TV
+# -- https://jmp2.uk/stvp-IN17000109O
 
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_29_41-AM-1-185x278.png" group-title="Movies", Bollywood Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
@@ -165,47 +165,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 # --------------------------------------------------
 
-#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bc7a90c43b7e6130ea656d9420a89553.png" group-title="Movies",And flix HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathi
-http://iptvcasomsapi.jprdigital.in/x-media/C0382/master.m3u8
-
-#EXTINF:-1 tvg-id="ETVBalBharat.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/ETV_Bal_Bharat.jpg" group-title="Kids",ETV Bal Bharat
-http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
-
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_GVTAAmcT6SJPoCAnzEeEGpQNvQ_NmzCf-w&s" group-title="Kids",Disney Channel HD 
-http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/The_Q-TV.png" group-title="Comedy",Q TV
-http://iptvcasomsapi.jprdigital.in/x-media/C0064/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB HD 
-http://iptvcasomsapi.jprdigital.in/x-media/C0110/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB 
-http://iptvcasomsapi.jprdigital.in/x-media/C0275/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB Dubbed
-http://iptvcasomsapi.jprdigital.in/x-media/C0280/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",SB Action
-http://iptvcasomsapi.jprdigital.in/x-media/C0281/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cbeebies 
-http://iptvcasomsapi.jprdigital.in/x-media/C0306/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBTPyHbc4zxjLfiOkXhBaZigoduclzSyYFHEjQ-GPwRg&s=10" group-title="Kids",GUBBARE
-http://iptvcasomsapi.jprdigital.in/x-media/C0304/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",JPR Cinema
-http://iptvcasomsapi.jprdigital.in/x-media/C0278/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSot7FgVleTd1TEAq-Hp5fKd68_I2vu73rBHnTSDrbPQIocfh3g" group-title="Music",My Channel
-http://iptvcasomsapi.jprdigital.in/x-media/C0276/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png",Fakt Marathi
-http://iptvcasomsapi.jprdigital.in/x-media/C0328/master.m3u8
 
 
 
@@ -2815,11 +2774,6 @@ https://jiotvpllive.cdn.jio.com/Kalyan_TV/Kalyan_TV.m3u8?__hdnea__=st=1773455318
 #EXTHTTP:{"cookie":"__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Nation_MOB/WDVLive/index.mpd?__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91&xxx=%7Ccookie=__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91
 
-#EXTINF:-1 tvg-id="3074" group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png",Shemaroo Filmy Gaane
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/smrfgn/HLSPartner/index.m3u8?__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91&xxx=%7Ccookie=__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91
-
 #EXTINF:-1 tvg-id="3107" group-title="Devotional" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/bhakhtisiri.png",Bhakthi Siri 
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91"}
@@ -3261,55 +3215,55 @@ https://jmp2.uk/stvp-IN24000030L
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=67e52f4bdcfc525898be0446feb7f185&key=8cf5c24b168105bca24b358eb05f6df4
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773426672~exp=1773513072~acl=/*~hmac=baff77ae82bead729b77914b781b6c35076ed38340c64576c3320cd099d66698" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773461784~exp=1773548184~acl=/*~hmac=857ff5fdf526b7d1e62948ba2d5278ff96dcd488adfe9e5aadad2623e3a27b9e" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/output/index.mpd
 #EXTINF:-1 tvg-id="945" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=dc1c10d157cd56d5a7feaf6540578860&key=227a41f602baeac002e6cdc46c000e19
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773426672~exp=1773513072~acl=/*~hmac=baff77ae82bead729b77914b781b6c35076ed38340c64576c3320cd099d66698" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773461784~exp=1773548184~acl=/*~hmac=857ff5fdf526b7d1e62948ba2d5278ff96dcd488adfe9e5aadad2623e3a27b9e" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAnmol_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="956" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",Zee Chitramandir
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=95b726ce54c05713ac6bf540ee64ca87&key=8e1bc81913c474311b79ca988c087f2a
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773426672~exp=1773513072~acl=/*~hmac=baff77ae82bead729b77914b781b6c35076ed38340c64576c3320cd099d66698" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773461784~exp=1773548184~acl=/*~hmac=857ff5fdf526b7d1e62948ba2d5278ff96dcd488adfe9e5aadad2623e3a27b9e" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeChitramandir_BTS/output/index.mpd
 #EXTINF:-1 tvg-id="978" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=0e370273ac0f521c8ee529a886f2dc06&key=c2bc9f42751680a68c006986fbf2f039
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773426672~exp=1773513072~acl=/*~hmac=baff77ae82bead729b77914b781b6c35076ed38340c64576c3320cd099d66698" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773461784~exp=1773548184~acl=/*~hmac=857ff5fdf526b7d1e62948ba2d5278ff96dcd488adfe9e5aadad2623e3a27b9e" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="986" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=284db1a465ee50c081b7fa9735c4e000&key=26d05a4a82a0d6eb317dd861a06d746c
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773426672~exp=1773513072~acl=/*~hmac=baff77ae82bead729b77914b781b6c35076ed38340c64576c3320cd099d66698" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773461784~exp=1773548184~acl=/*~hmac=857ff5fdf526b7d1e62948ba2d5278ff96dcd488adfe9e5aadad2623e3a27b9e" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTV_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="987" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=a23b609b33e254a48e4fc6fa7af0fd8d&key=4064c52328bfe9e6008776b48a431e4b
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773426672~exp=1773513072~acl=/*~hmac=baff77ae82bead729b77914b781b6c35076ed38340c64576c3320cd099d66698" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773461784~exp=1773548184~acl=/*~hmac=857ff5fdf526b7d1e62948ba2d5278ff96dcd488adfe9e5aadad2623e3a27b9e" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=6ec829b78df75cd9b0b1c0b882dbd705&key=b77aa3b944753f7259ca25e2a8957729
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773426672~exp=1773513072~acl=/*~hmac=baff77ae82bead729b77914b781b6c35076ed38340c64576c3320cd099d66698" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773461784~exp=1773548184~acl=/*~hmac=857ff5fdf526b7d1e62948ba2d5278ff96dcd488adfe9e5aadad2623e3a27b9e" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/Living_Foodz_BTS/output/index.mpd
 #EXTINF:-1 tvg-id="123" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ea48cf7b24dd54dd98c369626b9ad105&key=ee5778d627dfae2c2affc02d76e8db6c
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773426672~exp=1773513072~acl=/*~hmac=baff77ae82bead729b77914b781b6c35076ed38340c64576c3320cd099d66698" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773461784~exp=1773548184~acl=/*~hmac=857ff5fdf526b7d1e62948ba2d5278ff96dcd488adfe9e5aadad2623e3a27b9e" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
