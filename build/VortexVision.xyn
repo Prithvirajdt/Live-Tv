@@ -2141,13 +2141,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Business_BTS/output/index.mpd?__hdnea
 #EXTHTTP:{"cookie":"__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Sahayadri_BTS/output/index.mpd?__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91&xxx=%7Ccookie=__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91
 
-#EXTINF:-1 tvg-id="722" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeSarthak.png",Zee Sarthak
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e65e1ddb70f5ad9a5b521402c2ce026:a89cef74a335be09bd08977334e7b893
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeSarthak_BTS/output/index.mpd?__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91&xxx=%7Ccookie=__hdnea__=st=1773455318~exp=1773541718~acl=/*~hmac=1ef79ddbbc7c15a7ec95527dab2aee85190f380c199a6fa1c9906ec2b568fd91
-
 #EXTINF:-1 tvg-id="735" group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png",Sangeet Marathi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44487083ef305cd48594b22a21e72ddb:5be76fe525f985dc43bea513a459975c
