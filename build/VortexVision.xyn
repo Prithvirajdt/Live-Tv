@@ -3041,13 +3041,6 @@ https://jmp2.uk/stvp-IN4600004HW
 https://jmp2.uk/stvp-IN24000030L
 
 
-#EXTINF:-1 tvg-id="945" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=dc1c10d157cd56d5a7feaf6540578860&key=227a41f602baeac002e6cdc46c000e19
-#EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773461784~exp=1773548184~acl=/*~hmac=857ff5fdf526b7d1e62948ba2d5278ff96dcd488adfe9e5aadad2623e3a27b9e" }
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAnmol_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="956" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",Zee Chitramandir
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
