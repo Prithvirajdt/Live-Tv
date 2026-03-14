@@ -2954,18 +2954,6 @@ https://amg02051-soulpublishing-amg02051c12-lg-in-1188.playouts.now.amagi.tv/pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg02051-soulpublishing-amg02051c5-lg-in-1846.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveeenglish-lgin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJALWA/9xjalwa400x200_logo.jpg" group-title="Music",9XJALWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://amg01281-amg01281c3-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c3-amgplt0173/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XTashan/9xtashan400x200_logo.jpg" group-title="Music",9XTashan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://amg01281-amg01281c2-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c2-amgplt0173/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/9xMedia/9XJhakkas/9xjahakas400x200_logo.jpg" group-title="Music",9XJhakkas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
-https://amg01281-amg01281c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c1-amgplt0173/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaTV/ITVYOGA/ITVYogalogo200x400.png" group-title="Lifestyle",IndiaTV Yoga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg01550-indiatv-amg01550c2-lg-in-5515.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvyoga-lgin/playlist.m3u8
