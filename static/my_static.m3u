@@ -76,7 +76,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="" group-title="Movies",Goldmines 
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143038_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Fakt Marathi
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143038_ld_h15_aa.png?lock=720x540" group-title="Movies",Fakt Marathi
 https://cdn-6.pishow.tv/live/10002/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSup_8NTjyQH_SpQDrnf9l29LaHWXeX1REnqQ&s" group-title="Movies", Shemaroo Josh
