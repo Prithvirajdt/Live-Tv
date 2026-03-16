@@ -2924,7 +2924,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Living_Foodz_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ea48cf7b24dd54dd98c369626b9ad105&key=ee5778d627dfae2c2affc02d76e8db6c
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773572440~exp=1773658840~acl=/*~hmac=5a3ad68ea5cd426736a8d9e77c46f71a1c6a366fd3260afc37e51871abf59c04" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773588706~exp=1773675106~acl=/*~hmac=31e5bc68930de3e1ecadf60d21871af0cc0106c2c21b562c0e653b075411a40d" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
