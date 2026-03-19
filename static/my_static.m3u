@@ -198,6 +198,9 @@ http://103.175.73.12:8080/live/649/649_0.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/ShowBox_TV_logo.png",Show BOX
 http://103.175.73.12:8080/live/469/469_0.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Entertainment",Manoranjan Prime
+http://103.175.73.12:8080/live/345/345_0.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/The_Q-TV.png",Q TV
 http://103.175.73.12:8080/live/25/25_0.m3u8
 
