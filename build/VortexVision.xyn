@@ -2897,27 +2897,27 @@ https://jmp2.uk/stvp-IN24000030L
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=0e370273ac0f521c8ee529a886f2dc06&key=c2bc9f42751680a68c006986fbf2f039
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773840202~exp=1773861802~acl=/*~hmac=27a34d4205036a9760d3a51fa435283bbefc098da3a7d55e8f10d967f4a17a86" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773887993~exp=1773909593~acl=/*~hmac=b7397b7521203b5fe05c96bcd0731be1d6b3e0ffb4c6433535d3e623b707d752" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="986" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=284db1a465ee50c081b7fa9735c4e000&key=26d05a4a82a0d6eb317dd861a06d746c
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773840202~exp=1773861802~acl=/*~hmac=27a34d4205036a9760d3a51fa435283bbefc098da3a7d55e8f10d967f4a17a86" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773887993~exp=1773909593~acl=/*~hmac=b7397b7521203b5fe05c96bcd0731be1d6b3e0ffb4c6433535d3e623b707d752" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTV_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="987" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=a23b609b33e254a48e4fc6fa7af0fd8d&key=4064c52328bfe9e6008776b48a431e4b
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773840202~exp=1773861802~acl=/*~hmac=27a34d4205036a9760d3a51fa435283bbefc098da3a7d55e8f10d967f4a17a86" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773887993~exp=1773909593~acl=/*~hmac=b7397b7521203b5fe05c96bcd0731be1d6b3e0ffb4c6433535d3e623b707d752" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=6ec829b78df75cd9b0b1c0b882dbd705&key=b77aa3b944753f7259ca25e2a8957729
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1773840202~exp=1773861802~acl=/*~hmac=27a34d4205036a9760d3a51fa435283bbefc098da3a7d55e8f10d967f4a17a86" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1773887993~exp=1773909593~acl=/*~hmac=b7397b7521203b5fe05c96bcd0731be1d6b3e0ffb4c6433535d3e623b707d752" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/Living_Foodz_BTS/output/index.mpd
 #EXTINF:-1 tvg-id="123" group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
