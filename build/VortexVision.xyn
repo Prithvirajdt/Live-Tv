@@ -132,6 +132,17 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 
  # --------------------------------------------------
 
+#EXTINF:-1 tvg-id="bal_bharat" tvg-logo="http://103.144.89.251/assets/images/BAL BHARAT1745041576.png" group-title="Kids", ETV Bal Bharat
+http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvRVRWLkJBTC5CSEFSQVQvaW5kZXgubTN1OD90b2tlbj1hZjkxOWNlOTg4YjNiZjVkOTcyNDgxNGJhY2FiODRhZGE4NWZjODQ3LTY3ZDA1N2IwNzQwZDI3Yjc5NjE5ZWI0ZGViODhjOWY5LTE3NzQ0NjI0OTgtMTc3NDQ1MTY5OCZyZW1vdGU9bm9fY2hlY2tfaXA%3D
+
+ # --------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg02481-amg02481c2-lg-in-5172.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-zeebusiness-lgin/playlist.m3u8
+
+ # --------------------------------------------------
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Entertainment", Korean Drama Active
@@ -2130,11 +2141,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ABP_Majha_BTS/output/index.mpd?__hdnea__=
 #EXTHTTP:{"cookie":"__hdnea__=st=1774444878~exp=1774466478~acl=/*~hmac=7a25cf0121b01f99627899b88b9570fec9e2022fe6da38700d658c44446ea714"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_SANGAM_BTS/output/index.mpd?__hdnea__=st=1774444878~exp=1774466478~acl=/*~hmac=7a25cf0121b01f99627899b88b9570fec9e2022fe6da38700d658c44446ea714&xxx=%7Ccookie=__hdnea__=st=1774444878~exp=1774466478~acl=/*~hmac=7a25cf0121b01f99627899b88b9570fec9e2022fe6da38700d658c44446ea714
 
-#EXTINF:-1 tvg-id="657" group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1774444878~exp=1774466478~acl=/*~hmac=7a25cf0121b01f99627899b88b9570fec9e2022fe6da38700d658c44446ea714"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Business_BTS/output/index.mpd?__hdnea__=st=1774444878~exp=1774466478~acl=/*~hmac=7a25cf0121b01f99627899b88b9570fec9e2022fe6da38700d658c44446ea714&xxx=%7Ccookie=__hdnea__=st=1774444878~exp=1774466478~acl=/*~hmac=7a25cf0121b01f99627899b88b9570fec9e2022fe6da38700d658c44446ea714
-
 #EXTINF:-1 tvg-id="695" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png",DD Sahayadri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9da04ceb1d705f9a8ee45cfec48ae899:14e611d4e0b83c4c818283e524ecfed4
@@ -2933,7 +2939,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Living_Foodz_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=ea48cf7b24dd54dd98c369626b9ad105&key=ee5778d627dfae2c2affc02d76e8db6c
 #EXTVLCOPT:http-user-agent=billatvoriginals
-#EXTHTTP:{ "cookie":"__hdnea__=st=1774414829~exp=1774501229~acl=/*~hmac=4f326effc70f2efab2f62700f067a3037268d452a33ac573aea3f21312f42ee0" }
+#EXTHTTP:{ "cookie":"__hdnea__=st=1774436050~exp=1774522450~acl=/*~hmac=278fa797d70a4e37e7e9a51977206cfb18ae8086440de6754211697b57dda0d5" }
 https://jiotvmblive.cdn.jio.com/bpk-tv/CNHindi_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
