@@ -140,6 +140,17 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 
  # --------------------------------------------------
 
+#EXTINF:-1 tvg-id="bal_bharat" tvg-logo="http://103.144.89.251/assets/images/BAL BHARAT1745041576.png" group-title="Kids", ETV Bal Bharat
+http://103.144.89.251/proxy.php?u=aHR0cDovLzEwMy4xNDQuODkuMjUxOjgwODIvRVRWLkJBTC5CSEFSQVQvaW5kZXgubTN1OD90b2tlbj1hZjkxOWNlOTg4YjNiZjVkOTcyNDgxNGJhY2FiODRhZGE4NWZjODQ3LTY3ZDA1N2IwNzQwZDI3Yjc5NjE5ZWI0ZGViODhjOWY5LTE3NzQ0NjI0OTgtMTc3NDQ1MTY5OCZyZW1vdGU9bm9fY2hlY2tfaXA%3D
+
+ # --------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg02481-amg02481c2-lg-in-5172.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-zeebusiness-lgin/playlist.m3u8
+
+ # --------------------------------------------------
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Entertainment", Korean Drama Active
