@@ -6,8 +6,8 @@
 # -- #EXTINF:-1 tvg-id="44157" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/43947.jpg" group-title="Entertainment",SONY KAL
 # -- https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=44157
 
-#EXTINF:-1 tvg-id="1932" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/1849.png" group-title="Kids",BOOMERAANG
-https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1932
+# -- #EXTINF:-1 tvg-id="1932" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/1849.png" group-title="Kids",BOOMERAANG
+# -- https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1932
 
 # --------------------------------------------------
 
@@ -140,7 +140,14 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 
  # --------------------------------------------------
 
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBEEBIES HD" tvg-logo="" group-title="Kids",CBeebies
+https://vt-ip.vodep39240327.workers.dev/228.m3u8
 
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="DISCOVERY FAMILY HD" tvg-logo="" group-title="Kids",Discovery Family
+https://vt-ip.vodep39240327.workers.dev/246.m3u8
+
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="BOOMERANG US 4K" tvg-logo="" group-title="Kids",BOOMERAANG
+https://vt-ip.vodep39240327.workers.dev/2381.m3u8
 
  # --------------------------------------------------
 
