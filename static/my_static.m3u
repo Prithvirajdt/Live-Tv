@@ -151,7 +151,7 @@ https://vt-ip.vodep39240327.workers.dev/2381.m3u8
 
  # --------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="News",Zee Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg02481-amg02481c2-lg-in-5172.playouts.now.amagi.tv/playlist/amg02481-indiadotcomdigitalprivatelimitedfast-zeebusiness-lgin/playlist.m3u8
 
