@@ -2922,15 +2922,15 @@ https://jmp2.uk/stvp-IN24000030L
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b
 #EXTVLCOPT:http-user-agent=@StreamFlex19
-#EXTHTTP:{"cookie":"__hdnea__=st=1775110429~exp=1775196829~acl=/*~hmac=ef1ba26d35e9a08da73f2a3933d0a667446dfdfe955d43481944fe4c48b3500b"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd?__hdnea__=st=1775110429~exp=1775196829~acl=/*~hmac=ef1ba26d35e9a08da73f2a3933d0a667446dfdfe955d43481944fe4c48b3500b&xxx=%7Ccookie=__hdnea__=st=1775110429~exp=1775196829~acl=/*~hmac=ef1ba26d35e9a08da73f2a3933d0a667446dfdfe955d43481944fe4c48b3500b
+#EXTHTTP:{"cookie":"__hdnea__=st=1775147195~exp=1775168795~acl=/*~hmac=2e9d1802832b0f90548e299310fec8e9c9c320db1a954542cc7f7a7ba35e7868"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd?__hdnea__=st=1775147195~exp=1775168795~acl=/*~hmac=2e9d1802832b0f90548e299310fec8e9c9c320db1a954542cc7f7a7ba35e7868&xxx=%7Ccookie=__hdnea__=st=1775147195~exp=1775168795~acl=/*~hmac=2e9d1802832b0f90548e299310fec8e9c9c320db1a954542cc7f7a7ba35e7868
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies",Zee Talkies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e370273ac0f521c8ee529a886f2dc06:c2bc9f42751680a68c006986fbf2f039
 #EXTVLCOPT:http-user-agent=@StreamFlex19
-#EXTHTTP:{"cookie":"__hdnea__=st=1775110429~exp=1775196829~acl=/*~hmac=ef1ba26d35e9a08da73f2a3933d0a667446dfdfe955d43481944fe4c48b3500b"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1775110429~exp=1775196829~acl=/*~hmac=ef1ba26d35e9a08da73f2a3933d0a667446dfdfe955d43481944fe4c48b3500b&xxx=%7Ccookie=__hdnea__=st=1775110429~exp=1775196829~acl=/*~hmac=ef1ba26d35e9a08da73f2a3933d0a667446dfdfe955d43481944fe4c48b3500b
+#EXTHTTP:{"cookie":"__hdnea__=st=1775147195~exp=1775168795~acl=/*~hmac=2e9d1802832b0f90548e299310fec8e9c9c320db1a954542cc7f7a7ba35e7868"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1775147195~exp=1775168795~acl=/*~hmac=2e9d1802832b0f90548e299310fec8e9c9c320db1a954542cc7f7a7ba35e7868&xxx=%7Ccookie=__hdnea__=st=1775147195~exp=1775168795~acl=/*~hmac=2e9d1802832b0f90548e299310fec8e9c9c320db1a954542cc7f7a7ba35e7868
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
