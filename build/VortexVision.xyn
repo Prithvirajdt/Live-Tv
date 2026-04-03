@@ -2918,19 +2918,29 @@ https://jmp2.uk/stvp-IN4600004HW
 https://jmp2.uk/stvp-IN24000030L
 
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD
+#EXTINF:-1 tvg-id="1351" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTV.png",Zee TV
+#EXTVLCOPT:http-user-agent=@StreamFlex19
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1775184338~exp=1775205938~acl=/*~hmac=23e4b076c43854a33c7b157410328ab0465957dbcd2ba30ce8fc13d90e1466b3"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/output/index.mpd?__hdnea__=st=1775184338~exp=1775205938~acl=/*~hmac=23e4b076c43854a33c7b157410328ab0465957dbcd2ba30ce8fc13d90e1466b3&xxx=%7Ccookie=__hdnea__=st=1775184338~exp=1775205938~acl=/*~hmac=23e4b076c43854a33c7b157410328ab0465957dbcd2ba30ce8fc13d90e1466b3
+
+#EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png",Zee TV HD
+#EXTVLCOPT:http-user-agent=@StreamFlex19
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b
-#EXTVLCOPT:http-user-agent=@StreamFlex19
-#EXTHTTP:{"cookie":"__hdnea__=st=1775162438~exp=1775184038~acl=/*~hmac=f110f00e730c5a20ce74e3abb1d7d402251dd4ffc591854f88b521e1ff61d523"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd?__hdnea__=st=1775162438~exp=1775184038~acl=/*~hmac=f110f00e730c5a20ce74e3abb1d7d402251dd4ffc591854f88b521e1ff61d523&xxx=%7Ccookie=__hdnea__=st=1775162438~exp=1775184038~acl=/*~hmac=f110f00e730c5a20ce74e3abb1d7d402251dd4ffc591854f88b521e1ff61d523
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1775184338~exp=1775205938~acl=/*~hmac=23e4b076c43854a33c7b157410328ab0465957dbcd2ba30ce8fc13d90e1466b3"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd?__hdnea__=st=1775184338~exp=1775205938~acl=/*~hmac=23e4b076c43854a33c7b157410328ab0465957dbcd2ba30ce8fc13d90e1466b3&xxx=%7Ccookie=__hdnea__=st=1775184338~exp=1775205938~acl=/*~hmac=23e4b076c43854a33c7b157410328ab0465957dbcd2ba30ce8fc13d90e1466b3
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Movies",Zee Talkies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e370273ac0f521c8ee529a886f2dc06:c2bc9f42751680a68c006986fbf2f039
+#EXTINF:-1 tvg-id="1746" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeePowerHD.png",Zee Power HD
 #EXTVLCOPT:http-user-agent=@StreamFlex19
-#EXTHTTP:{"cookie":"__hdnea__=st=1775162438~exp=1775184038~acl=/*~hmac=f110f00e730c5a20ce74e3abb1d7d402251dd4ffc591854f88b521e1ff61d523"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1775162438~exp=1775184038~acl=/*~hmac=f110f00e730c5a20ce74e3abb1d7d402251dd4ffc591854f88b521e1ff61d523&xxx=%7Ccookie=__hdnea__=st=1775162438~exp=1775184038~acl=/*~hmac=f110f00e730c5a20ce74e3abb1d7d402251dd4ffc591854f88b521e1ff61d523
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4324ba5158d3536fa799f5a21a321bf5:688474553bec43448f55ec88c34c9bb1
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1775184338~exp=1775205938~acl=/*~hmac=23e4b076c43854a33c7b157410328ab0465957dbcd2ba30ce8fc13d90e1466b3"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeePowerHD_BTS/output/index.mpd?__hdnea__=st=1775184338~exp=1775205938~acl=/*~hmac=23e4b076c43854a33c7b157410328ab0465957dbcd2ba30ce8fc13d90e1466b3&xxx=%7Ccookie=__hdnea__=st=1775184338~exp=1775205938~acl=/*~hmac=23e4b076c43854a33c7b157410328ab0465957dbcd2ba30ce8fc13d90e1466b3
 
 #EXTINF:-1 tvg-id="60751" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Kids 24/7",24X7 - COCOMELON
 https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=60751
