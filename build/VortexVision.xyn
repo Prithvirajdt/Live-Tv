@@ -463,11 +463,6 @@ https://alex4528.site/jplus/oOOLOO1ioOOLiiI1lOlloi/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/lOOLooL0lOlliiI1lOll00/manifest.mpd
 
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_11.png",PM e Vidya 11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oOlll0LoO1lliiI1lOi1il/manifest.mpd
-
 #EXTINF:-1 group-title="Devotional" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png",Santvani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
@@ -517,11 +512,6 @@ https://alex4528.site/jplus/oii1000ILIlliio1lOOLii/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/LILLoilolOOLiio1lOOL0i/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_12.png",PM e Vidya 12
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LIiLO0o1LIi1iio1lO0Ioo/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png",Samachar Today
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -751,11 +741,6 @@ https://alex4528.site/jplus/lOOLOILolO0IooIolOi1O0/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/LIOL0io1lOi1ooIolOio/manifest.mpd
-
-#EXTINF:-1 group-title="Devotional" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadvidya_TV.png",Sadvidya TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOi1oO0iLIi1ooIolOOLio/manifest.mpd
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Fashion_India.png",Fashion India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1028,96 +1013,6 @@ https://alex4528.site/jplus/LILLooiLoi0IlOL1lOi1ii/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/oi0IooI0O1i1lOL1lOi10l/manifest.mpd
 
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_23.png",DD Swayam Prabha 23
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOi1LIOLO1lllOL1lOi1io/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_24.png",DD Swayam Prabha 24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oi0I00looi0IlOL1lOi10i/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_25.png",DD Swayam Prabha 25
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oO1ilOo1O1lllOL1lOOLil/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_26.png",DD Swayam Prabha 26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LIi10i0ILIi1lOL1lOOLii/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_27.png",DD Swayam Prabha 27
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oiiL0lL0O1lllOL1lOOLoo/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_28.png",DD Swayam Prabha 28
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOiLlOL1oOOLlOL1lOOLlO/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_29.png",DD Swayam Prabha 29
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LI0IooIoLI0IlOL1lOOLO0/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_30.png",DD Swayam Prabha 30
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOi1oO0Loii1lOL1lOOL0l/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_31.png",DD Swayam Prabha 31
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1i10iI0LI0IlOL1lOOLoi/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_32.png",DD Swayam Prabha 32
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1i1iiL0oOi1lOL1lOOL00/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_33.png",DD Swayam Prabha 33
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LI0I1o0LlO0IlOL1lOOLio/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_34.png",DD Swayam Prabha 34
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1IO0lIoLIlllOL1lOOL0i/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_35.png",DD Swayam Prabha 35
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oOll0liLoii1lOL1lO0Iil/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_36.png",DD Swayam Prabha 36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LI0IO001oOOLlOL1lO0Iii/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_37.png",DD Swayam Prabha 37
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1IO0lo1oOi1lOL1lO0Ioo/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_38.png",DD Swayam Prabha 38
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LI0IlOI1lO0IlOL1lO0IlO/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_39.png",DD Swayam Prabha 39
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LILLLOLoO1i1lOL1lO0IO0/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_SWAYAM_PRABHA_40.png",DD Swayam Prabha 40
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOLL1oOLoi0IlOL1lO0I0l/manifest.mpd
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AWSN.png",All Women's Sports Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
@@ -1350,66 +1245,6 @@ https://alex4528.site/jplus/oOOLoOOLoOOLlOiLlOio/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/oOOL00IooOOLlO01lOIo/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_1.png",PM e Vidya 01
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oi0ILOLoLIOLO0IolOil/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png",Swayam Prabha 19
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oOi1oi01lOllO0IolOO0/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_2.png",PM e Vidya 02
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oi1ioO1ilOllO0IolOio/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png",Swayam Prabha 20
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LILLoiL0oOOLO0IolOIo/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_7.png",PM e Vidya 07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LI0I0lL0LIOLO0IoLIil/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_3.png",PM e Vidya 03
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LILLoo0IoOi1O0IoLIO0/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_4.png",PM e Vidya 04
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOIOLIOLoii1O0IoLIio/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_5.png",PM e Vidya 05
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oi1iO001oi0IO0IoLIIo/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_6.png",PM e Vidya 06
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oi0IoO0ioiOLO0IoO1il/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/_evidya_8.png",PM e Vidya 08
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oOi1il01LIOLO0IoO1O0/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_9.png",PM e Vidya 09
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1ll0i0IoOi1O0L1lOil/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_10.png",PM e Vidya 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LIlloO1ioi0IO0L1lOO0/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png",Wion
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1852,106 +1687,6 @@ https://alex4528.site/jplus/oi1ilOI0LI0I0io1lOIo/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/LILLO0iLoOOL0iL0lOio/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png",Swayam Prabha 01
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oiOLlOiLO1ll0i01lOil/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_02.png",Swayam Prabha 02
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOLLooloLIll0i01lOO0/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png",Swayam Prabha 03
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1IOl01ilOOL0i01lOio/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_08.png",Swayam Prabha 08
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOlloiIolOll0i01lOIo/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_04.png",Swayam Prabha 04
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oO1iOOOiLIi10i01LIil/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_07.png",Swayam Prabha 07
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oi0I0iL1oii10i01LIO0/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_05.png",Swayam Prabha 05
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOllO0I1O1i10i01LIio/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_06.png",Swayam Prabha 06
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LIi1ioIolOll0i01LIIo/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_09.png",Swayam Prabha 09
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1lloO1ioi0I0i01O1il/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_10.png",Swayam Prabha 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lO0Il00ilOll0i01O1O0/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_11.png",Swayam Prabha 11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1i10LOiLIll0ilolOil/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png",Swayam Prabha 12
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1lloO0LoiOL0ilolOO0/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_13.png",Swayam Prabha 13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oOOLoi01oi0I0ilolOio/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_14.png",Swayam Prabha 14
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oi1iiiiLoOll0ilolOIo/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_16.png",Swayam Prabha 16
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lO1iiiI0lOll0iloLIil/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_15.png",Swayam Prabha 15
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1LLiiL1oi0I0iloLIO0/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_17.png",Swayam Prabha 17
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LI0IOOOLoOOL0iloLIio/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_21.png",Swayam Prabha 21
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oiiLLO0ioiOL0iloLIIo/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_22.png",Swayam Prabha 22
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oii1Ii0iLIOL0iloO1il/manifest.mpd
-
-#EXTINF:-1 group-title="Educational" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_18.png",Swayam Prabha 18
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOiL0l0IO1ll0iloO1O0/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
 https://alex4528.site/jplus/O1i1O0L0O1i1O001lOio/manifest.mpd
