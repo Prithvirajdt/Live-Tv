@@ -1,14 +1,5 @@
 #EXTM3U
 
-# -- #EXTINF:-1 tvg-id="20359" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCj-A1nCwvy0a1Voo12QRwJXh-zBC8RSCrUQ&s" group-title="Entertainment",COMEDY CENTRAL  
-# -- https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1947
-
-# -- #EXTINF:-1 tvg-id="44157" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/43947.jpg" group-title="Entertainment",SONY KAL
-# -- https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=44157
-
-# -- #EXTINF:-1 tvg-id="1932" tvg-logo="https://tatatv.cc/stalker_portal/misc/logos/320/1849.png" group-title="Kids",BOOMERANG
-# -- https://tatatvbysufiyan.pages.dev/tatatv.m3u8?id=1932
-
 # --------------------------------------------------
 
 #EXTINF:-1 tvg-id="Dangal.in" tvg-name="Dangal" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal_16x9.jpg" group-title="Entertainment",Dangal
