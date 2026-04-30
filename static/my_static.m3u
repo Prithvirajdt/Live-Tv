@@ -128,7 +128,7 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 #EXTINF:-1 tvg-id="176" tvg-chno="176" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C176-1770662594.png" tvg-language="en" group-title="Live",Power Rangers
 https://mumbai-edge.smartplaytv.in/powerrangers/index.m3u8
  # --------------------------------------------------
-#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png" group-title="Kids" ,Sony Yay Hindi
+#EXTINF:-1 tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png" group-title="Kids" ,Sony Yay Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/hdntl=exp=1777602543~acl=%2f*~id=fd28eddd-4568-4435-aa6f-27f1dc4282bd~data=hdntl~hmac=8321e0418af019d4e35ebc1df0a2a5348541db2edd56c763130e4cc54d4a9a95/master_3500.m3u8
  # --------------------------------------------------
