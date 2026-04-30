@@ -113,7 +113,11 @@ https://a3c4ecbd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ3
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
 
 # --------------------------------------------------
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbuZdRu7HgfZsrhEdh4lU8xhtv_8vtGX74ZA&s" group-title="Entertainment",Alright Tv
+http://103.180.212.191:3500/live/3492.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png" group-title="Entertainment",Swastik Stories
+http://103.180.212.191:3500/live/3401.m3u8
 
 # --------------------------------------------------
 
@@ -121,7 +125,8 @@ https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
  # --------------------------------------------------
-
+#EXTINF:-1 tvg-id="176" tvg-chno="176" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C176-1770662594.png" tvg-language="en" group-title="Live",Power Rangers
+https://mumbai-edge.smartplaytv.in/powerrangers/index.m3u8
  # --------------------------------------------------
 
  # --------------------------------------------------
