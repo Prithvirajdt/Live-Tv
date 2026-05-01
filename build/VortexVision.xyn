@@ -1605,11 +1605,6 @@ https://alex4528.site/jplus/LILLOO1iO1llioo1LIio/manifest.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
 https://alex4528.site/jplus/lOi100I0oiOLioo1O1il/manifest.mpd
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png",Sony Yay Hindi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/LI1ioOOLlOi1ioL0lOio/manifest.mpd
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
@@ -2016,6 +2011,10 @@ https://jmp2.uk/stvp-IN4600004HW
 #EXTINF:-1 tvg-id="63651" tvg-name="Crime Scene TV" group-title="Entertainment", Crime Scene TV
 https://jmp2.uk/stvp-IN24000030L
 
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png" group-title="Kids",Sony Yay Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/hdntl=exp=1777645864~acl=%2f*~id=b27d2482-0287-42d8-af15-470397faa7ed~data=hdntl~hmac=c89db728ca24f0307a0f968f96d718a00ec965d9f77c66c401254f4d5c97c69b/master_3500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTIO0pB.png" group-title="Live",the rookie
 http://hardcoremedia.xyz/live/evhbaehp/4765328881/251606.m3u8
