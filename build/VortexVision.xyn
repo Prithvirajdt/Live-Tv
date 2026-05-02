@@ -2012,39 +2012,5 @@ https://jmp2.uk/stvp-IN4600004HW
 https://jmp2.uk/stvp-IN24000030L
 
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png" group-title="Kids",Sony Yay Hindi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/hdntl=exp=1777645864~acl=%2f*~id=b27d2482-0287-42d8-af15-470397faa7ed~data=hdntl~hmac=c89db728ca24f0307a0f968f96d718a00ec965d9f77c66c401254f4d5c97c69b/master_3500.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cTIO0pB.png" group-title="Live",the rookie
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/251606.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iyipNNN.png" group-title="Live",black clover
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/251631.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1ZY3ot6.png" group-title="Live",demon slayer
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/251641.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8v6aZwF.png" group-title="Live",that time i got reincarnated as a slime
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/251679.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lz8RInG.png" group-title="Live",game of thrones
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/251902.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uVqcb1P.png" group-title="Live",ben 10 alien force
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/252134.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hv3Iif.png" group-title="Live",ben 10 omniverse
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/252135.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UYEVad1.png" group-title="Live",ben 10 ultimate alien
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/252136.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gx0UM9W.png" group-title="Live",marvels avengers assemble
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/252206.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/92z0xzD.png" group-title="Live",ultimate spider-man
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/252289.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ykpKia6.png" group-title="Live",ben 10 (2016)
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/252511.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qw9yMvl.png" group-title="Live",ben 10 original
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/252512.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MbnHVfH.png" group-title="Live",suits
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/252613.m3u8
-#EXTINF:-1 tvg-logo="https://bananamuncher.com:443/images/Z3FTtckYsGgX7p6_pYOC6MndFtJNWuvZEwI9gI4yFgkWOTaG_uhfft-uYofrpaNYfbrCJ4lK6zuz-yKN0Bv1zcq-3HvmPslHlCzYktbCCVw.jpg" group-title="Live",the simpsons
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/262209.m3u8
-#EXTINF:-1 tvg-logo="https://bananamuncher.com:443/images/Z3FTtckYsGgX7p6_pYOC6MndFtJNWuvZEwI9gI4yFgmxJJzCH_IAI2VT49Uv1aQexP2jT-pDStF4yZQ6BiMj8nlFiSYCJ_DHKFMCBUcgVtE.jpg" group-title="Live",family guy
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/262428.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dGxADGX.png" group-title="Live",battlebots
-http://hardcoremedia.xyz/live/evhbaehp/4765328881/252640.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="1000001971" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png", Sony Yay
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1777786168~acl=/*~id=58971032485538420042374517923450~hmac=b1a41b95d5b86d9b61709a768422d2577837f7342c6e6d47513c5f414428baab
