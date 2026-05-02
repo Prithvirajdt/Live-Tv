@@ -53,12 +53,10 @@ jobs:
           SRC_JTV:     ${{ secrets.SRC_JTV }}
           SRC_LGTV:    ${{ secrets.SRC_LGTV }}
           SRC_SONY:    ${{ secrets.SRC_SONY }}
-          SRC_LIVE:    ${{ secrets.SRC_LIVE }}
         run: |
           wget -q -O sources/jtv.m3u      "$SRC_JTV"
           wget -q -O sources/lgtv.m3u     "$SRC_LGTV"
           wget -q -O sources/sony.m3u     "$SRC_SONY"
-          wget -q -O sources/live.m3u     "$SRC_LIVE"
 
       # --------------------------------------------------
       # STEP 5: BUILD MASTER PLAYLIST
@@ -96,13 +94,6 @@ jobs:
           # ==================================================
           if [ -f sources/sony.m3u ]; then
             sed '1d' sources/sony.m3u >> build/VortexVision.tmp
-          fi
-
-          # --------------------------------------------------
-          # LIVE
-          # --------------------------------------------------
-          if [ -f sources/live.m3u ]; then
-            sed '1d' sources/live.m3u >> build/VortexVision.tmp
           fi
 
           # --------------------------------------------------
