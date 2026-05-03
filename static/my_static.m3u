@@ -39,13 +39,13 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 # -- #EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Whkp6bmMZ0wSBHYTnh9U6gATn6b5noRkFBSP5ECLvfV5rhnNLSnRaYQ5&s=10" group-title="Entertainment",Epic TV
 # -- https://jmp2.uk/stvp-IN17000109O
 
-#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_29_41-AM-1-185x278.png" group-title="Movies", Bollywood Movies
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9ed3faf6a5383562493914972671ac07e43794f1c9a4dc5a576328207393d1d8.png" group-title="Movies", Bollywood Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://c.kmpr.in/assets/tv_channels_150/7176.jpg" group-title="Movies", Hollywood Desi
 https://cc-u6hadnoh0u6td.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u6hadnoh0u6td/OTM/OTM_HollywoodActionHindi-SCTE_SAMSUNG/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-01_58_56-PM-1-200x300.png" group-title="Movies", South Station
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtmaRP1HxOEz4AYTtDXy_RnsDthXjgiVBby73P8HeMthIcBdoJwkY2AF421gnk-944y2Xv0W=s900-c-k-c0x00ffffff-no-rj" group-title="Movies", South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
 # --------------------------------------------------
