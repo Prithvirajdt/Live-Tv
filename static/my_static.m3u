@@ -125,9 +125,14 @@ http://103.180.212.191:3500/live/3401.m3u8
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
  # --------------------------------------------------
+
 #EXTINF:-1 tvg-id="176" tvg-chno="176" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C176-1770662594.png" tvg-language="en" group-title="Live",Power Rangers
 https://mumbai-edge.smartplaytv.in/powerrangers/index.m3u8
+
  # --------------------------------------------------
+
+#EXTINF:-1 tvg-id="DDNews.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0PT0oOY7sp7gTBf1g8FKx3227mG1IuPCs6A&s" group-title="News",DD News
+https://cdn-2.pishow.tv/live/12/master.m3u8
 
  # --------------------------------------------------
 
@@ -178,13 +183,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
 # --------------------------------------------------
 
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/ShowBox_TV_logo.png",Show BOX
+#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://www.epiccompany.com/assets/img/EPIC_MUSIC.png",Epic Music
 http://103.175.73.12:8080/live/469/469_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Entertainment",Manoranjan Prime
 http://103.175.73.12:8080/live/345/345_0.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/The_Q-TV.png",Q TV
+#EXTINF:-1 tvg-id="" group-title="Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrHs6r_trNJz1JllMK2a5_KwFJBwElTWl-w&s",Q TV
 http://103.175.73.12:8080/live/25/25_0.m3u8
 
 # --------------------------------------------------
