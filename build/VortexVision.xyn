@@ -1644,6 +1644,11 @@ https://alex4528.site/jplus/O1llLOOLoOi1iololOO0/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/LIi1O0IoLIOL0iIolOIo/manifest.mpd
 
+#EXTINF:-1 group-title="News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png",Bharat Samachar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
+https://alex4528.site/jplus/oii1oO0ilO0I0iL1O1il/manifest.mpd
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Anjan_TV.png",Anjan TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
@@ -1721,9 +1726,6 @@ https://alex4528.site/jplus/oii10lI0lOOLio01LIIo/manifest.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD Hindi
 https://alex4528.site/jplus/lOlloOOioOi1iololOio/manifest.mpd
 
-#EXTINF:-1 group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/livesamacharbharat.png",Live Samachar Bharat
-https://alex4528.site/jplus/LIiLLO1ioOOL0io1lOO0/manifest.mpd
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arre.png",Arre HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
@@ -1733,9 +1735,6 @@ https://alex4528.site/jplus/O1llio01oiOL0iiLlOIo/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/lOiLLOOLLIi1iiL1O1i1oo/manifest.mpd
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U Kadak
-https://alex4528.site/jplus/O1LLooL1LIOLiiI0O1i10l/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",Colors Infinity SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1767,16 +1766,25 @@ https://alex4528.site/jplus/lOllOO0LO1lliio1lO0I00/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/oOi1ooiLlOi1iiL0O1llil/manifest.mpd
 
+#EXTINF:-1 group-title="Devotional" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/adhyatmatv.png",Adhyatam TV
+https://alex4528.site/jplus/LIOLil01lO0IiilolOllii/manifest.mpd
+
 #EXTINF:-1 group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_Nation.png",Bharat Nation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/lOOL1oOLO1i1lOIoLIOL0l/manifest.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrbol.png",Shemaroo Bollywood
+https://alex4528.site/jplus/oiiLLI0ioOOLlOIoLI0I0l/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png",NH BollyFlix
 https://alex4528.site/jplus/LIi10ilooi0IlO0IlO0Ioi/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png",NH BollyGold
 https://alex4528.site/jplus/LILLO0lolOOLlO0IlO0Iio/manifest.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png",NH BollyRaga
+https://alex4528.site/jplus/oOi10l0IlOlllO0ILIlllO/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png",Yahoo Finance
 https://alex4528.site/jplus/oOlllO0ILI0IlO0ILIlloi/manifest.mpd
@@ -1785,32 +1793,6 @@ https://alex4528.site/jplus/oOlllO0ILI0IlO0ILIlloi/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
 https://alex4528.site/jplus/LIOLOO1ioOOLlO0ILIOLio/manifest.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png",Sony LIV Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/lOiLlOIooOlllO0ILI0Ioo/manifest.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png",Sony LIV Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/oOlloO0LlOi1lO0ILI0IlO/manifest.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png",Sony LIV Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1lll01iO1i1lO0ILI0IO0/manifest.mpd
-
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png",INTRAVEL
-https://alex4528.site/jplus/LIIOl00LoOlllO0IO1i1oo/manifest.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png",Sony LIV Sports 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://alex4528.site/jplus/license
-https://alex4528.site/jplus/O1LLlO0IlOlllO0IO1i10i/manifest.mpd
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png",Green Gold TV
-https://alex4528.site/jplus/O1IOO00Ioi0IlOI1LIOL00/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IndiaAhead.png",India Ahead
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1881,6 +1863,10 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Movies",Zee Cine Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_KADAK/kadak_logo_resized_400x200.png" group-title="Movies",B4U Kadak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
+https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/best-thriller/logo/Best-thriller-400x200.png" group-title="Movies",BEST-THRILLER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
