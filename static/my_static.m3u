@@ -48,10 +48,7 @@ https://cc-u6hadnoh0u6td.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtmaRP1HxOEz4AYTtDXy_RnsDthXjgiVBby73P8HeMthIcBdoJwkY2AF421gnk-944y2Xv0W=s900-c-k-c0x00ffffff-no-rj" group-title="Movies", South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
-# --------------------------------------------------
-
-#EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Entertainment",Big Magic
-https://mumt05.tangotv.in/BIGMAGIC/index.mpd
+# -----------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s160-c-k-c0x00ffffff-no-rj" group-title="Movies",All Time Movies
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
